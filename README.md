@@ -1,10 +1,12 @@
 
-### Hey 👋
+
+### Hey 👋 Welecome to Github account of Tibin Thomas  
 
 
-**tibinthomas9/tibinthomas9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **tibinthomas9/tibinthomas9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:  -->
 
-Here are some ideas to get you started:
+
 
 - 🔭  [Personal Website](https://tibinthomas9.github.io/) 
 - 🔭  [Work account](https://github.com/experion-tibin) 
