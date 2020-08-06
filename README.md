@@ -1,6 +1,6 @@
 
 
-### Hey 👋 Welecome to Github account of Tibin Thomas  
+### Hey 👋 Welcome to Github account of Tibin Thomas  
 
 
 <!-- **tibinthomas9/tibinthomas9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
