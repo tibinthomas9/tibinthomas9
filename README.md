@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭  [Personal Website]([https://tibinthomas9.github.io/](https://tibinthomas9.github.io/) 
+- 🔭  [Personal Website](https://tibinthomas9.github.io/](https://tibinthomas9.github.io/) 
 - 🔭  [Work account](https://github.com/experion-tibin) 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
