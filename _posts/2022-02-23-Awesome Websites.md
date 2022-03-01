@@ -162,6 +162,10 @@ https://www.windy.com/
 *  https://sciurls.com/
 *  https://www.woot.com/
 *  https://www.amazon.com/Outlet/
+*  https://strobe.cool/
+*  https://zoom.earth/
+*  https://www.illusionsindex.org/
+*  https://neave.com/
 
 
 
