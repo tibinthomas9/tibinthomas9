@@ -16,7 +16,6 @@ Here are some ideas to get you started:  -->
 - 👯 I’m looking to collaborate on open source startup ideas
 - 🤔 I’m looking for help with building ideas into product
 - 💬 Ask me about ...
-- 📫 How to reach me: [Twitter](https://twitter.com/tibinT9)
-- 😄
+- 📫 How to reach me: [Twitter](https://twitter.com/tibinT9) �
 - ⚡ Fun fact: everything is funny if you can laugh at it
 
