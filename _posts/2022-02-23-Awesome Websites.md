@@ -166,6 +166,8 @@ https://www.windy.com/
 *  https://zoom.earth/
 *  https://www.illusionsindex.org/
 *  https://neave.com/
+*  https://hackernoon.com/19-github-repositories-to-make-you-a-10x-developer?source=rss
+*  https://opensky-network.org/
 
 
 
