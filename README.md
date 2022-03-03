@@ -9,7 +9,7 @@ Here are some ideas to get you started:  -->
 
 
 - 🔭  [Personal Website](https://tibinthomas9.github.io/) 
-- 🔭  [Work account](https://github.com/experion-tibin) 
+- 🔭  [Ex Work account](https://github.com/experion-tibin) 
 - [Awesome websites](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/2022-02-23-Awesome%20Websites.md)
 - 😄 [Stackoverflow](https://stackoverflow.com/users/8181347/tibin-thomas)
 - [Medium blogs](https://medium.com/@tibinmutholy)
