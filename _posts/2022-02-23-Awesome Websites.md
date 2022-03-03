@@ -169,6 +169,7 @@ https://www.windy.com/
 *  https://hackernoon.com/19-github-repositories-to-make-you-a-10x-developer?source=rss
 *  https://opensky-network.org/
 *  https://twitter.com/arvindravich/status/1499100506643443712
+*  https://www.jobscan.co/
 
 
 
