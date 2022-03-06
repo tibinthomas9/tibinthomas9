@@ -177,6 +177,7 @@ https://www.windy.com/
 *  https://devutils.app/
 *  https://www.producthunt.com/time-travel?ref=header_nav
 *  https://ai.google/education/
+*  https://www.quastor.org/
 
 
 
