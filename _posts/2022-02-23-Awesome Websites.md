@@ -173,6 +173,7 @@ https://www.windy.com/
 *  https://www.genome.gov/Funded-Programs-Projects/ENCODE-Project-ENCyclopedia-Of-DNA-Elements
 *  https://housestockwatcher.com/
 *  https://golden.com/explore
+*  https://golden.xyz/
 
 
 
