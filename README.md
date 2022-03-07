@@ -8,8 +8,7 @@ Here are some ideas to get you started:  -->
 
 
 
-- 🔭  [Personal Website](https://tibinthomas9.github.io/) 
-- 🔭  [Ex Work account](https://github.com/experion-tibin) 
+- 🔭  [Personal Website](https://tibinthomas9.github.io/)  
 - [Awesome websites](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/2022-02-23-Awesome%20Websites.md)
 - 😄 [Stackoverflow](https://stackoverflow.com/users/8181347/tibin-thomas)
 - [Medium blogs](https://medium.com/@tibinmutholy)
@@ -21,4 +20,5 @@ Here are some ideas to get you started:  -->
 - 📫 How to reach me: [Twitter](https://twitter.com/tibinT9) �
 - ⚡ Fun fact: everything is funny if you can laugh at it
 - [Barebone portfolio site done as part of college work](https://comp229assign01.herokuapp.com/aboutme) Just keeping in here in case i forgets the path
+- 🔭  [Old Work account](https://github.com/experion-tibin)
 
