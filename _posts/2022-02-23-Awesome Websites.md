@@ -18,7 +18,6 @@
    - [Economics](#Economics)
    - [Engineering](#Engineering)
    -  [Film](#Film)
-   - [General](#General)
     - [Geography](#Geography)
    - [History](#History)
    - [Literature](#Literature)
@@ -27,6 +26,61 @@
    - [Philosophy](#Philosophy)
    - [Physics](#Physics)
    - [Psychology](#Psychology)
+
+
+
+## General
+
+* [statista](https://www.statista.com)
+* [ifitweremyhome](http://www.ifitweremyhome.com) - compare living conditions in your own country to those of another
+* [thetruesize](https://thetruesize.com/)
+* [windy](https://www.windy.com/) - provide webcam view of places and also weather details
+*  [theglobaleconomy](https://www.theglobaleconomy.com/) - provide up-to-date numbers for GDP, inflation, credit, interest rates, employment, and many other indicators
+* [populationpyramid](https://www.populationpyramid.net/) - provide age, gender wise details of population
+*  [George Hotz blog](https://geohot.github.io/blog/) -  hacker,   comma ai self driving cars 
+*  [First website](http://info.cern.ch/hypertext/WWW/TheProject.html) -  first website in the world   
+*  https://explorabl.es/
+*  https://ncase.me/
+*  https://www.geocaching.com/play
+*  https://www.rainymood.com/
+*  https://www.reddit.com/r/InternetIsBeautiful/
+*  http://radio.garden/
+*  https://savecrate.com/all
+*  https://exp-infinite-passerella.lusion.co/
+*  https://threejs.org/
+*  https://justforfun.io/
+*  http://histropedia.com/timeline-everything.html
+*  https://www.gapminder.org/dollar-street?min=203&topic=homes
+*  https://driveandlisten.herokuapp.com/
+*  https://www.exnge.com/
+*  https://sciurls.com/
+*  https://www.woot.com/
+*  https://www.amazon.com/Outlet/
+*  https://strobe.cool/
+*  https://zoom.earth/
+*  https://www.illusionsindex.org/
+*  https://neave.com/
+*  https://hackernoon.com/19-github-repositories-to-make-you-a-10x-developer?source=rss
+*  https://opensky-network.org/
+*  https://twitter.com/arvindravich/status/1499100506643443712
+*  https://www.jobscan.co/
+*  https://www.genome.gov/Funded-Programs-Projects/ENCODE-Project-ENCyclopedia-Of-DNA-Elements
+*  https://housestockwatcher.com/
+*  https://golden.com/explore
+*  https://golden.xyz/
+*  https://devutils.app/
+*  https://www.producthunt.com/time-travel?ref=header_nav
+*  https://ai.google/education/
+*  https://www.quastor.org/
+*  https://www.worldometers.info/
+
+
+
+
+ 
+
+
+
     
       
    ### *Other Languages*
@@ -135,56 +189,6 @@
 ## Simulation
 https://www.windy.com/
  
-## General
-
-* [statista](https://www.statista.com)
-* [ifitweremyhome](http://www.ifitweremyhome.com) - compare living conditions in your own country to those of another
-* [thetruesize](https://thetruesize.com/)
-* [windy](https://www.windy.com/) - provide webcam view of places and also weather details
-*  [theglobaleconomy](https://www.theglobaleconomy.com/) - provide up-to-date numbers for GDP, inflation, credit, interest rates, employment, and many other indicators
-* [populationpyramid](https://www.populationpyramid.net/) - provide age, gender wise details of population
-*  [George Hotz blog](https://geohot.github.io/blog/) -  hacker,   comma ai self driving cars 
-*  [First website](http://info.cern.ch/hypertext/WWW/TheProject.html) -  first website in the world   
-*  https://explorabl.es/
-*  https://ncase.me/
-*  https://www.geocaching.com/play
-*  https://www.rainymood.com/
-*  https://www.reddit.com/r/InternetIsBeautiful/
-*  http://radio.garden/
-*  https://savecrate.com/all
-*  https://exp-infinite-passerella.lusion.co/
-*  https://threejs.org/
-*  https://justforfun.io/
-*  http://histropedia.com/timeline-everything.html
-*  https://www.gapminder.org/dollar-street?min=203&topic=homes
-*  https://driveandlisten.herokuapp.com/
-*  https://www.exnge.com/
-*  https://sciurls.com/
-*  https://www.woot.com/
-*  https://www.amazon.com/Outlet/
-*  https://strobe.cool/
-*  https://zoom.earth/
-*  https://www.illusionsindex.org/
-*  https://neave.com/
-*  https://hackernoon.com/19-github-repositories-to-make-you-a-10x-developer?source=rss
-*  https://opensky-network.org/
-*  https://twitter.com/arvindravich/status/1499100506643443712
-*  https://www.jobscan.co/
-*  https://www.genome.gov/Funded-Programs-Projects/ENCODE-Project-ENCyclopedia-Of-DNA-Elements
-*  https://housestockwatcher.com/
-*  https://golden.com/explore
-*  https://golden.xyz/
-*  https://devutils.app/
-*  https://www.producthunt.com/time-travel?ref=header_nav
-*  https://ai.google/education/
-*  https://www.quastor.org/
-
-
-
-
- 
-
-
 
 
 ## # Geography 
