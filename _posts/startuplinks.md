@@ -21,3 +21,4 @@
 * https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0
 * https://www.quastor.org/
 * https://seanprashad.com/leetcode-patterns/
+* https://github.com/vsouza/awesome-ios#architecture-patterns
