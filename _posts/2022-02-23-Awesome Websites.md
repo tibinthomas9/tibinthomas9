@@ -114,6 +114,7 @@
  [Artificial Intelligence ](#Artificial-Intelligence)
  [Coding Basics](#Coding-Basics)
  * [algocademy](https://www.algocademy.com)
+ * https://twitter.com/onmyway133/status/1500863857257975809?s=20&t=eAM-rnE32cuMWGG6P7gikQ
 
 
  [Courses](#Courses)
