@@ -113,9 +113,12 @@
 
 
  [Artificial Intelligence ](#Artificial-Intelligence)
+ 
+ 
  [Coding Basics](#Coding-Basics)
  * [algocademy](https://www.algocademy.com)
  * https://twitter.com/onmyway133/status/1500863857257975809?s=20&t=eAM-rnE32cuMWGG6P7gikQ
+ * https://www.crio.do/blog/data-structures-interview-questions/
 
 
  [Courses](#Courses)
@@ -172,7 +175,7 @@
 https://twitter.com/Infinitians1/status/1500813267547033602?s=20&t=lLk_fyY2PVJmKfmS2Gmp0g
 
 ## Media
-https://twitter.com/Infinitians1/status/1500813267547033602?s=20&t=lLk_fyY2PVJmKfmS2Gmp0g
+
  
 
 
