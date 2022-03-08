@@ -122,6 +122,8 @@
  * https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
  * https://github.com/kdn251/interviews
  * https://medium.com/basecs
+ * https://github.com/donnemartin/system-design-primer
+ * https://www.techinterviewhandbook.org/
 
 
  [Courses](#Courses)
