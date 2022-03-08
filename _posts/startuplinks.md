@@ -22,3 +22,4 @@
 * https://www.quastor.org/
 * https://seanprashad.com/leetcode-patterns/
 * https://github.com/vsouza/awesome-ios#architecture-patterns
+* https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/2022-02-23-Awesome%20Websites.md
