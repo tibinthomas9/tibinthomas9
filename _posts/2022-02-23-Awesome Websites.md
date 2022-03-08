@@ -120,6 +120,7 @@
  * https://twitter.com/onmyway133/status/1500863857257975809?s=20&t=eAM-rnE32cuMWGG6P7gikQ
  * https://www.crio.do/blog/data-structures-interview-questions/
  * https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+ * https://github.com/kdn251/interviews
 
 
  [Courses](#Courses)
