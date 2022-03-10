@@ -18,7 +18,7 @@
    - [Economics](#Economics)
    - [Engineering](#Engineering)
    -  [Film](#Film)
-    - [Geography](#Geography)
+   - [Geography](#Geography)
    - [History](#History)
    - [Literature](#Literature)
    - [Mathematics](#Mathematics)
@@ -37,7 +37,6 @@
 * [windy](https://www.windy.com/) - provide webcam view of places and also weather details
 *  [theglobaleconomy](https://www.theglobaleconomy.com/) - provide up-to-date numbers for GDP, inflation, credit, interest rates, employment, and many other indicators
 * [populationpyramid](https://www.populationpyramid.net/) - provide age, gender wise details of population
-*  [George Hotz blog](https://geohot.github.io/blog/) -  hacker,   comma ai self driving cars 
 *  [First website](http://info.cern.ch/hypertext/WWW/TheProject.html) -  first website in the world   
 *  https://explorabl.es/
 *  https://ncase.me/
@@ -74,12 +73,6 @@
 *  https://www.quastor.org/
 *  https://www.worldometers.info/
 *  https://yourmorals.org/
-*  [Naval sreekant blog](https://nav.al/)
-
-
-
-
- 
 
 
 
@@ -193,8 +186,11 @@ https://twitter.com/Infinitians1/status/1500813267547033602?s=20&t=lLk_fyY2PVJmK
 
 ## Media
 
+## Blog
  
-
+* http://damagemag.com/
+* [Naval sreekant blog](https://nav.al/)
+* [George Hotz blog](https://geohot.github.io/blog/) -  hacker,   comma ai self driving cars 
 
 
 ## Philosophy 
