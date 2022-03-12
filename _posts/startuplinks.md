@@ -17,6 +17,7 @@
 * https://takeuforward.org/interviews/must-do-questions-for-dbms-cn-os-interviews-sde-core-sheet/
 * https://www.techinterviewhandbook.org/algorithms/array
 * https://medium.com/@nhudinhtuan/15-days-cheat-sheet-for-hacking-technical-interviews-at-big-tech-companies-d780717dcec1
+* https://gist.github.com/nhudinhtuan/ae2180e34b027e784c5c252631f7fe5b#file-cheat_sheet-md
 * https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 * https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0
 * https://www.quastor.org/
