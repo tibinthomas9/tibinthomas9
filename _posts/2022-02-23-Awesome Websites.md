@@ -75,6 +75,7 @@
 *  https://yourmorals.org/
 *  https://datalab.usaspending.gov/
 *  https://wisdomtheory.gumroad.com/l/100MM
+*  https://www.johncoogan.com/how-to-get-a-job/
 
 
 
