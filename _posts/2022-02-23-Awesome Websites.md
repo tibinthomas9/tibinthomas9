@@ -124,6 +124,7 @@
  * https://www.techinterviewhandbook.org/
  * https://github.com/yangshun/lago
  * https://leetcode.com/archit91/
+ * https://github.com/donnemartin/system-design-primer
 
 [iOS Interview](#iOS-Interview)
  * https://github.com/dashvlas/awesome-ios-interview/blob/master/Resources/English.md
