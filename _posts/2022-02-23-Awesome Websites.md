@@ -109,6 +109,7 @@
 ## Computer Science
 * https://github.com/chrislgarry/Apollo-11
 * https://opensource.apple.com/releases/ (Apple Open source)
+* https://stackshare.io/ (View teach stacks of big software products)
 
 
  [Artificial Intelligence ](#Artificial-Intelligence)
