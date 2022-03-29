@@ -226,6 +226,7 @@ https://twitter.com/Infinitians1/status/1500813267547033602?s=20&t=lLk_fyY2PVJmK
 
 ## Simulation
 https://www.windy.com/
+https://www.nvidia.com/en-us/omniverse/
  
 
 
