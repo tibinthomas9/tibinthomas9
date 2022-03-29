@@ -126,6 +126,7 @@
  * https://github.com/yangshun/lago
  * https://leetcode.com/archit91/
  * https://github.com/donnemartin/system-design-primer
+ * https://www.youtube.com/watch?v=tv-_1er1mWI&ab_channel=Fireship
 
 [iOS Interview](#iOS-Interview)
  * https://github.com/dashvlas/awesome-ios-interview/blob/master/Resources/English.md
