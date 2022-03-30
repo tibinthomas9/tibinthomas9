@@ -143,6 +143,9 @@
  * https://github.com/Catherine22/iOS-tutorial
  * https://codewithchris.com/swift-tutorial-complete/
  * https://github.com/DenisLitvin/iOS-Interview
+ * https://chetan-aggarwal.medium.com/ios-design-patterns-f478abd78132
+ * https://learnui.design/blog/ios-design-guidelines-templates.html
+ * https://chetan-aggarwal.medium.com/ios-interview-questions-part-1-differentiate-99e8f574a3f1
 
  
 
