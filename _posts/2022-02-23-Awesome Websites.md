@@ -130,6 +130,7 @@
  * https://www.youtube.com/watch?v=tv-_1er1mWI&ab_channel=Fireship
  * https://www.youtube.com/watch?v=oz9cEqFynHU&ab_channel=TrenBlack
  * https://refactoring.guru/design-patterns/what-is-pattern
+ * https://neetcode.io/
 
 [iOS Interview](#iOS-Interview)
  * https://github.com/dashvlas/awesome-ios-interview/blob/master/Resources/English.md
