@@ -157,6 +157,7 @@
  * https://code.tutsplus.com/series/ios-from-scratch-with-swift--cms-909
  * https://developer.apple.com/documentation/uikit
  * https://stackoverflow.com/q/62119815/8181347
+ * https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/
 
 
  
