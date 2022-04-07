@@ -158,6 +158,8 @@
  * https://developer.apple.com/documentation/uikit
  * https://stackoverflow.com/q/62119815/8181347
  * https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/
+ * https://brightdigit.com/articles/ios-software-architecture/
+ * https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/launching/
 
 
  
