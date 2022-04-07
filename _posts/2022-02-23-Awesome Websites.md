@@ -160,6 +160,7 @@
  * https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/
  * https://brightdigit.com/articles/ios-software-architecture/
  * https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/launching/
+ * https://intellipaat.com/blog/interview-question/ios-interview-questions/
 
 
  
