@@ -165,6 +165,7 @@
  * https://www.hackingwithswift.com/interview-questions
  * https://abhimuralidharan.medium.com/what-is-a-provisioning-profile-in-ios-77987a7c54c2
  * https://medium.com/lean-localization/ios-localization-tutorial-938231f9f881
+ * https://www.hackingwithswift.com/read
 
 
  
