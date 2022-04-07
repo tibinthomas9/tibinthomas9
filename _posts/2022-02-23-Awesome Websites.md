@@ -167,6 +167,7 @@
  * https://medium.com/lean-localization/ios-localization-tutorial-938231f9f881
  * https://www.hackingwithswift.com/read
  * https://qualitycoding.org/ios-unit-testing/
+ * https://www.avanderlee.com/swift/unit-tests-best-practices/
 
 
  
