@@ -174,6 +174,7 @@
  * https://www.wwdcnotes.com/
  * https://zamzam.io/creating-thread-safe-arrays-in-swift/  
  * https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/   
+ * https://twitter.com/onmyway133/status/1501951060696465410/photo/1
 
 
  
