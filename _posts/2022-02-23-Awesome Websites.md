@@ -177,7 +177,7 @@
  * https://twitter.com/onmyway133/status/1501951060696465410/photo/1
  * https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/
 
-Develop a guide for iOS which details out important structured details of iOS development which details most important things to learn like concurrency but also discuss minute non technical details like signing, app Ids,Apples recoomended way, which frameworks use target action pattern, which use singletons, which use delegates ,which use functional programming, protocol programming, key value coding and Obeserving. Varios values in plist, which functionalities need an associated permission text in plist etc
+Develop a guide for iOS which details out important structured details of iOS development which details most important things to learn like concurrency but also discuss minute non technical details like signing, app Ids,Apples recoomended way, which frameworks use target action pattern, which use singletons, which use delegates ,which use functional programming, protocol programming, key value coding and Obeserving. Various values in plist, which functionalities need an associated permission text in plist etc
 
 
  
@@ -250,6 +250,7 @@ https://twitter.com/Infinitians1/status/1500813267547033602?s=20&t=lLk_fyY2PVJmK
 
 
 ## Philosophy 
+* https://jamesclear.com/entropy
 
 
 
