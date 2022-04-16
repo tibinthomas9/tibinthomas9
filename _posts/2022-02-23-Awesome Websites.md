@@ -177,7 +177,7 @@
  * https://twitter.com/onmyway133/status/1501951060696465410/photo/1
  * https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/
 
-Develop a guide for iOS which details out important structured details of iOS development which details most important things to learn like concurrency but also discuss minute non technical details like signing, app Ids,Apples recoomended way, which frameworks use target action pattern, which use singletons, which use delegates ,which use functional programming, protocol programming, key value coding and Obeserving. Various values in plist, which functionalities need an associated permission text in plist etc
+Develop a guide for iOS which details out important structured details of iOS development which details most important things to learn like concurrency but also discuss minute non technical details like signing, app Ids,Apples recoomended way, which frameworks use target action pattern, which use singletons, which use delegates ,which use functional programming, protocol programming, key value coding and Obeserving. Various values in plist, which functionalities need an associated permission text in plist etc, when to use swift, swiftUI, ObjectiveC, when to use GCD vs Operations vs Threads, where to use value driven programing or reference types, how threads are handled in multi cores, how data gets saved during context switch, importance of ABI stability of swift, how swift, objectivec and C work together in the OS, details about POSIX features, learn from transistor
 
 
  
