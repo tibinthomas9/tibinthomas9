@@ -243,6 +243,7 @@ https://twitter.com/Infinitians1/status/1500813267547033602?s=20&t=lLk_fyY2PVJmK
 * [Naval sreekant blog](https://nav.al/)
 * [George Hotz blog](https://geohot.github.io/blog/) -  hacker,   comma ai self driving cars 
 * https://www.johncoogan.com/
+* https://jamesclear.com/entropy
 
 
 ## Philosophy 
