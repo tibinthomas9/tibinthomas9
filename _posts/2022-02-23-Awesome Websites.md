@@ -255,6 +255,7 @@ https://twitter.com/Infinitians1/status/1500813267547033602?s=20&t=lLk_fyY2PVJmK
 
 ## Philosophy 
 * https://jamesclear.com/entropy
+* “Until man learns to respect and speak to the animal world, he can never know his true role on earth”.
 
 
 
