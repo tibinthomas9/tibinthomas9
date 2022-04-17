@@ -188,6 +188,7 @@
  * https://developer.apple.com/documentation/uikit/app_and_environment/scenes/preparing_your_ui_to_run_in_the_background
  * https://brainstation.io/career-guides/ios-developer-interview-questions
  * https://koenig-media.raywenderlich.com/uploads/2020/12/RW-Swift-5.1-Cheatsheet-1.0.pdf
+ * https://github.com/raywenderlich/swift-style-guide
 
 Develop a guide for iOS which details out important structured details of iOS development which details most important things to learn like concurrency but also discuss minute non technical details like signing, app Ids,Apples recoomended way, which frameworks use target action pattern, which use singletons, which use delegates ,which use functional programming, protocol programming, event driven or reactive programing(swiftUI, combine, Rxswift), concection between functional and reactive, declarative programming, key value coding and Obeserving. Various values in plist, which functionalities need an associated permission text in plist etc, when to use swift, swiftUI, ObjectiveC, when to use GCD vs Operations vs Threads, where to use value driven programing or reference types, how threads are handled in multi cores, how data gets saved during context switch, importance of ABI stability of swift, how swift, objectivec and C work together in the OS, details about POSIX features, learn from transistor, how SoliD patterns get enforced via protocol oriented programming, how design patterns and different programing patterns work together in swift or Cocoa
 
