@@ -133,6 +133,7 @@
  * https://neetcode.io/
  * https://www.educative.io/courses/grokking-the-coding-interview
  * https://www.interviewbit.com/practice/
+ * https://igotanoffer.com/blogs/tech/polling-sse-websockets-system-design-interview#basics
 
 [iOS Interview](#iOS-Interview)
  * https://github.com/dashvlas/awesome-ios-interview/blob/master/Resources/English.md
