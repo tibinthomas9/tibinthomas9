@@ -6,8 +6,6 @@
 <!-- **tibinthomas9/tibinthomas9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:  -->
 
-<p align="left"> <img  hidden src="https://komarev.com/ghpvc/?username=tibinthomas9&label=Profile%20views&color=0e75b6&style=flat" alt="tibinthomas9"  style="display: none;"> </p>
-<img src="/img/html/parliament.jpg" hidden>
 
 
 
@@ -23,5 +21,7 @@ Here are some ideas to get you started:  -->
 - 📫 How to reach me: [Twitter](https://twitter.com/tibinT9) �
 - ⚡ Fun fact: everything is funny if you can laugh at it
 - [Barebone portfolio site done as part of college work](https://comp229assign01.herokuapp.com/aboutme) Just keeping in here in case i forgets the path
-- 🔭  [Old Work account](https://github.com/experion-tibin)
+- 🔭  [Old Work account](https://github.com/experion-tibin) <p style="display: none;" align="left"> <img  hidden src="https://komarev.com/ghpvc/?username=tibinthomas9&label=Profile%20views&color=0e75b6&style=flat" alt="tibinthomas9"  style="display: none;"> </p>
+
+
 
