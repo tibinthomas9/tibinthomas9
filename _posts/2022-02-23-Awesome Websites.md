@@ -267,6 +267,9 @@ https://twitter.com/Infinitians1/status/1500813267547033602?s=20&t=lLk_fyY2PVJmK
 
 ## Media
 
+## Medium
+* https://medium.com/my-storify/6-habits-of-effortlessly-charismatic-people-3b9a0f137ed9
+
 ## Blog
  
 * http://damagemag.com/
