@@ -273,6 +273,7 @@ https://twitter.com/Infinitians1/status/1500813267547033602?s=20&t=lLk_fyY2PVJmK
 * [George Hotz blog](https://geohot.github.io/blog/) -  hacker,   comma ai self driving cars 
 * https://www.johncoogan.com/
 * https://jamesclear.com/entropy
+* https://medium.com/@_michaellin/why-youre-not-getting-promoted-as-an-engineer-8d213f5ea0a6
 
 
 ## Philosophy 
