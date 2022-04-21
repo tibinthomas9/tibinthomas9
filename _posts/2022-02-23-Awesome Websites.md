@@ -134,6 +134,7 @@
  * https://www.educative.io/courses/grokking-the-coding-interview
  * https://www.interviewbit.com/practice/
  * https://igotanoffer.com/blogs/tech/polling-sse-websockets-system-design-interview#basics
+ * https://medium.com/@_michaellin/how-to-be-a-10x-engineer-fdac2a5a1bd5
 
 [iOS Interview](#iOS-Interview)
  * https://github.com/dashvlas/awesome-ios-interview/blob/master/Resources/English.md
