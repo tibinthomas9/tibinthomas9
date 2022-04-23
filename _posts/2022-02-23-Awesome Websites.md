@@ -136,6 +136,11 @@
  * https://igotanoffer.com/blogs/tech/polling-sse-websockets-system-design-interview#basics
  * https://medium.com/@_michaellin/how-to-be-a-10x-engineer-fdac2a5a1bd5
  * https://igotanoffer.com/blogs/tech/polling-sse-websockets-system-design-interview#basics
+ * Recursion
+ * https://towardsdatascience.com/train-your-mind-to-think-recursively-in-5-steps-8f85c0e0eb81
+ * https://www.johndcook.com/blog/2010/03/30/understanding-recursion/
+ * https://99x.io/blog/recursion-is-not-hard-here-is-the-right-way-to-think
+ * https://www.youtube.com/watch?v=B3U6LExgevE&ab_channel=BytebyByte
 
 [iOS Interview](#iOS-Interview)
  * https://github.com/dashvlas/awesome-ios-interview/blob/master/Resources/English.md
