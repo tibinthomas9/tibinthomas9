@@ -220,6 +220,7 @@ https://github.com/donnemartin/system-design-primer
  * https://blog.codecentric.de/en/2016/07/handling-ios-app-states-state-machine/
  * https://tech.trivago.com/post/2016-08-26-mvvmc/
  * https://github.com/weeeBox/mobile-system-design
+ * https://medium.com/nerd-for-tech/mvvm-coordinators-ios-architecture-tutorial-fb27eaa36470
 
 
 
