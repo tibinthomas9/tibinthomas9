@@ -216,6 +216,7 @@ https://github.com/donnemartin/system-design-primer
  * https://riptutorial.com/ios
  * https://apphud.com/blog/how-to-implement-context-menus-in-ios-13#adding-anbspsubmenu
  * https://developer.apple.com/swift/blog/
+ * https://medium.com/@nishant.kumbhare4/solid-principles-in-swift-73b505d3c63f
 
 Develop a guide for iOS which details out important structured details of iOS development which details most important things to learn like concurrency but also discuss minute non technical details like signing, app Ids,Apples recoomended way, which frameworks use target action pattern, which use singletons, which use delegates ,which use functional programming, protocol programming, event driven or reactive programing(swiftUI, combine, Rxswift), concection between functional and reactive, declarative programming, key value coding and Obeserving. Various values in plist, which functionalities need an associated permission text in plist etc, when to use swift, swiftUI, ObjectiveC, when to use GCD vs Operations vs Threads, where to use value driven programing or reference types, how threads are handled in multi cores, how data gets saved during context switch, importance of ABI stability of swift, how swift, objectivec and C work together in the OS, details about POSIX features, learn from transistor, how SoliD patterns get enforced via protocol oriented programming, how design patterns and different programing patterns work together in swift or Cocoa
 
