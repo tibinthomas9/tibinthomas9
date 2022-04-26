@@ -224,6 +224,7 @@ https://github.com/donnemartin/system-design-primer
  * https://cpb-eu-w2.wpmucdn.com/blogs.brighton.ac.uk/dist/c/2637/files/2017/05/5-1cra1rq.jpg
  * https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/
  * https://karthikkeyan.medium.com/ios-app-architecture-3f1d1400862f
+ * https://matteomanferdini.com/network-requests-rest-apis-ios-swift/#section2
 
 https://docs.google.com/spreadsheets/d/1zNLbd4ShNbJ0xxLBjVmGY6VKkDjIkRsw3RWRfnakLM8/htmlview
 
