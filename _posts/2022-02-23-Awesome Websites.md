@@ -221,6 +221,7 @@ https://github.com/donnemartin/system-design-primer
  * https://tech.trivago.com/post/2016-08-26-mvvmc/
  * https://github.com/weeeBox/mobile-system-design
  * https://medium.com/nerd-for-tech/mvvm-coordinators-ios-architecture-tutorial-fb27eaa36470
+ * https://cpb-eu-w2.wpmucdn.com/blogs.brighton.ac.uk/dist/c/2637/files/2017/05/5-1cra1rq.jpg
 
 https://docs.google.com/spreadsheets/d/1zNLbd4ShNbJ0xxLBjVmGY6VKkDjIkRsw3RWRfnakLM8/htmlview
 
