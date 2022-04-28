@@ -227,6 +227,7 @@ https://github.com/donnemartin/system-design-primer
  * https://matteomanferdini.com/network-requests-rest-apis-ios-swift/#section2
  * https://docs.google.com/spreadsheets/d/1zNLbd4ShNbJ0xxLBjVmGY6VKkDjIkRsw3RWRfnakLM8/htmlview
  * https://www.toptal.com/ios/isolate-client-server-interaction-logic-ios
+ * https://www.toptal.com/swift/static-patterns-swift-mvvm-tutorial
 
 
 
