@@ -229,6 +229,7 @@ https://github.com/donnemartin/system-design-primer
  * https://www.toptal.com/ios/isolate-client-server-interaction-logic-ios
  * https://www.toptal.com/swift/static-patterns-swift-mvvm-tutorial
  * https://www.youtube.com/watch?v=6hYPUFWJ7QA&t=6s&ab_channel=SoftwareEngineeringwithKarthik
+ * https://www.davidseek.com/fb/
 
 
 
