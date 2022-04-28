@@ -225,8 +225,8 @@ https://github.com/donnemartin/system-design-primer
  * https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/
  * https://karthikkeyan.medium.com/ios-app-architecture-3f1d1400862f
  * https://matteomanferdini.com/network-requests-rest-apis-ios-swift/#section2
-
-https://docs.google.com/spreadsheets/d/1zNLbd4ShNbJ0xxLBjVmGY6VKkDjIkRsw3RWRfnakLM8/htmlview
+ * https://docs.google.com/spreadsheets/d/1zNLbd4ShNbJ0xxLBjVmGY6VKkDjIkRsw3RWRfnakLM8/htmlview
+ * https://www.toptal.com/ios/isolate-client-server-interaction-logic-ios
 
 
 
