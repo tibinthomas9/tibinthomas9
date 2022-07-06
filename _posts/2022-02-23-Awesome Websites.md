@@ -231,6 +231,7 @@ https://github.com/donnemartin/system-design-primer
  * https://www.youtube.com/watch?v=6hYPUFWJ7QA&t=6s&ab_channel=SoftwareEngineeringwithKarthik
  * https://www.davidseek.com/fb/
  * https://medium.com/the-codelog/interviewing-for-an-ios-design-system-engineer-role-at-spotify-6727ecb5bfdc
+ * https://www.techotopia.com/index.php/Objective-C_2.0_Essentials
 
 iOS 
 
