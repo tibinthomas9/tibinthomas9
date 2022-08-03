@@ -232,6 +232,9 @@ https://github.com/donnemartin/system-design-primer
  * https://www.davidseek.com/fb/
  * https://medium.com/the-codelog/interviewing-for-an-ios-design-system-engineer-role-at-spotify-6727ecb5bfdc
  * https://www.techotopia.com/index.php/Objective-C_2.0_Essentials
+ * https://infinum.com/handbook/ios
+ * https://manasaprema04.medium.com/application-life-cycle-in-ios-f7365d8c1636
+ * https://academy.realm.io/posts/altconf-nikita-lutsenko-objc-swift-interoperability/
 
 iOS 
 
