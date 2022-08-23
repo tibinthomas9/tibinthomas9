@@ -240,6 +240,7 @@ https://github.com/donnemartin/system-design-primer
  * https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC
  * https://swiftwithmajid.com/categories/
  * https://swiftontap.com/section
+ * https://www.appcoda.com/learnswiftui/swiftui-text.html
 
 iOS 
 
