@@ -4,10 +4,19 @@
 iOS
 * https://www.hackingwithswift.com/career-guide
 * https://github.com/BohdanOrlov/iOS-Developer-Roadmap
+* https://github.com/vsouza/awesome-ios#architecture-patterns
 * https://www.codechef.com/certification/data-structures-and-algorithms/prepare
+
 Coding
+
 * https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+
 DSA
+
+* https://cheonhyangzhang.gitbooks.io/leetcode-solutions/content/
+* https://aaronice.gitbook.io/lintcode
+* https://neetcode.io/
+* https://www.code-recipe.com/post/two-sum
 * https://leetcode.com/explore/
 * https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/?ref=lbp
 * https://www.hiredintech.com/classrooms/algorithm-design/lesson/81
@@ -27,10 +36,5 @@ DSA
 * https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0
 * https://www.quastor.org/
 * https://seanprashad.com/leetcode-patterns/
-* https://github.com/vsouza/awesome-ios#architecture-patterns
 * https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/2022-02-23-Awesome%20Websites.md
 * https://github.com/dashvlas/awesome-ios-interview/blob/master/Resources/English.md
-* https://cheonhyangzhang.gitbooks.io/leetcode-solutions/content/
-* https://aaronice.gitbook.io/lintcode
-* https://neetcode.io/
-* https://www.code-recipe.com/post/two-sum
