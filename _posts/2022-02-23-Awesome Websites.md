@@ -146,6 +146,7 @@
  * https://www.enjoyalgorithms.com/tags/coding-interview-concepts/
 
 [System Design](#System Design)
+
 * https://github.com/karanpratapsingh/system-design
 * https://github.com/donnemartin/system-design-primer
 * https://igotanoffer.com/blogs/tech/polling-sse-websockets-system-design-interview#basics
@@ -162,11 +163,12 @@ Swift
  * https://gist.github.com/acrookston/da0652bb6a5e9b11f2e79b7dc04e533b
  * https://github.com/raywenderlich/ios-interview
  * https://gist.github.com/funmia/8f33509d70448523e9652db1bcfcad2a
- * https://github.com/jVirus/ios-learning-materials
- * https://github.com/dmyma/iOS-interview
- * https://github.com/Catherine22/iOS-tutorial
  * https://codewithchris.com/swift-tutorial-complete/
- * https://github.com/DenisLitvin/iOS-Interview
+ * https://www.advancedswift.com/comments-documentation-swift/
+ * https://programmingwithswift.com/
+ * https://swiftwithmajid.com/categories/
+ * https://swiftontap.com/section
+ * https://koenig-media.raywenderlich.com/uploads/2020/12/RW-Swift-5.1-Cheatsheet-1.0.pdf
 
 iOS
  * https://www.tutorialspoint.com/ios/
@@ -178,6 +180,13 @@ iOS
  * https://abhimuralidharan.medium.com/what-is-a-provisioning-profile-in-ios-77987a7c54c2
  * https://medium.com/lean-localization/ios-localization-tutorial-938231f9f881
  * https://www.hackingwithswift.com/read
+ * https://github.com/jVirus/ios-learning-materials
+ * https://github.com/Catherine22/iOS-tutorial
+ * https://a11y-guidelines.orange.com/en/mobile/ios/
+ * https://trello.com/b/dOV9dvBu/a-path-to-mastery-for-ios-development
+ * https://www.journaldev.com/22826/ios-uiswitch
+ * https://riptutorial.com/ios
+ * https://iosexample.com/
 
 Design, Architecture 
 
@@ -193,6 +202,9 @@ Design, Architecture
  * https://developer.apple.com/library/archive/navigation/
  * https://iosdevdirectory.com/
  * https://onmyway133.com/
+ * https://www.toptal.com/swift/static-patterns-swift-mvvm-tutorial
+ * https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/
+ * https://karthikkeyan.medium.com/ios-app-architecture-3f1d1400862f
  
 
 Interview Questions 
@@ -201,6 +213,10 @@ Interview Questions
 * https://intellipaat.com/blog/interview-question/ios-interview-questions/
 * https://www.spaceotechnologies.com/blog/swift-5-features/
 * https://www.hackingwithswift.com/interview-questions
+* https://github.com/DenisLitvin/iOS-Interview
+* https://brainstation.io/career-guides/ios-developer-interview-questions
+* https://codewithchris.com/ios-interview-questions/
+* https://github.com/dmyma/iOS-interview
  
  Testing
  * https://qualitycoding.org/ios-unit-testing/
@@ -215,50 +231,36 @@ Concurrency
  * https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/
  
 
-Sytem design
+System design
+ * https://docs.google.com/spreadsheets/d/1zNLbd4ShNbJ0xxLBjVmGY6VKkDjIkRsw3RWRfnakLM8/htmlview
  * https://themobileinterview.com/cracking-the-mobile-system-design-interview/
  * https://funmi.substack.com/p/interviewing-for-an-ios-design-system?s=r
  * https://medium.com/geekculture/system-design-interview-for-mobile-engineers-ce712d6ac2c1
  * https://github.com/weeeBox/mobile-system-design
  * https://medium.com/the-codelog/interviewing-for-an-ios-design-system-engineer-role-at-spotify-6727ecb5bfdc
+ * https://www.davidseek.com/fb/
  
 Blogs 
 
  * https://gist.github.com/funmia
  * https://www.davidseek.com/fb/
- * https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
  * https://nalexn.github.io/kvo-guide-for-key-value-observing/
  * https://nalexn.github.io/state-management-guide-ios/
  * https://quickbirdstudios.com/blog/ios-app-security-best-practices/
- * https://codewithchris.com/ios-interview-questions/
  * https://developer.apple.com/documentation/uikit/app_and_environment/scenes/preparing_your_ui_to_run_in_the_background
- * https://brainstation.io/career-guides/ios-developer-interview-questions
- * https://koenig-media.raywenderlich.com/uploads/2020/12/RW-Swift-5.1-Cheatsheet-1.0.pdf
- * https://github.com/raywenderlich/swift-style-guide
- * https://www.raywenderlich.com/7738344-mapkit-tutorial-getting-started
+ * https://github.com/raywenderlich/swift-style-guide [Style Guide]
+ * https://www.raywenderlich.com/7738344-mapkit-tutorial-getting-started [Mapkit]
  * https://en.proft.me/2020/02/14/how-make-phone-call-send-sms-and-email-swift/
- * https://iosexample.com/
  * https://medium.com/@marina.sauca/custom-progress-bars-dc1c1c111751
  * https://betterprogramming.pub/organizing-your-swift-global-constants-for-beginners-251579485046
- * https://trello.com/b/dOV9dvBu/a-path-to-mastery-for-ios-development
- * https://www.advancedswift.com/comments-documentation-swift/
- * https://www.journaldev.com/22826/ios-uiswitch
- * https://riptutorial.com/ios
  * https://apphud.com/blog/how-to-implement-context-menus-in-ios-13#adding-anbspsubmenu
  * https://developer.apple.com/swift/blog/
  * https://cpb-eu-w2.wpmucdn.com/blogs.brighton.ac.uk/dist/c/2637/files/2017/05/5-1cra1rq.jpg
- * https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/
- * https://karthikkeyan.medium.com/ios-app-architecture-3f1d1400862f
  * https://matteomanferdini.com/network-requests-rest-apis-ios-swift/#section2
- * https://docs.google.com/spreadsheets/d/1zNLbd4ShNbJ0xxLBjVmGY6VKkDjIkRsw3RWRfnakLM8/htmlview
  * https://www.toptal.com/ios/isolate-client-server-interaction-logic-ios
- * https://www.toptal.com/swift/static-patterns-swift-mvvm-tutorial
  * https://www.youtube.com/watch?v=6hYPUFWJ7QA&t=6s&ab_channel=SoftwareEngineeringwithKarthik
- * https://www.davidseek.com/fb/
- * https://programmingwithswift.com/
- * https://a11y-guidelines.orange.com/en/mobile/ios/
- * https://swiftwithmajid.com/categories/
- * https://swiftontap.com/section
+ 
+ 
 
 Lifecycle
 * https://manasaprema04.medium.com/application-life-cycle-in-ios-f7365d8c1636
@@ -266,12 +268,12 @@ Lifecycle
  Objective C
  * https://www.techotopia.com/index.php/Objective-C_2.0_Essentials
  * https://infinum.com/handbook/ios
- * 
+ * https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
  * https://academy.realm.io/posts/altconf-nikita-lutsenko-objc-swift-interoperability/
  * https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC
  
 
-SWiftUI
+SwiftUI
  * https://www.appcoda.com/learnswiftui/swiftui-text.html
 
 Tools 
