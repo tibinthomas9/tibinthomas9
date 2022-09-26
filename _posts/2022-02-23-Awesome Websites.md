@@ -122,20 +122,21 @@
  * https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
  * https://github.com/kdn251/interviews
  * https://medium.com/basecs
- * https://github.com/donnemartin/system-design-primer
  * https://www.techinterviewhandbook.org/
  * https://github.com/yangshun/lago
- * https://leetcode.com/archit91/
- * https://github.com/donnemartin/system-design-primer
  * https://www.youtube.com/watch?v=tv-_1er1mWI&ab_channel=Fireship
  * https://www.youtube.com/watch?v=oz9cEqFynHU&ab_channel=TrenBlack
  * https://refactoring.guru/design-patterns/what-is-pattern
+ 
+ [Competitive Programming](#Competitive-Programming)
  * https://neetcode.io/
  * https://www.educative.io/courses/grokking-the-coding-interview
  * https://www.interviewbit.com/practice/
- * https://igotanoffer.com/blogs/tech/polling-sse-websockets-system-design-interview#basics
  * https://medium.com/@_michaellin/how-to-be-a-10x-engineer-fdac2a5a1bd5
- * https://igotanoffer.com/blogs/tech/polling-sse-websockets-system-design-interview#basics
+ * https://leetcode.com/archit91/
+ 
+
+
  * Recursion
  * https://towardsdatascience.com/train-your-mind-to-think-recursively-in-5-steps-8f85c0e0eb81
  * https://www.johndcook.com/blog/2010/03/30/understanding-recursion/
@@ -144,7 +145,11 @@
  
  * https://www.enjoyalgorithms.com/tags/coding-interview-concepts/
 
-https://github.com/donnemartin/system-design-primer
+[System Design](#System Design)
+* https://github.com/karanpratapsingh/system-design
+* https://github.com/donnemartin/system-design-primer
+* https://igotanoffer.com/blogs/tech/polling-sse-websockets-system-design-interview#basics
+* https://igotanoffer.com/blogs/tech/polling-sse-websockets-system-design-interview#basics
 
 
 
