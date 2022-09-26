@@ -276,6 +276,9 @@ Lifecycle
 SwiftUI
  * https://www.appcoda.com/learnswiftui/swiftui-text.html
 
+Study Plan 
+* https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/startuplinks.md
+
 Tools 
 
 https://www.wtfautolayout.com/
