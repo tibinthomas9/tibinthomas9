@@ -18,7 +18,6 @@ DSA
 * https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/?ref=lbp
 * https://www.hiredintech.com/classrooms/algorithm-design/lesson/81
 * https://github.com/jwasham/coding-interview-university#coding-question-practice
-* https://github.com/kamyu104/LeetCode-Solutions
 * https://runestone.academy/ns/books/published/pythonds/index.html
 * https://www.programiz.com/dsa
 * https://www.studytonight.com/data-structures/
@@ -40,6 +39,7 @@ LeetCode
 * https://cheonhyangzhang.gitbooks.io/leetcode-solutions/content/
 * https://aaronice.gitbook.io/lintcode
 * https://www.code-recipe.com/post/two-sum
+* https://github.com/kamyu104/LeetCode-Solutions
 * https://leetcode.com/explore/
 
 Misc
