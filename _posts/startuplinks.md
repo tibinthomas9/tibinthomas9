@@ -24,11 +24,11 @@ DSA
 * http://carlcheo.com/compsci
 * https://www.youtube.com/watch?v=k2iS5t78N4Q&list=PLgUwDviBIf0pmQB5UD86d8-hLhXc5CUJ_
 * https://www.techinterviewhandbook.org/algorithms/array
-* https://medium.com/@nhudinhtuan/15-days-cheat-sheet-for-hacking-technical-interviews-at-big-tech-companies-d780717dcec1
 * https://www.quastor.org/
 
 Study Plan
 * https://gist.github.com/tibinthomas9/692a548d48c6f65a81d915fbe1ce7217
+* https://medium.com/@nhudinhtuan/15-days-cheat-sheet-for-hacking-technical-interviews-at-big-tech-companies-d780717dcec1
 
 LeetCode
 * https://neetcode.io/
