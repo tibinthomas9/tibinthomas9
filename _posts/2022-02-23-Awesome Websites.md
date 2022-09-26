@@ -137,7 +137,7 @@
  
 
 
- * Recursion
+ Recursion
  * https://towardsdatascience.com/train-your-mind-to-think-recursively-in-5-steps-8f85c0e0eb81
  * https://www.johndcook.com/blog/2010/03/30/understanding-recursion/
  * https://99x.io/blog/recursion-is-not-hard-here-is-the-right-way-to-think
@@ -154,6 +154,8 @@
 
 
 [iOS Interview](#iOS-Interview)
+
+Swift
  * https://github.com/dashvlas/awesome-ios-interview/blob/master/Resources/English.md
  * https://github.com/DenisLitvin/iOS-Interview
  * https://github.com/onthecodepath/iOS-Interview-Questions
@@ -165,39 +167,64 @@
  * https://github.com/Catherine22/iOS-tutorial
  * https://codewithchris.com/swift-tutorial-complete/
  * https://github.com/DenisLitvin/iOS-Interview
- * https://chetan-aggarwal.medium.com/ios-design-patterns-f478abd78132
- * https://learnui.design/blog/ios-design-guidelines-templates.html
- * https://chetan-aggarwal.medium.com/ios-interview-questions-part-1-differentiate-99e8f574a3f1
- * https://developer.apple.com/documentation/swift/cocoa_design_patterns
- * https://developer.apple.com/documentation/swift
- * https://medium.com/hash-coding/swift-access-control-ios-dab45a0b79ab#:~:text=Open%20%E2%80%94%20This%20is%20where%20you,outside%20the%20module(target).
- * https://developer.apple.com/library/archive/navigation/
- * https://iosdevdirectory.com/
- * https://onmyway133.com/
+
+iOS
  * https://www.tutorialspoint.com/ios/
  * https://code.tutsplus.com/series/ios-from-scratch-with-swift--cms-909
  * https://developer.apple.com/documentation/uikit
  * https://stackoverflow.com/q/62119815/8181347
  * https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/
  * https://brightdigit.com/articles/ios-software-architecture/
- * https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/launching/
- * https://intellipaat.com/blog/interview-question/ios-interview-questions/
- * https://www.spaceotechnologies.com/blog/swift-5-features/
- * https://www.hackingwithswift.com/interview-questions
  * https://abhimuralidharan.medium.com/what-is-a-provisioning-profile-in-ios-77987a7c54c2
  * https://medium.com/lean-localization/ios-localization-tutorial-938231f9f881
  * https://www.hackingwithswift.com/read
+
+Design, Architecture 
+
+ * https://chetan-aggarwal.medium.com/ios-design-patterns-f478abd78132
+ * https://medium.com/@nishant.kumbhare4/solid-principles-in-swift-73b505d3c63f
+ * https://blog.codecentric.de/en/2016/07/handling-ios-app-states-state-machine/
+ * https://tech.trivago.com/post/2016-08-26-mvvmc/
+ * https://medium.com/nerd-for-tech/mvvm-coordinators-ios-architecture-tutorial-fb27eaa36470
+ * https://learnui.design/blog/ios-design-guidelines-templates.html
+ * https://developer.apple.com/documentation/swift/cocoa_design_patterns
+ * https://developer.apple.com/documentation/swift
+ * https://medium.com/hash-coding/swift-access-control-ios-dab45a0b79ab#:~:text=Open%20%E2%80%94%20This%20is%20where%20you,outside%20the%20module(target).
+ * https://developer.apple.com/library/archive/navigation/
+ * https://iosdevdirectory.com/
+ * https://onmyway133.com/
+ 
+
+Interview Questions 
+* https://chetan-aggarwal.medium.com/ios-interview-questions-part-1-differentiate-99e8f574a3f1
+* https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/launching/
+* https://intellipaat.com/blog/interview-question/ios-interview-questions/
+* https://www.spaceotechnologies.com/blog/swift-5-features/
+* https://www.hackingwithswift.com/interview-questions
+ 
+ Testing
  * https://qualitycoding.org/ios-unit-testing/
  * https://www.avanderlee.com/swift/unit-tests-best-practices/
+
+Concurrency
  * https://ali-akhtar.medium.com/concurrency-in-swift-grand-central-dispatch-part-1-945ff05e8863
  * https://www.wwdcnotes.com/
  * https://zamzam.io/creating-thread-safe-arrays-in-swift/  
  * https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/   
  * https://twitter.com/onmyway133/status/1501951060696465410/photo/1
  * https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/
+ 
+
+Sytem design
+ * https://themobileinterview.com/cracking-the-mobile-system-design-interview/
  * https://funmi.substack.com/p/interviewing-for-an-ios-design-system?s=r
  * https://medium.com/geekculture/system-design-interview-for-mobile-engineers-ce712d6ac2c1
- * https://themobileinterview.com/cracking-the-mobile-system-design-interview/
+ * https://github.com/weeeBox/mobile-system-design
+ * https://medium.com/the-codelog/interviewing-for-an-ios-design-system-engineer-role-at-spotify-6727ecb5bfdc
+ 
+Blogs 
+
+ * https://gist.github.com/funmia
  * https://www.davidseek.com/fb/
  * https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
  * https://nalexn.github.io/kvo-guide-for-key-value-observing/
@@ -213,19 +240,12 @@
  * https://iosexample.com/
  * https://medium.com/@marina.sauca/custom-progress-bars-dc1c1c111751
  * https://betterprogramming.pub/organizing-your-swift-global-constants-for-beginners-251579485046
- * https://gist.github.com/funmia
- * https://themobileinterview.com/cracking-the-mobile-system-design-interview/
  * https://trello.com/b/dOV9dvBu/a-path-to-mastery-for-ios-development
  * https://www.advancedswift.com/comments-documentation-swift/
  * https://www.journaldev.com/22826/ios-uiswitch
  * https://riptutorial.com/ios
  * https://apphud.com/blog/how-to-implement-context-menus-in-ios-13#adding-anbspsubmenu
  * https://developer.apple.com/swift/blog/
- * https://medium.com/@nishant.kumbhare4/solid-principles-in-swift-73b505d3c63f
- * https://blog.codecentric.de/en/2016/07/handling-ios-app-states-state-machine/
- * https://tech.trivago.com/post/2016-08-26-mvvmc/
- * https://github.com/weeeBox/mobile-system-design
- * https://medium.com/nerd-for-tech/mvvm-coordinators-ios-architecture-tutorial-fb27eaa36470
  * https://cpb-eu-w2.wpmucdn.com/blogs.brighton.ac.uk/dist/c/2637/files/2017/05/5-1cra1rq.jpg
  * https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/
  * https://karthikkeyan.medium.com/ios-app-architecture-3f1d1400862f
@@ -235,19 +255,26 @@
  * https://www.toptal.com/swift/static-patterns-swift-mvvm-tutorial
  * https://www.youtube.com/watch?v=6hYPUFWJ7QA&t=6s&ab_channel=SoftwareEngineeringwithKarthik
  * https://www.davidseek.com/fb/
- * https://medium.com/the-codelog/interviewing-for-an-ios-design-system-engineer-role-at-spotify-6727ecb5bfdc
- * https://www.techotopia.com/index.php/Objective-C_2.0_Essentials
- * https://infinum.com/handbook/ios
- * https://manasaprema04.medium.com/application-life-cycle-in-ios-f7365d8c1636
- * https://academy.realm.io/posts/altconf-nikita-lutsenko-objc-swift-interoperability/
  * https://programmingwithswift.com/
  * https://a11y-guidelines.orange.com/en/mobile/ios/
- * https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC
  * https://swiftwithmajid.com/categories/
  * https://swiftontap.com/section
+
+Lifecycle
+* https://manasaprema04.medium.com/application-life-cycle-in-ios-f7365d8c1636
+ 
+ Objective C
+ * https://www.techotopia.com/index.php/Objective-C_2.0_Essentials
+ * https://infinum.com/handbook/ios
+ * 
+ * https://academy.realm.io/posts/altconf-nikita-lutsenko-objc-swift-interoperability/
+ * https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC
+ 
+
+SWiftUI
  * https://www.appcoda.com/learnswiftui/swiftui-text.html
 
-iOS 
+Tools 
 
 https://www.wtfautolayout.com/
 
