@@ -25,7 +25,6 @@ DSA
 * https://www.youtube.com/watch?v=k2iS5t78N4Q&list=PLgUwDviBIf0pmQB5UD86d8-hLhXc5CUJ_
 * https://www.techinterviewhandbook.org/algorithms/array
 * https://medium.com/@nhudinhtuan/15-days-cheat-sheet-for-hacking-technical-interviews-at-big-tech-companies-d780717dcec1
-* https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0
 * https://www.quastor.org/
 
 Study Plan
@@ -41,6 +40,7 @@ LeetCode
 * https://www.code-recipe.com/post/two-sum
 * https://github.com/kamyu104/LeetCode-Solutions
 * https://leetcode.com/explore/
+* https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0 [Neetcode doc]
 
 Misc
 * https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/2022-02-23-Awesome%20Websites.md
