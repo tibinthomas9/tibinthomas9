@@ -168,6 +168,7 @@ Swift
  * https://swiftwithmajid.com/categories/
  * https://swiftontap.com/section
  * https://koenig-media.raywenderlich.com/uploads/2020/12/RW-Swift-5.1-Cheatsheet-1.0.pdf
+ * https://www.avanderlee.com/category/swift/
 
 iOS
  * https://www.tutorialspoint.com/ios/
