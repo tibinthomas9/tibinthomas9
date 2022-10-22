@@ -278,6 +278,7 @@ Lifecycle
 
 SwiftUI
  * https://www.appcoda.com/learnswiftui/swiftui-text.html
+ * https://www.raywenderlich.com/books/swiftui-apprentice/v1.0/chapters/1-checking-your-tools#toc-chapter-007-anchor-001
 
 Study Plan 
 * https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/startuplinks.md
