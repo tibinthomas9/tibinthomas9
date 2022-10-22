@@ -188,6 +188,7 @@ iOS
  * https://www.journaldev.com/22826/ios-uiswitch
  * https://riptutorial.com/ios
  * https://iosexample.com/
+ *
 
 Design, Architecture 
 
@@ -206,6 +207,7 @@ Design, Architecture
  * https://www.toptal.com/swift/static-patterns-swift-mvvm-tutorial
  * https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/
  * https://karthikkeyan.medium.com/ios-app-architecture-3f1d1400862f
+ * https://straypixels.net/swift-dictionary-locking/
  
 
 Interview Questions 
