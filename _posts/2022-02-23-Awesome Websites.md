@@ -280,6 +280,7 @@ SwiftUI
  * https://www.appcoda.com/learnswiftui/swiftui-text.html
  * https://www.raywenderlich.com/books/swiftui-apprentice/v1.0/chapters/1-checking-your-tools#toc-chapter-007-anchor-001
  * https://medium.com/@karamage/stop-using-mvvm-with-swiftui-2c46eb2cc8dc
+ * https://www.swiftbysundell.com/articles/avoiding-massive-swiftui-views/
 
 Study Plan 
 * https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/startuplinks.md
