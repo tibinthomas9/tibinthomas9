@@ -77,6 +77,7 @@
 *  https://wisdomtheory.gumroad.com/l/100MM
 *  https://www.johncoogan.com/how-to-get-a-job/
 *  https://www.mckinsey.com/industries/financial-services/our-insights/the-rise-and-rise-of-the-global-balance-sheet-how-productively-are-we-using-our-wealth#:~:text=The%20world%20has%20never%20been,%24160%20trillion%20to%20%24510%20trillion.
+*  https://www.fluentu.com/blog/english/learn-american-english-accent/
 
 
 
