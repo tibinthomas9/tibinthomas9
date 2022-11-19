@@ -150,7 +150,7 @@
 * https://github.com/karanpratapsingh/system-design
 * https://github.com/donnemartin/system-design-primer
 * https://igotanoffer.com/blogs/tech/polling-sse-websockets-system-design-interview#basics
-* https://igotanoffer.com/blogs/tech/polling-sse-websockets-system-design-interview#basics
+* https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/
 
 
 
