@@ -209,6 +209,7 @@ Design, Architecture
  * https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/
  * https://karthikkeyan.medium.com/ios-app-architecture-3f1d1400862f
  * https://straypixels.net/swift-dictionary-locking/
+ * https://blog.bytebytego.com/p/twitter-architecture-2022-vs-2012
  
 
 Interview Questions 
