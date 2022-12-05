@@ -244,6 +244,7 @@ System design
  * https://github.com/weeeBox/mobile-system-design
  * https://medium.com/the-codelog/interviewing-for-an-ios-design-system-engineer-role-at-spotify-6727ecb5bfdc
  * https://www.davidseek.com/fb/
+ * https://www.educative.io/blog/complete-guide-to-system-design
  
 Blogs 
 
