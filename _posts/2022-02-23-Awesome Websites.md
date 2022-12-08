@@ -26,6 +26,8 @@
    - [Philosophy](#Philosophy)
    - [Physics](#Physics)
    - [Psychology](#Psychology)
+   - [IELTS](#IELTS)
+
 
 
 
@@ -105,6 +107,27 @@
 ## Chemistry 
 
 
+## IELTS
+Good essays
+* https://www.ieltsadvantage.com/2015/09/02/ielts-band-9-essay/
+* https://ieltsliz.com/ielts-sample-essay/
+* https://www.ielts-practice.org/category/band-9-ielts-essays/
+* https://www.yunolearning.com/ielts/listening-practice-test/
+* http://www.stgeorges.co.uk/blog/tips-for-ielts-writing-task-1-describing-graphs
+
+Idioms for speaking only
+* https://www.ieltsadvantage.com/2015/05/05/idioms-ielts-speaking/
+
+good site for training and vocabulary
+* https://ielts-up.com/listening/ielts-listening-practice.html
+
+
+
+For improving vocabulary you could try listening to indian speakers in YouTube and especially videos on indian stories in English
+
+CHECKER
+* https://wordcounter.io/
+* https://app.grammarly.com/ddocs/546413916
 
 
 ## Computer Science
