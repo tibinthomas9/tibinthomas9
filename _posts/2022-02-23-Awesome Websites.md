@@ -129,6 +129,20 @@ CHECKER
 * https://wordcounter.io/
 * https://app.grammarly.com/ddocs/546413916
 
+Pronunciation 
+
+* https://magoosh.com/toefl/pronunciation-tips-for-indian-speakers-of-english/
+
+* https://changeyouraccent.com/blogs/news/how-to-change-an-indian-accent
+
+* https://www.talktocanada.com/blog/5-pronunciation-tips-to-get-you-started-on-changing-your-accent-and-increase-your-english-speaking-ability
+
+* https://www.fluentu.com/blog/english/learn-american-english-accent/
+
+* https://ieltsfocus.com/2018/10/09/band-7-ielts-speaking/
+
+* https://qr.ae/pvfPa8
+
 
 ## Computer Science
 * https://github.com/chrislgarry/Apollo-11
