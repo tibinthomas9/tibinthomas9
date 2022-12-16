@@ -324,6 +324,7 @@ SwiftUI
  * https://github.com/ygit/swiftui
  * https://apps4world.medium.com/top-swiftui-app-templates-xcode-source-codes-2797ffabd4ab
  * https://peterfriese.dev/posts/swiftui-empty-state/
+ * https://steipete.com/posts/state-of-swiftui/
 
 Study Plan 
 * https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/startuplinks.md
