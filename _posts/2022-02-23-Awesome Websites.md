@@ -227,7 +227,28 @@ iOS
  * https://www.journaldev.com/22826/ios-uiswitch
  * https://riptutorial.com/ios
  * https://iosexample.com/
- *
+
+
+ Lifecycle
+* https://manasaprema04.medium.com/application-life-cycle-in-ios-f7365d8c1636
+ 
+ Objective C
+ * https://www.techotopia.com/index.php/Objective-C_2.0_Essentials
+ * https://infinum.com/handbook/ios
+ * https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+ * https://academy.realm.io/posts/altconf-nikita-lutsenko-objc-swift-interoperability/
+ * https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC
+ 
+
+SwiftUI
+ * https://www.appcoda.com/learnswiftui/swiftui-text.html
+ * https://www.raywenderlich.com/books/swiftui-apprentice/v1.0/chapters/1-checking-your-tools#toc-chapter-007-anchor-001
+ * https://medium.com/@karamage/stop-using-mvvm-with-swiftui-2c46eb2cc8dc
+ * https://www.swiftbysundell.com/articles/avoiding-massive-swiftui-views/
+ * https://github.com/ygit/swiftui
+ * https://apps4world.medium.com/top-swiftui-app-templates-xcode-source-codes-2797ffabd4ab
+ * https://peterfriese.dev/posts/swiftui-empty-state/
+ * https://steipete.com/posts/state-of-swiftui/
 
 Design, Architecture 
 
@@ -305,27 +326,6 @@ Blogs
  * https://www.youtube.com/watch?v=6hYPUFWJ7QA&t=6s&ab_channel=SoftwareEngineeringwithKarthik
  
  
-
-Lifecycle
-* https://manasaprema04.medium.com/application-life-cycle-in-ios-f7365d8c1636
- 
- Objective C
- * https://www.techotopia.com/index.php/Objective-C_2.0_Essentials
- * https://infinum.com/handbook/ios
- * https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
- * https://academy.realm.io/posts/altconf-nikita-lutsenko-objc-swift-interoperability/
- * https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC
- 
-
-SwiftUI
- * https://www.appcoda.com/learnswiftui/swiftui-text.html
- * https://www.raywenderlich.com/books/swiftui-apprentice/v1.0/chapters/1-checking-your-tools#toc-chapter-007-anchor-001
- * https://medium.com/@karamage/stop-using-mvvm-with-swiftui-2c46eb2cc8dc
- * https://www.swiftbysundell.com/articles/avoiding-massive-swiftui-views/
- * https://github.com/ygit/swiftui
- * https://apps4world.medium.com/top-swiftui-app-templates-xcode-source-codes-2797ffabd4ab
- * https://peterfriese.dev/posts/swiftui-empty-state/
- * https://steipete.com/posts/state-of-swiftui/
 
 Study Plan 
 * https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/startuplinks.md
