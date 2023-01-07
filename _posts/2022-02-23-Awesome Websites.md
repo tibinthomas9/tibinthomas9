@@ -249,6 +249,7 @@ SwiftUI
  * https://apps4world.medium.com/top-swiftui-app-templates-xcode-source-codes-2797ffabd4ab
  * https://peterfriese.dev/posts/swiftui-empty-state/
  * https://steipete.com/posts/state-of-swiftui/
+ * https://ishtiz.com/swiftui/swiftui-interview-questions-and-answers-part-1
 
 Design, Architecture 
 
