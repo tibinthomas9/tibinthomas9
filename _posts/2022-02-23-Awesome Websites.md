@@ -171,6 +171,7 @@ Pronunciation
  * https://www.interviewbit.com/practice/
  * https://medium.com/@_michaellin/how-to-be-a-10x-engineer-fdac2a5a1bd5
  * https://leetcode.com/archit91/
+ * https://www.hiredintech.com/classrooms/interview-strategies/lesson/88
  
 
 
