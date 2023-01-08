@@ -190,6 +190,8 @@ Pronunciation
 * https://igotanoffer.com/blogs/tech/polling-sse-websockets-system-design-interview#basics
 * https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/
 * https://docs.google.com/spreadsheets/d/1zNLbd4ShNbJ0xxLBjVmGY6VKkDjIkRsw3RWRfnakLM8/edit#gid=0
+* https://arpitbhayani.me/system-design
+* https://gist.github.com/vasanthk/485d1c25737e8e72759f
 
 
 
