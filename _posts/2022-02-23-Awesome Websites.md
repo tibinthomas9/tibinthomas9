@@ -172,6 +172,7 @@ Pronunciation
  * https://medium.com/@_michaellin/how-to-be-a-10x-engineer-fdac2a5a1bd5
  * https://leetcode.com/archit91/
  * https://www.hiredintech.com/classrooms/interview-strategies/lesson/88
+ * https://ghumare64.medium.com/remote-job-roadmap-276c2d61c0cc
  
 
 
