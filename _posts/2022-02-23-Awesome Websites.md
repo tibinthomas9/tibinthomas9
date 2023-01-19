@@ -164,6 +164,7 @@ Pronunciation
  * https://www.youtube.com/watch?v=tv-_1er1mWI&ab_channel=Fireship
  * https://www.youtube.com/watch?v=oz9cEqFynHU&ab_channel=TrenBlack
  * https://refactoring.guru/design-patterns/what-is-pattern
+ * https://github.com/geohot/fromthetransistor
  
  [Competitive Programming](#Competitive-Programming)
  * https://neetcode.io/
