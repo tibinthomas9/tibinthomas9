@@ -165,6 +165,7 @@ Pronunciation
  * https://www.youtube.com/watch?v=oz9cEqFynHU&ab_channel=TrenBlack
  * https://refactoring.guru/design-patterns/what-is-pattern
  * https://github.com/geohot/fromthetransistor
+ * https://www.bottomupcs.com/
  
  [Competitive Programming](#Competitive-Programming)
  * https://neetcode.io/
