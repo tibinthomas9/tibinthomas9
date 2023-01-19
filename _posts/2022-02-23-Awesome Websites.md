@@ -166,6 +166,7 @@ Pronunciation
  * https://refactoring.guru/design-patterns/what-is-pattern
  * https://github.com/geohot/fromthetransistor
  * https://www.bottomupcs.com/
+ * https://github.com/techmexdev/fromthetransistor
  
  [Competitive Programming](#Competitive-Programming)
  * https://neetcode.io/
