@@ -167,6 +167,7 @@ Pronunciation
  * https://github.com/geohot/fromthetransistor
  * https://www.bottomupcs.com/
  * https://github.com/techmexdev/fromthetransistor
+ * https://github.com/ossu/computer-science
  
  [Competitive Programming](#Competitive-Programming)
  * https://neetcode.io/
