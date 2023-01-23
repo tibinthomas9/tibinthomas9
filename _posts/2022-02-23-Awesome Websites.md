@@ -174,6 +174,7 @@ Pronunciation
  * https://www.learncomputerscienceonline.com/introduction-to-computer-science/
  * https://roadmap.sh/computer-science
  * https://cs.fit.edu/~ryan/cse1002/lectures/introduction.pdf
+ * https://github.com/mtdvio/every-programmer-should-know
  
  [Competitive Programming](#Competitive-Programming)
  * https://neetcode.io/
