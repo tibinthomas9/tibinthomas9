@@ -168,6 +168,8 @@ Pronunciation
  * https://www.bottomupcs.com/
  * https://github.com/techmexdev/fromthetransistor
  * https://github.com/ossu/computer-science
+ * https://teachyourselfcs.com/
+ * https://techdevguide.withgoogle.com/paths/
  
  [Competitive Programming](#Competitive-Programming)
  * https://neetcode.io/
@@ -236,6 +238,8 @@ iOS
  * https://www.journaldev.com/22826/ios-uiswitch
  * https://riptutorial.com/ios
  * https://iosexample.com/
+ * https://github.com/vsouza/awesome-ios#readme
+
 
 
  Lifecycle
@@ -383,6 +387,7 @@ Develop a guide for iOS which details out important structured details of iOS de
  
 
 ## History
+https://github.com/smenjas/history-notes
 
  
 ## Literature
