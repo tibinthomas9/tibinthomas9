@@ -173,6 +173,7 @@ Pronunciation
  * https://www-users.cse.umn.edu/~barry/book1.2.pdf
  * https://www.learncomputerscienceonline.com/introduction-to-computer-science/
  * https://roadmap.sh/computer-science
+ * https://cs.fit.edu/~ryan/cse1002/lectures/introduction.pdf
  
  [Competitive Programming](#Competitive-Programming)
  * https://neetcode.io/
