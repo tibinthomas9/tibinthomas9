@@ -170,6 +170,9 @@ Pronunciation
  * https://github.com/ossu/computer-science
  * https://teachyourselfcs.com/
  * https://techdevguide.withgoogle.com/paths/
+ * https://www-users.cse.umn.edu/~barry/book1.2.pdf
+ * https://www.learncomputerscienceonline.com/introduction-to-computer-science/
+ * https://roadmap.sh/computer-science
  
  [Competitive Programming](#Competitive-Programming)
  * https://neetcode.io/
