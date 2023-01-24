@@ -184,6 +184,7 @@ Pronunciation
  * https://leetcode.com/archit91/
  * https://www.hiredintech.com/classrooms/interview-strategies/lesson/88
  * https://ghumare64.medium.com/remote-job-roadmap-276c2d61c0cc
+ * https://medium.com/@SantalTech/every-resource-i-used-to-get-500k-software-engineering-offers-bae44a0097c7
  
 
 
