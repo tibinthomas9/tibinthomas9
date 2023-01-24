@@ -25,6 +25,7 @@ DSA
 * https://www.youtube.com/watch?v=k2iS5t78N4Q&list=PLgUwDviBIf0pmQB5UD86d8-hLhXc5CUJ_
 * https://www.techinterviewhandbook.org/algorithms/array
 * https://www.quastor.org/
+* https://medium.com/@SantalTech/every-resource-i-used-to-get-500k-software-engineering-offers-bae44a0097c7
 
 Study Plan
 * https://gist.github.com/tibinthomas9/692a548d48c6f65a81d915fbe1ce7217
