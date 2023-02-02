@@ -175,6 +175,7 @@ Pronunciation
  * https://roadmap.sh/computer-science
  * https://cs.fit.edu/~ryan/cse1002/lectures/introduction.pdf
  * https://github.com/mtdvio/every-programmer-should-know
+https://www.studytonight.com/data-structures/introduction-to-data-structures
  
  [Competitive Programming](#Competitive-Programming)
  * https://neetcode.io/
