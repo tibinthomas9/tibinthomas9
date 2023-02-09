@@ -206,6 +206,7 @@ https://www.studytonight.com/data-structures/introduction-to-data-structures
 * https://docs.google.com/spreadsheets/d/1zNLbd4ShNbJ0xxLBjVmGY6VKkDjIkRsw3RWRfnakLM8/edit#gid=0
 * https://arpitbhayani.me/system-design
 * https://gist.github.com/vasanthk/485d1c25737e8e72759f
+* https://www.freecodecamp.org/news/have-an-idea-want-to-build-a-product-from-scratch-heres-a-checklist-of-things-you-should-go-through-in-your-backend-software-architecture/
 
 
 
