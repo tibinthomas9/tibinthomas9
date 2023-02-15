@@ -228,6 +228,7 @@ Swift
  * https://koenig-media.raywenderlich.com/uploads/2020/12/RW-Swift-5.1-Cheatsheet-1.0.pdf
  * https://www.avanderlee.com/category/swift/
  * https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst#advice-use-copy-on-write-semantics-for-large-values
+ * https://aglowiditsolutions.com/blog/top-swift-design-patterns/#:~:text=The%20following%20are%20some%20of,Singleton
 
 iOS
  * https://www.tutorialspoint.com/ios/
