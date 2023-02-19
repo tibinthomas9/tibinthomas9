@@ -329,6 +329,7 @@ System design
  * https://medium.com/the-codelog/interviewing-for-an-ios-design-system-engineer-role-at-spotify-6727ecb5bfdc
  * https://www.davidseek.com/fb/
  * https://www.educative.io/blog/complete-guide-to-system-design
+ * https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles
  * https://iosinterviewguide.com/system-design-interview/ecommerce?utm_content=suggested+article&utm_medium=landing+page&utm_source=ios+interview+guide+website
  
 Blogs 
