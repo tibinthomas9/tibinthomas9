@@ -229,6 +229,7 @@ Swift
  * https://www.avanderlee.com/category/swift/
  * https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst#advice-use-copy-on-write-semantics-for-large-values
  * https://aglowiditsolutions.com/blog/top-swift-design-patterns/#:~:text=The%20following%20are%20some%20of,Singleton
+ * https://betterprogramming.pub/concurrency-in-ios-and-swift-guide-50443ce5b0f5#:~:text=Concurrent%20Queues%20executes%20tasks%20one,threads%20from%20the%20thread%20pool.
 
 iOS
  * https://www.tutorialspoint.com/ios/
