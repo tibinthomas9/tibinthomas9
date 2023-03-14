@@ -295,6 +295,11 @@ Design, Architecture
  * https://karthikkeyan.medium.com/ios-app-architecture-3f1d1400862f
  * https://straypixels.net/swift-dictionary-locking/
  * https://blog.bytebytego.com/p/twitter-architecture-2022-vs-2012
+
+Database Design
+ * https://github.com/sujeet-agrahari/awesome-database-design
+ * https://hevodata.com/learn/schema-example/
+ * https://web.archive.org/web/20160308080311/http://www.databaseanswers.org/data_models/
  
 
 Interview Questions 
