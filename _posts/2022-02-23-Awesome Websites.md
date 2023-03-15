@@ -337,6 +337,7 @@ System design
  * https://www.educative.io/blog/complete-guide-to-system-design
  * https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles
  * https://iosinterviewguide.com/system-design-interview/ecommerce?utm_content=suggested+article&utm_medium=landing+page&utm_source=ios+interview+guide+website
+ * https://www.youtube.com/watch?v=pfrjGFDXRt4&ab_channel=iCode
  
 Blogs 
 
