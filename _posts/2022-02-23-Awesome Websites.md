@@ -280,6 +280,8 @@ SwiftUI
  * https://steipete.com/posts/state-of-swiftui/
  * https://ishtiz.com/swiftui/swiftui-interview-questions-and-answers-part-1
  * https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet
+ * https://developer.apple.com/documentation/swiftui/
+ 
 
 Design, Architecture 
 
