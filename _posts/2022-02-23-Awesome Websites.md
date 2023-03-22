@@ -212,6 +212,7 @@ https://sourcemaking.com/design_patterns
 * https://arpitbhayani.me/system-design
 * https://gist.github.com/vasanthk/485d1c25737e8e72759f
 * https://www.freecodecamp.org/news/have-an-idea-want-to-build-a-product-from-scratch-heres-a-checklist-of-things-you-should-go-through-in-your-backend-software-architecture/
+* https://levelup.gitconnected.com/system-design-master-template-how-to-answer-any-system-design-interview-question-ee5dc332acd5
 
 
 
