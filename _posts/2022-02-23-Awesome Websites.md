@@ -178,8 +178,9 @@ Pronunciation
  * https://roadmap.sh/computer-science
  * https://cs.fit.edu/~ryan/cse1002/lectures/introduction.pdf
  * https://github.com/mtdvio/every-programmer-should-know
-https://www.studytonight.com/data-structures/introduction-to-data-structures
-https://sourcemaking.com/design_patterns
+ * https://www.studytonight.com/data-structures/introduction-to-data-structures
+ * https://sourcemaking.com/design_patterns
+ * https://visualgo.net/en
  
  [Competitive Programming](#Competitive-Programming)
  * https://neetcode.io/
