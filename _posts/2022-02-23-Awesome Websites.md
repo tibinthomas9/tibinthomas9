@@ -284,6 +284,9 @@ SwiftUI
  * https://ishtiz.com/swiftui/swiftui-interview-questions-and-answers-part-1
  * https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet
  * https://developer.apple.com/documentation/swiftui/
+ *  https://matteomanferdini.com/wp-content/uploads/2020/05/Architecting-SwiftUI-apps-with-MVC-and-MVVM.pdf
+ *  https://matteomanferdini.com/wp-content/uploads/2019/10/The-5-most-common-misconceptions-about-SwiftUI-Matteo-Manferdini.pdf
+ *  https://matteomanferdini.com/wp-content/uploads/2019/04/The-Complete-Guide-to-Understanding-Swift-Optionals.pdf
  
 
 Design, Architecture 
