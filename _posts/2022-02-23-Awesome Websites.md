@@ -326,6 +326,7 @@ Interview Questions
 * https://brainstation.io/career-guides/ios-developer-interview-questions
 * https://codewithchris.com/ios-interview-questions/
 * https://github.com/dmyma/iOS-interview
+* https://www.linkedin.com/interview-prep/assessments/urn:li:fsd_assessment:(1,a)/question/urn:li:fsd_assessmentQuestion:(10011,aq11)/
  
  Testing
  * https://qualitycoding.org/ios-unit-testing/
