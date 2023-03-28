@@ -237,6 +237,7 @@ Swift
  * https://aglowiditsolutions.com/blog/top-swift-design-patterns/#:~:text=The%20following%20are%20some%20of,Singleton
  * https://betterprogramming.pub/concurrency-in-ios-and-swift-guide-50443ce5b0f5#:~:text=Concurrent%20Queues%20executes%20tasks%20one,threads%20from%20the%20thread%20pool.
  * https://drive.google.com/file/d/1qynkqYoxhHhBLCO_aDfIULfgrMhtt94Y/view
+ * https://namitgupta.com/9-swift-one-liners-that-will-make-you-look-like-an-expert
 
 iOS
  * https://www.tutorialspoint.com/ios/
