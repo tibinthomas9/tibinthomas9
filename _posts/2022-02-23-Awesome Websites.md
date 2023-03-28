@@ -290,6 +290,7 @@ SwiftUI
  *  https://matteomanferdini.com/wp-content/uploads/2020/05/Architecting-SwiftUI-apps-with-MVC-and-MVVM.pdf
  *  https://matteomanferdini.com/wp-content/uploads/2019/10/The-5-most-common-misconceptions-about-SwiftUI-Matteo-Manferdini.pdf
  *  https://matteomanferdini.com/wp-content/uploads/2019/04/The-Complete-Guide-to-Understanding-Swift-Optionals.pdf
+ *  https://github.com/Inncoder/SwiftUI-Animations
  
 
 Design, Architecture 
