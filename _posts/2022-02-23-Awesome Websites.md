@@ -145,6 +145,7 @@ Pronunciation
 * https://ieltsfocus.com/2018/10/09/band-7-ielts-speaking/
 
 * https://qr.ae/pvfPa8
+* https://www.tutoringhour.com/lessons/grammar/syllables/#:~:text=The%20noun%20progress%20has%20its%20stress
 
 
 ## Computer Science
