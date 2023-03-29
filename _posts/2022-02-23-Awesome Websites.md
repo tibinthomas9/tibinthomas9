@@ -5,29 +5,7 @@
 
 
 
-   ### *English*  
-   
-   
-   - [General](#General)
-   - [Astronomy](#Astronomy)
-   - [Simulation](#Simulation)
-   - [Biology](#Biology)
-   - [Business](#Business)
-   - [Chemistry](#Chemistry)
-   - [Computer Science](#Computer-Science)
-   - [Economics](#Economics)
-   - [Engineering](#Engineering)
-   -  [Film](#Film)
-   - [Geography](#Geography)
-   - [History](#History)
-   - [Literature](#Literature)
-   - [Mathematics](#Mathematics)
-   - [Media](#Media)
-   - [Philosophy](#Philosophy)
-   - [Physics](#Physics)
-   - [Psychology](#Psychology)
-   - [IELTS](#IELTS)
-
+ 
 
 
 
@@ -68,6 +46,11 @@
 -   [Xhalr](https://xhalr.com/) - Provides a collection of interactive and visual effects.
 -   [MyNoise](https://mynoise.net/) - Provides a wide range of background noises for relaxation or focus.
 -   [Neave](https://neave.com/) - Offers a variety of interactive websites and games.
+
+## Simulation
+
+-   Windy: [https://www.windy.com/](https://www.windy.com/)
+-   NVIDIA Omniverse: [https://www.nvidia.com/en-us/omniverse/](https://www.nvidia.com/en-us/omniverse/)
 
 ## Open Source Projects
 
@@ -427,110 +410,44 @@ This is a curated list of resources related to design and architecture for iOS d
 Study Plan 
 * https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/startuplinks.md
 
-Tools 
 
-https://www.wtfautolayout.com/
-https://app.lazyweb.rocks/
+## Tools
+
+-   [WTF Auto Layout](https://www.wtfautolayout.com/) - A debugging tool for iOS Auto Layout constraints.
+-   [LazyWeb](https://app.lazyweb.rocks/) - A web tool to generate HTML/CSS code snippets for common UI elements.
 
 Develop a guide for iOS which details out important structured details of iOS development which details most important things to learn like concurrency but also discuss minute non technical details like signing, app Ids,Apples recoomended way, which frameworks use target action pattern, which use singletons, which use delegates ,which use functional programming, protocol programming, event driven or reactive programing(swiftUI, combine, Rxswift), concection between functional and reactive, declarative programming, key value coding and Obeserving. Various values in plist, which functionalities need an associated permission text in plist etc, when to use swift, swiftUI, ObjectiveC, when to use GCD vs Operations vs Threads, where to use value driven programing or reference types, how threads are handled in multi cores, how data gets saved during context switch, importance of ABI stability of swift, how swift, objectivec and C work together in the OS, details about POSIX features, learn from transistor, how SoliD patterns get enforced via protocol oriented programming, how design patterns and different programing patterns work together in swift or Cocoa
 
-
- 
-
-
-
-
- [Courses](#Courses)
-
-
-### Artificial Intelligence
-
-
-
-### Coding Basics
-
-
-### Courses
- 
-
-
-
-
-## Economics
- 
-
-## Electronics
- 
-
-
-## Engineering
- 
-
-
-## Film
  
 
 ## History
 https://github.com/smenjas/history-notes
 
  
-## Literature
+## Medium
+
+-   [6 Habits of Effortlessly Charismatic People](https://medium.com/my-storify/6-habits-of-effortlessly-charismatic-people-3b9a0f137ed9)
+
+## Blog
+
+-   [http://damagemag.com/](http://damagemag.com/)
+-   [Naval sreekant blog](https://nav.al/)
+-   [George Hotz blog](https://geohot.github.io/blog/) - hacker, comma ai self driving cars
+-   [https://www.johncoogan.com/](https://www.johncoogan.com/)
+-   [Entropy](https://jamesclear.com/entropy) by James Clear
+-   [Why You're Not Getting Promoted as an Engineer](https://medium.com/@_michaellin/why-youre-not-getting-promoted-as-an-engineer-8d213f5ea0a6) by Michael Lin
+
+## Philosophy
+
+-   [Entropy](https://jamesclear.com/entropy)
+-   “Until man learns to respect and speak to the animal world, he can never know his true role on earth”.
 
 
-## Mathematics 
-
- [Algebra](#Algebra)
- [Calculus](#Calculus)
- [Statistics](#Statistics)
- 
-### Algebra
-
- 
-### Calculus
-
-### Statistics
 
 
 ## Twitter
 https://twitter.com/Infinitians1/status/1500813267547033602?s=20&t=lLk_fyY2PVJmKfmS2Gmp0g
 
-## Media
-
-## Medium
-* https://medium.com/my-storify/6-habits-of-effortlessly-charismatic-people-3b9a0f137ed9
-
-## Blog
- 
-* http://damagemag.com/
-* [Naval sreekant blog](https://nav.al/)
-* [George Hotz blog](https://geohot.github.io/blog/) -  hacker,   comma ai self driving cars 
-* https://www.johncoogan.com/
-* https://jamesclear.com/entropy
-* https://medium.com/@_michaellin/why-youre-not-getting-promoted-as-an-engineer-8d213f5ea0a6
-
-
-## Philosophy 
-* https://jamesclear.com/entropy
-* “Until man learns to respect and speak to the animal world, he can never know his true role on earth”.
-
-
-
-
-
-## Physics 
-
-
-
-## Psychology 
-
-
-
-
-
-## Simulation
-https://www.windy.com/
-https://www.nvidia.com/en-us/omniverse/
- 
 
 
 > Written with [StackEdit](https://stackedit.io/).
