@@ -31,58 +31,55 @@
 
 
 
-## General
+# List of Interesting Websites
 
-* [statista](https://www.statista.com)
-* [ifitweremyhome](http://www.ifitweremyhome.com) - compare living conditions in your own country to those of another
-* [thetruesize](https://thetruesize.com/)
-* [windy](https://www.windy.com/) - provide webcam view of places and also weather details
-*  [theglobaleconomy](https://www.theglobaleconomy.com/) - provide up-to-date numbers for GDP, inflation, credit, interest rates, employment, and many other indicators
-* [populationpyramid](https://www.populationpyramid.net/) - provide age, gender wise details of population
-*  [First website](http://info.cern.ch/hypertext/WWW/TheProject.html) -  first website in the world   
-*  https://explorabl.es/
-*  https://ncase.me/
-*  https://www.geocaching.com/play
-*  https://www.rainymood.com/
-*  https://www.reddit.com/r/InternetIsBeautiful/
-*  http://radio.garden/
-*  https://savecrate.com/all
-*  https://exp-infinite-passerella.lusion.co/
-*  https://threejs.org/
-*  https://justforfun.io/
-*  http://histropedia.com/timeline-everything.html
-*  https://www.gapminder.org/dollar-street?min=203&topic=homes
-*  https://driveandlisten.herokuapp.com/
-*  https://www.exnge.com/
-*  https://sciurls.com/
-*  https://www.woot.com/
-*  https://www.amazon.com/Outlet/
-*  https://strobe.cool/
-*  https://zoom.earth/
-*  https://www.illusionsindex.org/
-*  https://neave.com/
-*  https://hackernoon.com/19-github-repositories-to-make-you-a-10x-developer?source=rss
-*  https://opensky-network.org/
-*  https://twitter.com/arvindravich/status/1499100506643443712
-*  https://www.jobscan.co/
-*  https://www.genome.gov/Funded-Programs-Projects/ENCODE-Project-ENCyclopedia-Of-DNA-Elements
-*  https://housestockwatcher.com/
-*  https://golden.com/explore
-*  https://golden.xyz/
-*  https://devutils.app/
-*  https://www.producthunt.com/time-travel?ref=header_nav
-*  https://ai.google/education/
-*  https://www.quastor.org/
-*  https://www.worldometers.info/
-*  https://yourmorals.org/
-*  http://weavesilk.com/
-*  https://xhalr.com/
-*  https://mynoise.net/
-*  https://datalab.usaspending.gov/
-*  https://wisdomtheory.gumroad.com/l/100MM
-*  https://www.johncoogan.com/how-to-get-a-job/
-*  https://www.mckinsey.com/industries/financial-services/our-insights/the-rise-and-rise-of-the-global-balance-sheet-how-productively-are-we-using-our-wealth#:~:text=The%20world%20has%20never%20been,%24160%20trillion%20to%20%24510%20trillion.
-*  https://www.fluentu.com/blog/english/learn-american-english-accent/
+## Statistics
+
+-   [Statista](https://www.statista.com/) - Provides data on a wide range of topics such as business, politics, society, and more.
+
+## Comparison
+
+-   [IfItWereMyHome](http://www.ifitweremyhome.com/) - Allows users to compare living conditions in their own country to those of another.
+-   [The True Size](https://thetruesize.com/) - Helps people understand the actual size of countries by comparing them to others.
+
+## Weather and Travel
+
+-   [Windy](https://www.windy.com/) - Provides webcam view of places and also weather details.
+-   [Radio Garden](http://radio.garden/) - Allows people to listen to radio stations from all over the world.
+-   [Drive & Listen](https://driveandlisten.herokuapp.com/) - Provides the experience of driving through different cities while listening to local radio stations.
+
+## Economy and Society
+
+-   [The Global Economy](https://www.theglobaleconomy.com/) - Provides up-to-date numbers for GDP, inflation, credit, interest rates, employment, and many other indicators.
+-   [Population Pyramid](https://www.populationpyramid.net/) - Provides age, gender wise details of population.
+-   [Gapminder Dollar Street](https://www.gapminder.org/dollar-street?min=203&topic=homes) - Shows how people live around the world by displaying photos of everyday life in different countries and cultures.
+
+## Interactive and Fun
+
+-   [Explorables](https://explorabl.es/) - Offers interactive and engaging content for learning.
+-   [Nicky Case](https://ncase.me/) - Provides interactive educational games.
+-   [Geocaching](https://www.geocaching.com/play) - Helps people to explore the outdoors and find hidden treasures.
+-   [Rainy Mood](https://www.rainymood.com/) - Provides a calming background sound of rain for relaxation.
+-   [Just For Fun](https://justforfun.io/) - Offers entertaining websites and games.
+-   [Histropedia](http://histropedia.com/timeline-everything.html) - Displays historical events in an interactive timeline.
+-   [Strobe Illusion](https://strobe.cool/) - Provides a collection of optical illusions.
+-   [Illusions Index](https://www.illusionsindex.org/) - Offers a database of visual illusions.
+-   [Weave Silk](http://weavesilk.com/) - Allows people to create their own digital art.
+-   [Xhalr](https://xhalr.com/) - Provides a collection of interactive and visual effects.
+-   [MyNoise](https://mynoise.net/) - Provides a wide range of background noises for relaxation or focus.
+-   [Neave](https://neave.com/) - Offers a variety of interactive websites and games.
+
+## Open Source Projects
+
+-   [Apollo-11](https://github.com/chrislgarry/Apollo-11) - The source code that was used in the Apollo 11 guidance computer.
+-   [Apple Open Source](https://opensource.apple.com/releases/) - The source code for Apple's open source projects.
+-   [Three.js](https://threejs.org/) - A 3D graphics library for the web.
+
+## Miscellaneous
+
+-   [Save Crate](https://savecrate.com/all) - A collection of useful websites and tools.
+-   [Infinite Passerella](https://exp-infinite-passerella.lusion.co/) - An interactive and futuristic website.
+-   [Hackernoon](https://hackernoon.com/19-github-repositories-to-make-you-a-10x-developer?source=rss) - A collection of GitHub repositories to improve coding skills
 
 
 
