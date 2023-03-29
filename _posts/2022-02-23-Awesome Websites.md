@@ -67,7 +67,7 @@
 
 ## A collaborative list of new "learning playlists" introduced by YouTube
 
--   [YouTube-LearningPlaylists](https://github.com/tibinthomas9/YouTube-LearningPlaylists) - A collection of useful websites and tools.
+-   [YouTube-LearningPlaylists](https://github.com/tibinthomas9/YouTube-LearningPlaylists) -new "learning playlists" introduced by YouTube
 
 
 
