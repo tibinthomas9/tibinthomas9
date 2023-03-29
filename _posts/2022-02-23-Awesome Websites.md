@@ -192,6 +192,7 @@ Pronunciation
  * https://ghumare64.medium.com/remote-job-roadmap-276c2d61c0cc
  * https://medium.com/@SantalTech/every-resource-i-used-to-get-500k-software-engineering-offers-bae44a0097c7
  * https://www.bigocheatsheet.com/
+ * https://levelup.gitconnected.com/dont-just-leetcode-follow-the-coding-patterns-instead-4beb6a197fdb
  
 
 
