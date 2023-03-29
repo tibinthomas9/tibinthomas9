@@ -58,6 +58,29 @@
 -   [Apple Open Source](https://opensource.apple.com/releases/) - The source code for Apple's open source projects.
 -   [Three.js](https://threejs.org/) - A 3D graphics library for the web.
 
+## AI-Powered Tools and Platforms
+
+-   [Waitroom Al](https://waitroom.ai/): Upgrade your meetings by boosting focus and accountability.
+-   [Cohesive Al](https://www.cohesive.ai/): Create magical content with the most powerful Al editor.
+-   [Ghostwryter](https://ghostwryter.com/): An Al writing assistant made just for Google Docs.
+-   [Castmagic Al](https://castmagic.io/): 10x Podcast Content With Al.
+-   [User.com](https://user.com/en/): Supercharge your customer support team with Al.
+-   [Glean Al](https://glean.co/): An Al tool to find exactly what you need.
+-   [Slides Al](https://slides.ai/): Create compelling slides for your presentations in seconds.
+-   [AskThee](https://askthee.org/): Ask big thinkers like Aristotle and Einstein anything you want.
+-   [Wordtune](https://wordtune.com/): Al Summarize documents and identify key points with Al.
+-   [Supercreator Al](https://supercreator.com/): Create short form videos 10x faster with Al.
+-   [Blend Al](https://blend.studio/): Create professional product visuals in seconds.
+-   [Al Image Enlarger](https://imglarger.com/): Enlarge and upscale your images without losing quality.
+-   [WriteSonic Al](https://writesonic.com/): Create SEO-optimized content 10x faster.
+-   [Stockimg.Al](https://stockimg.ai/): Generate stock images, wallpapers, and other visual assets.
+-   [Resume Worded Al](https://resumeworded.com/): 10x your resume and LinkedIn profile.
+-   [Looka Al](https://looka.com/): Design a logo for your brand, website, or company swag with Al.
+-   [Magical Al](https://magical.ai/): Save multiple hours by automating boring and repetitive tasks.
+-   [Ellie Al](https://www.ellie.ai/): An email writing assistant that learns from your writing style.
+-   [Riverside.fm](https://riverside.fm/): Record a radio-like podcast and let your listeners call in.
+-   [Simplified Al](https://simplified.co/): An Al writer for blogs, articles, ads, products and websites.
+
 ## Miscellaneous
 
 -   [Save Crate](https://savecrate.com/all) - A collection of useful websites and tools.
