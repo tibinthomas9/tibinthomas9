@@ -90,56 +90,47 @@
   
 
 
-# Playlists
-
-
-
 ## IELTS
-Good essays
-* https://www.ieltsadvantage.com/2015/09/02/ielts-band-9-essay/
-* https://ieltsliz.com/ielts-sample-essay/
-* https://www.ielts-practice.org/category/band-9-ielts-essays/
-* https://www.yunolearning.com/ielts/listening-practice-test/
-* http://www.stgeorges.co.uk/blog/tips-for-ielts-writing-task-1-describing-graphs
 
-Idioms for speaking only
-* https://www.ieltsadvantage.com/2015/05/05/idioms-ielts-speaking/
+### Good essays
 
-good site for training and vocabulary
-* https://ielts-up.com/listening/ielts-listening-practice.html
+-   [IELTS Advantage](https://www.ieltsadvantage.com/2015/09/02/ielts-band-9-essay/) - Sample essays with tips to score band 9 in IELTS.
+-   [IELTS Liz](https://ieltsliz.com/ielts-sample-essay/) - Sample essays with tips for IELTS writing task.
+-   [IELTS Practice](https://www.ielts-practice.org/category/band-9-ielts-essays/) - Collection of essays with tips and tricks for scoring band 9 in IELTS.
+-   [Yuno Learning](https://www.yunolearning.com/ielts/listening-practice-test/) - Listening practice test for IELTS.
+-   [St George's English School Blog](http://www.stgeorges.co.uk/blog/tips-for-ielts-writing-task-1-describing-graphs) - Tips for IELTS writing task 1 describing graphs.
 
+### Idioms for speaking only
 
+-   [IELTS Advantage](https://www.ieltsadvantage.com/2015/05/05/idioms-ielts-speaking/) - Idioms and phrases for IELTS speaking.
 
-For improving vocabulary you could try listening to indian speakers in YouTube and especially videos on indian stories in English
+### Good site for training and vocabulary
 
-CHECKER
-* https://wordcounter.io/
-* https://app.grammarly.com/ddocs/546413916
+-   [IELTS Up](https://ielts-up.com/listening/ielts-listening-practice.html) - Listening practice tests, vocabulary, and study materials for IELTS.
 
-Pronunciation 
+### For improving vocabulary you could try listening to Indian speakers in YouTube and especially videos on Indian stories in English.
 
-* https://magoosh.com/toefl/pronunciation-tips-for-indian-speakers-of-english/
+## CHECKER
 
-* https://changeyouraccent.com/blogs/news/how-to-change-an-indian-accent
+-   [Word Counter](https://wordcounter.io/) - Word and character counter with grammar and readability analysis.
+-   [Grammarly](https://app.grammarly.com/ddocs/546413916) - Writing assistant for grammar and spelling checks.
 
-* https://www.talktocanada.com/blog/5-pronunciation-tips-to-get-you-started-on-changing-your-accent-and-increase-your-english-speaking-ability
+## Pronunciation
 
-* https://www.fluentu.com/blog/english/learn-american-english-accent/
+-   [Magoosh TOEFL](https://magoosh.com/toefl/pronunciation-tips-for-indian-speakers-of-english/) - Pronunciation tips for Indian speakers of English.
+-   [Change Your Accent](https://changeyouraccent.com/blogs/news/how-to-change-an-indian-accent) - Techniques to change an Indian accent in English.
+-   [Talk to Canada](https://www.talktocanada.com/blog/5-pronunciation-tips-to-get-you-started-on-changing-your-accent-and-increase-your-english-speaking-ability) - Tips to change your accent and improve English speaking ability.
+-   [FluentU](https://www.fluentu.com/blog/english/learn-american-english-accent/) - Techniques to learn American English accent.
+-   [IELTS Focus](https://ieltsfocus.com/2018/10/09/band-7-ielts-speaking/) - Tips and tricks to score band 7 in IELTS speaking.
+-   [Quora](https://qr.ae/pvfPa8) - Quora thread with pronunciation tips for English learners.
+-   [Tutoring Hour](https://www.tutoringhour.com/lessons/grammar/syllables/#:~:text=The%20noun%20progress%20has%20its%20stress) - Syllables and word stress rules in English.
 
-* https://ieltsfocus.com/2018/10/09/band-7-ielts-speaking/
+## Pronunciation Practice Tools
 
-* https://qr.ae/pvfPa8
-* https://www.tutoringhour.com/lessons/grammar/syllables/#:~:text=The%20noun%20progress%20has%20its%20stress
-
-Speechling - Speechling is a website and app that provides personalized speech feedback from native speakers, as well as practice exercises and drills to help improve your pronunciation.
-
-Pronunciation Power - Pronunciation Power is an online program that offers interactive exercises and lessons to help improve your pronunciation and fluency.
-
-Forvo - Forvo is a website that offers a large database of audio pronunciations of words and phrases in various languages, including English.
-
-English Central - English Central is a website that offers video-based lessons and practice exercises to help improve your English pronunciation and speaking skills.
-
-Speak Clearly - Speak Clearly is a website that provides free pronunciation lessons and exercises to help you improve your English pronunciation and clarity.
+-   [Speechling](https://speechling.com/) - Personalized speech feedback from native speakers and practice exercises to improve your pronunciation.
+-   [Pronunciation Power](https://pronunciationpower.com/) - Interactive exercises and lessons to improve your pronunciation and fluency.
+-   [Forvo](https://forvo.com/) - Database of audio pronunciations of words and phrases in various languages, including English.
+- [English Central](https://www.englishcentral.com/) is a website that offers video-based lessons and practice exercises to help improve your English pronunciation and speaking skills.
 
 
 ## Computer Science
