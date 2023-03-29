@@ -65,6 +65,11 @@
 -   [Hackernoon](https://hackernoon.com/19-github-repositories-to-make-you-a-10x-developer?source=rss) - A collection of GitHub repositories to improve coding skills
 
 
+## A collaborative list of new "learning playlists" introduced by YouTube
+
+-   [YouTube-LearningPlaylists](https://github.com/tibinthomas9/YouTube-LearningPlaylists) - A collection of useful websites and tools.
+
+
 
     
       
