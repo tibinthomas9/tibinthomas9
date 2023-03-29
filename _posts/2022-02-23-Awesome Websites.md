@@ -65,11 +65,6 @@
 -   [Hackernoon](https://hackernoon.com/19-github-repositories-to-make-you-a-10x-developer?source=rss) - A collection of GitHub repositories to improve coding skills
 
 
-## A collaborative list of new "learning playlists" introduced by YouTube
-
--   [YouTube-LearningPlaylists](https://github.com/tibinthomas9/YouTube-LearningPlaylists) -new "learning playlists" introduced by YouTube
-
-
 
     
       
@@ -121,7 +116,7 @@
 - [English Central](https://www.englishcentral.com/) is a website that offers video-based lessons and practice exercises to help improve your English pronunciation and speaking skills.
 
 
-## Computer Science
+# Computer Science
 
 ### Projects and Open Source
 
@@ -132,51 +127,107 @@
 
 -   [Stackshare](https://stackshare.io/): a website that allows users to view tech stacks of big software products.
 
- [Artificial Intelligence ](#Artificial-Intelligence)
- 
- 
-## Coding Basics
 
--   [algocademy](https://www.algocademy.com/)
--   [Crio](https://www.crio.do/blog/data-structures-interview-questions/)
--   [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
--   [Interviews](https://github.com/kdn251/interviews)
--   [BaseCS](https://medium.com/basecs)
+ 
+ 
+# Resources for Learning Computer Science and Programming
+
+## Links for Learning Data Structures and Algorithms
+
+Here are some useful resources for learning data structures and algorithms:
+
+## Interactive Platforms and Practice Problems
+
+-   [algocademy](https://www.algocademy.com/) - Interactive platform for learning data structures and algorithms.
+-   [Crio](https://www.crio.do/blog/data-structures-interview-questions/) - Interview questions and practice problems for data structures.
+
+## Strategies and Patterns
+
+-   [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) - Strategies and patterns for solving coding interview questions.
 -   [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
--   [Lago](https://github.com/yangshun/lago)
--   [Fireship: Data Structures & Algorithms](https://www.youtube.com/watch?v=tv-_1er1mWI&ab_channel=Fireship)
--   [Tren Black: Cracking the Coding Interview](https://www.youtube.com/watch?v=oz9cEqFynHU&ab_channel=TrenBlack)
--   [Design Patterns by Refactoring Guru](https://refactoring.guru/design-patterns/what-is-pattern)
--   [From the Transistor](https://github.com/geohot/fromthetransistor)
--   [Bottom Up Computer Science](https://www.bottomupcs.com/)
--   [TechMexDev: From the Transistor](https://github.com/techmexdev/fromthetransistor)
--   [Open Source Society University: Computer Science](https://github.com/ossu/computer-science)
--   [Teach Yourself Computer Science](https://teachyourselfcs.com/)
--   [Google Tech Dev Guide: Path to a Software Engineering Job](https://techdevguide.withgoogle.com/paths/)
--   [Computer Science I: Programming and Problem Solving with Java](https://www-users.cse.umn.edu/~barry/book1.2.pdf)
--   [Introduction to Computer Science](https://www.learncomputerscienceonline.com/introduction-to-computer-science/)
--   [Roadmap to Computer Science](https://roadmap.sh/computer-science)
--   [Introduction to Computer Science - FIT](https://cs.fit.edu/~ryan/cse1002/lectures/introduction.pdf)
--   [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
--   [Introduction to Data Structures](https://www.studytonight.com/data-structures/introduction-to-data-structures)
--   [Design Patterns - Sourcemaking](https://sourcemaking.com/design_patterns)
--   [Visualgo](https://visualgo.net/en)
+
+## Blog Series and Video Tutorials
+
+-   [BaseCS](https://medium.com/basecs) - Blog series on computer science topics including data structures and algorithms.
+-   [Fireship: Data Structures & Algorithms](https://www.youtube.com/watch?v=tv-_1er1mWI&ab_channel=Fireship) - Video series on data structures and algorithms.
+-   [Tren Black: Cracking the Coding Interview](https://www.youtube.com/watch?v=oz9cEqFynHU&ab_channel=TrenBlack) - Video series on cracking the coding interview.
+-   [Bottom Up Computer Science](https://www.bottomupcs.com/) - Video series on computer science topics including data structures and algorithms.
+
+## Additional Resources
+
+-   [Introduction to Data Structures](https://www.studytonight.com/data-structures/introduction-to-data-structures) - Introduction to data structures course.
+-   [Big O Cheat Sheet](https://www.bigocheatsheet.com/) - Cheat sheet for Big O notation.
+-   [Design Patterns by Refactoring Guru](https://refactoring.guru/design-patterns/what-is-pattern) - Detailed explanations of design patterns.
+-   [Design Patterns - Sourcemaking](https://sourcemaking.com/design_patterns) - Overview of design patterns.
+-   [Visualgo](https://visualgo.net/en) - Visual representations of data structures and algorithms.
+
+
+
+## Programming and Computer Science Fundamentals
+
+## Interview Questions and Technical Interview Guides
+
+-   [Interviews](https://github.com/kdn251/interviews) - Collection of interview questions and resources.
+-   [Tech Interview Handbook](https://www.techinterviewhandbook.org/) - Guide to technical interviews.
+
+## Computer Science Learning Resources
+
+-   [Lago](https://github.com/yangshun/lago) - Collection of resources for learning computer science and programming.
+-   [From the Transistor](https://github.com/geohot/fromthetransistor) - Comprehensive guide to computer science and programming fundamentals.
+-   [Bottom Up Computer Science](https://www.bottomupcs.com/) - Introductory course to computer science.
+-   [TechMexDev: From the Transistor](https://github.com/techmexdev/fromthetransistor) - Spanish translation of "From the Transistor".
+-   [Open Source Society University: Computer Science](https://github.com/ossu/computer-science) - Curriculum for a computer science degree.
+-   [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Comprehensive guide to learning computer science.
+-   [Roadmap to Computer Science](https://roadmap.sh/computer-science) - Roadmap for learning computer science.
+-   [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - Collection of fundamental concepts for programmers.
+
+## Programming Courses and Tutorials
+
+-   [Computer Science I: Programming and Problem Solving with Java](https://www-users.cse.umn.edu/~barry/book1.2.pdf) - Java programming course.
+-   [Introduction to Computer Science](https://www.learncomputerscienceonline.com/introduction-to-computer-science/) - Introduction to computer science course.
+-   [Introduction to Computer Science - FIT](https://cs.fit.edu/~ryan/cse1002/lectures/introduction.pdf) - Introduction to computer science course.
+
+## Resources for Preparing for a Software Engineering Job
+
+-   [Google Tech Dev Guide: Path to a Software Engineering Job](https://techdevguide.withgoogle.com/paths/) - Resources for preparing for a software engineering job.
+
 
 
  # Competitive Programming
 
--   [Neetcode](https://neetcode.io/)
+## Interview Preparation
+
 -   [Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview)
 -   [InterviewBit](https://www.interviewbit.com/practice/)
--   [How to be a 10x Engineer](https://medium.com/@_michaellin/how-to-be-a-10x-engineer-fdac2a5a1bd5)
--   [LeetCode](https://leetcode.com/archit91/)
 -   [Interview Strategies](https://www.hiredintech.com/classrooms/interview-strategies/lesson/88)
+-   [Neetcode](https://neetcode.io/)
+-   [LeetCode](https://leetcode.com/archit91/)
+-   [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+
+
+
+## Design Patterns
+
+-   [Design Patterns by Refactoring Guru](https://refactoring.guru/design-patterns/what-is-pattern)
+-   [Design Patterns - Sourcemaking](https://sourcemaking.com/design_patterns)
+
+## Computer Science Fundamentals
+
+-   [From the Transistor](https://github.com/geohot/fromthetransistor)
+-   [TechMexDev: From the Transistor](https://github.com/techmexdev/fromthetransistor)
+-   [Open Source Society University: Computer Science](https://github.com/ossu/computer-science)
+-   [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+-   [Computer Science I: Programming and Problem Solving with Java](https://www-users.cse.umn.edu/~barry/book1.2.pdf)
+-   [Introduction to Computer Science](https://www.learncomputerscienceonline.com/introduction-to-computer-science/)
+-   [Introduction to Computer Science - FIT](https://cs.fit.edu/~ryan/cse1002/lectures/introduction.pdf)
+-   [Roadmap to Computer Science](https://roadmap.sh/computer-science)
+
+## Miscellaneous
+
+-   [How to be a 10x Engineer](https://medium.com/@_michaellin/how-to-be-a-10x-engineer-fdac2a5a1bd5)
 -   [Remote Job Roadmap](https://ghumare64.medium.com/remote-job-roadmap-276c2d61c0cc)
 -   [Every Resource I Used to Get 500k Software Engineering Offers](https://medium.com/@SantalTech/every-resource-i-used-to-get-500k-software-engineering-offers-bae44a0097c7)
--   [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
 -   [Follow the Coding Patterns Instead](https://levelup.gitconnected.com/dont-just-leetcode-follow-the-coding-patterns-instead-4beb6a197fdb)
- 
-
 
  # Recursion
 
@@ -186,28 +237,23 @@
 -   [Recursion Tutorial for Beginners | Byte by Byte](https://www.youtube.com/watch?v=B3U6LExgevE&ab_channel=BytebyByte)
 -   [Coding Interview Concepts | Enjoy Algorithms](https://www.enjoyalgorithms.com/tags/coding-interview-concepts/)
 
-# System Design
 
--   [System Design | karanpratapsingh](https://github.com/karanpratapsingh/system-design)
--   [System Design Primer | donnemartin](https://github.com/donnemartin/system-design-primer)
--   [Polling, SSE, WebSockets – System Design Interview](https://igotanoffer.com/blogs/tech/polling-sse-websockets-system-design-interview#basics)
--   [Full Stack Software Design | Khalil Stemmler](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)
--   [System Design Concepts | Arpit Bhayani](https://arpitbhayani.me/system-design)
--   [System Design Cheatsheet | Vasanthk](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
--   [Backend Software Architecture Checklist | freeCodeCamp](https://www.freecodecamp.org/news/have-an-idea-want-to-build-a-product-from-scratch-heres-a-checklist-of-things-you-should-go-through-in-your-backend-software-architecture/)
--   [System Design Master Template | GitConnected](https://levelup.gitconnected.com/system-design-master-template-how-to-answer-any-system-design-interview-question-ee5dc332acd5)
--   [Netflix System Design: Backend Architecture | Dev Community](https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3)
 
-# iOS Interview
 
-## Swift
+# iOS and Swift Resources
+
+Here are some useful resources for learning and preparing for iOS and Swift interviews:
+
+## Interview Resources
 
 -   [Awesome iOS Interview](https://github.com/dashvlas/awesome-ios-interview/blob/master/Resources/English.md)
 -   [iOS Interview by DenisLitvin](https://github.com/DenisLitvin/iOS-Interview)
 -   [iOS Interview Questions by onthecodepath](https://github.com/onthecodepath/iOS-Interview-Questions)
 -   [Swift Interview Questions by acrookston](https://gist.github.com/acrookston/da0652bb6a5e9b11f2e79b7dc04e533b)
 -   [iOS Interview by raywenderlich](https://github.com/raywenderlich/ios-interview)
--   [Swift Interview Questions by funmia](https://gist.github.com/funmia/8f33509d70448523e9652db1bcfcad2a)
+
+## Tutorials and Guides
+
 -   [Swift Tutorial by codewithchris](https://codewithchris.com/swift-tutorial-complete/)
 -   [Swift Comments and Documentation by advancedswift](https://www.advancedswift.com/comments-documentation-swift/)
 -   [Programming with Swift](https://programmingwithswift.com/)
@@ -215,11 +261,6 @@
 -   [Swift on Tap](https://swiftontap.com/section)
 -   [Swift 5.1 Cheatsheet by raywenderlich](https://koenig-media.raywenderlich.com/uploads/2020/12/RW-Swift-5.1-Cheatsheet-1.0.pdf)
 -   [Swift by Avanderlee](https://www.avanderlee.com/category/swift/)
--   [Optimization Tips for Swift by apple](https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst#advice-use-copy-on-write-semantics-for-large-values)
--   [Top Swift Design Patterns by Aglowid IT Solutions](https://aglowiditsolutions.com/blog/top-swift-design-patterns/#:~:text=The%20following%20are%20some%20of,Singleton)
--   [Concurrency in iOS and Swift Guide by Better Programming](https://betterprogramming.pub/concurrency-in-ios-and-swift-guide-50443ce5b0f5#:~:text=Concurrent%20Queues%20executes%20tasks%20one,threads%20from%20the%20thread%20pool.)
--   [9 Swift One-Liners That Will Make You Look Like an Expert by Namit Gupta](https://namitgupta.com/9-swift-one-liners-that-will-make-you-look-like-an-expert)
-
 ### Tutorials and Courses
 
 -   [TutorialsPoint iOS Tutorial](https://www.tutorialspoint.com/ios/)
@@ -229,6 +270,27 @@
 -   [iOS Example](https://iosexample.com/)
 -   [iOS Learning Materials](https://github.com/jVirus/ios-learning-materials)
 -   [iOS Tutorial](https://github.com/Catherine22/iOS-tutorial)
+
+## Optimization and Design Patterns
+
+-   [Optimization Tips for Swift by apple](https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst#advice-use-copy-on-write-semantics-for-large-values)
+-   [Top Swift Design Patterns by Aglowid IT Solutions](https://aglowiditsolutions.com/blog/top-swift-design-patterns/#:~:text=The%20following%20are%20some%20of,Singleton)
+
+## Concurrency
+
+-   [Concurrency in iOS and Swift Guide by Better Programming](https://betterprogramming.pub/concurrency-in-ios-and-swift-guide-50443ce5b0f5#:~:text=Concurrent%20Queues%20executes%20tasks%20one,threads%20from%20the%20thread%20pool.)
+
+-   [Concurrency in Swift: Grand Central Dispatch Part 1](https://ali-akhtar.medium.com/concurrency-in-swift-grand-central-dispatch-part-1-945ff05e8863)
+-   [WWDC Notes](https://www.wwdcnotes.com/)
+-   [Creating Thread-Safe Arrays in Swift](https://zamzam.io/creating-thread-safe-arrays-in-swift/)
+-   [Concurrent Serial DispatchQueue](https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/)
+-   [Serial DispatchQueue on Twitter](https://twitter.com/onmyway133/status/1501951060696465410/photo/1)
+-   [Concurrent Serial DispatchQueue on Blog](https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/)
+
+## Swift One-Liners
+
+-   [9 Swift One-Liners That Will Make You Look Like an Expert by Namit Gupta](https://namitgupta.com/9-swift-one-liners-that-will-make-you-look-like-an-expert)
+
 
 ### Architecture and Design
 
@@ -270,22 +332,38 @@
  
 # SwiftUI Resources
 
+### Tutorials and Articles
+
 -   [Learn SwiftUI Text](https://www.appcoda.com/learnswiftui/swiftui-text.html)
 -   [SwiftUI Apprentice: Checking Your Tools](https://www.raywenderlich.com/books/swiftui-apprentice/v1.0/chapters/1-checking-your-tools#toc-chapter-007-anchor-001)
 -   [Stop Using MVVM with SwiftUI](https://medium.com/@karamage/stop-using-mvvm-with-swiftui-2c46eb2cc8dc)
 -   [Avoiding Massive SwiftUI Views](https://www.swiftbysundell.com/articles/avoiding-massive-swiftui-views/)
--   [ygit/SwiftUI](https://github.com/ygit/swiftui)
--   [Top SwiftUI App Templates](https://apps4world.medium.com/top-swiftui-app-templates-xcode-source-codes-2797ffabd4ab)
--   [SwiftUI Empty State](https://peterfriese.dev/posts/swiftui-empty-state/)
 -   [State of SwiftUI](https://steipete.com/posts/state-of-swiftui/)
--   [SwiftUI Interview Questions and Answers](https://ishtiz.com/swiftui/swiftui-interview-questions-and-answers-part-1)
+-   [SwiftUI Empty State](https://peterfriese.dev/posts/swiftui-empty-state/)
+
+### GitHub Repositories
+
+-   [ygit/SwiftUI](https://github.com/ygit/swiftui)
+-   [SwiftUI Animations](https://github.com/Inncoder/SwiftUI-Animations)
 -   [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet)
+
+### Templates and Examples
+
+-   [Top SwiftUI App Templates](https://apps4world.medium.com/top-swiftui-app-templates-xcode-source-codes-2797ffabd4ab)
+
+### Documentation
+
 -   [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui/)
+
+### Interview Questions and Answers
+
+-   [SwiftUI Interview Questions and Answers](https://ishtiz.com/swiftui/swiftui-interview-questions-and-answers-part-1)
+
+### PDF Resources
+
 -   [Architecting SwiftUI Apps with MVC and MVVM](https://matteomanferdini.com/wp-content/uploads/2020/05/Architecting-SwiftUI-apps-with-MVC-and-MVVM.pdf)
 -   [The 5 Most Common Misconceptions About SwiftUI](https://matteomanferdini.com/wp-content/uploads/2019/10/The-5-most-common-misconceptions-about-SwiftUI-Matteo-Manferdini.pdf)
 -   [The Complete Guide to Understanding Swift Optionals](https://matteomanferdini.com/wp-content/uploads/2019/04/The-Complete-Guide-to-Understanding-Swift-Optionals.pdf)
--   [SwiftUI Animations](https://github.com/Inncoder/SwiftUI-Animations)
-
 # Design and Architecture Resources for iOS Development
 
 This is a curated list of resources related to design and architecture for iOS development.
@@ -327,11 +405,7 @@ This is a curated list of resources related to design and architecture for iOS d
 -   [iOS Dev Directory](https://iosdevdirectory.com/)
 -   [Onmyway133 Blog](https://onmyway133.com/)
 
-# Database Design
 
--   [Awesome Database Design](https://github.com/sujeet-agrahari/awesome-database-design)
--   [Schema Example](https://hevodata.com/learn/schema-example/)
--   [Database Answers Data Models](https://web.archive.org/web/20160308080311/http://www.databaseanswers.org/data_models/)
 
 # Interview Questions
 
@@ -353,33 +427,45 @@ This is a curated list of resources related to design and architecture for iOS d
 -   [iOS Unit Testing](https://qualitycoding.org/ios-unit-testing/)
 -   [Unit Testing Best Practices](https://www.avanderlee.com/swift/unit-tests-best-practices/)
 
-## Concurrency
 
--   [Concurrency in Swift: Grand Central Dispatch Part 1](https://ali-akhtar.medium.com/concurrency-in-swift-grand-central-dispatch-part-1-945ff05e8863)
--   [WWDC Notes](https://www.wwdcnotes.com/)
--   [Creating Thread-Safe Arrays in Swift](https://zamzam.io/creating-thread-safe-arrays-in-swift/)
--   [Concurrent Serial DispatchQueue](https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/)
--   [Serial DispatchQueue on Twitter](https://twitter.com/onmyway133/status/1501951060696465410/photo/1)
--   [Concurrent Serial DispatchQueue on Blog](https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/)
  
-# System Design
+# Mobile System Design Resources
 
-### Articles and Guides
+This is a list of resources that can help you prepare for a mobile system design interview.
 
--   [Google Spreadsheet of Mobile System Design Resources](https://docs.google.com/spreadsheets/d/1zNLbd4ShNbJ0xxLBjVmGY6VKkDjIkRsw3RWRfnakLM8/htmlview)
+## Articles
+
 -   [Cracking the Mobile System Design Interview](https://themobileinterview.com/cracking-the-mobile-system-design-interview/)
 -   [Interviewing for an iOS Design System Engineer Role at Spotify](https://medium.com/the-codelog/interviewing-for-an-ios-design-system-engineer-role-at-spotify-6727ecb5bfdc)
 -   [Complete Guide to System Design](https://www.educative.io/blog/complete-guide-to-system-design)
 -   [Grokking the Low-Level Design Interview using OOD Principles](https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles)
 -   [System Design Interview for Mobile Engineers](https://medium.com/geekculture/system-design-interview-for-mobile-engineers-ce712d6ac2c1)
 -   [Interviewing for an iOS Design System Role](https://funmi.substack.com/p/interviewing-for-an-ios-design-system?s=r)
--   [Mobile System Design Resources](https://github.com/weeeBox/mobile-system-design)
 -   [Facebook System Design Interview Question](https://www.davidseek.com/fb/)
 -   [iOS Interview Guide: System Design Interview - E-commerce](https://iosinterviewguide.com/system-design-interview/ecommerce?utm_content=suggested+article&utm_medium=landing+page&utm_source=ios+interview+guide+website)
+-   [Polling, SSE, WebSockets – System Design Interview](https://igotanoffer.com/blogs/tech/polling-sse-websockets-system-design-interview#basics)
+-   [Full Stack Software Design | Khalil Stemmler](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)
+-   [System Design Concepts | Arpit Bhayani](https://arpitbhayani.me/system-design)
 
-### Videos
+## Repositories
 
--   [iCode System Design Interview](https://www.youtube.com/watch?v=pfrjGFDXRt4&ab_channel=iCode)
+-   [Google Spreadsheet of Mobile System Design Resources](https://docs.google.com/spreadsheets/d/1zNLbd4ShNbJ0xxLBjVmGY6VKkDjIkRsw3RWRfnakLM8/htmlview)
+-   [Mobile System Design Resources](https://github.com/weeeBox/mobile-system-design)
+-   [System Design | karanpratapsingh](https://github.com/karanpratapsingh/system-design)
+-   [System Design Primer | donnemartin](https://github.com/donnemartin/system-design-primer)
+-   [System Design Cheatsheet | Vasanthk](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+-   [System Design Master Template | GitConnected](https://levelup.gitconnected.com/system-design-master-template-how-to-answer-any-system-design-interview-question-ee5dc332acd5)
+-   [Netflix System Design: Backend Architecture | Dev Community](https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3)
+
+## Checklists
+
+-   [Backend Software Architecture Checklist | freeCodeCamp](https://www.freecodecamp.org/news/have-an-idea-want-to-build-a-product-from-scratch-heres-a-checklist-of-things-you-should-go-through-in-your-backend-software-architecture/)
+
+## Database Design
+
+-   [Awesome Database Design](https://github.com/sujeet-agrahari/awesome-database-design)
+-   [Schema Example](https://hevodata.com/learn/schema-example/)
+-   [Database Answers Data Models](https://web.archive.org/web/20160308080311/http://www.databaseanswers.org/data_models/)
 
  
 ## Blogs
@@ -423,6 +509,15 @@ Study Plan
 
 Develop a guide for iOS which details out important structured details of iOS development which details most important things to learn like concurrency but also discuss minute non technical details like signing, app Ids,Apples recoomended way, which frameworks use target action pattern, which use singletons, which use delegates ,which use functional programming, protocol programming, event driven or reactive programing(swiftUI, combine, Rxswift), concection between functional and reactive, declarative programming, key value coding and Obeserving. Various values in plist, which functionalities need an associated permission text in plist etc, when to use swift, swiftUI, ObjectiveC, when to use GCD vs Operations vs Threads, where to use value driven programing or reference types, how threads are handled in multi cores, how data gets saved during context switch, importance of ABI stability of swift, how swift, objectivec and C work together in the OS, details about POSIX features, learn from transistor, how SoliD patterns get enforced via protocol oriented programming, how design patterns and different programing patterns work together in swift or Cocoa
 
+
+ 
+
+
+
+
+ 
+
+
  
 
 ## History
@@ -453,6 +548,17 @@ https://github.com/smenjas/history-notes
 ## Twitter
 https://twitter.com/Infinitians1/status/1500813267547033602?s=20&t=lLk_fyY2PVJmKfmS2Gmp0g
 
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 > Written with [StackEdit](https://stackedit.io/).
