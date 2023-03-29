@@ -271,10 +271,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [iOS Learning Materials](https://github.com/jVirus/ios-learning-materials)
 -   [iOS Tutorial](https://github.com/Catherine22/iOS-tutorial)
 
-## Optimization and Design Patterns
 
--   [Optimization Tips for Swift by apple](https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst#advice-use-copy-on-write-semantics-for-large-values)
--   [Top Swift Design Patterns by Aglowid IT Solutions](https://aglowiditsolutions.com/blog/top-swift-design-patterns/#:~:text=The%20following%20are%20some%20of,Singleton)
 
 ## Concurrency
 
@@ -304,14 +301,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [iOS Localization Tutorial](https://medium.com/lean-localization/ios-localization-tutorial-938231f9f881)
 -   [What is a Provisioning Profile in iOS?](https://abhimuralidharan.medium.com/what-is-a-provisioning-profile-in-ios-77987a7c54c2)
 
-### Miscellaneous
 
--   [Twitter Thread on iOS Learning Resources](https://twitter.com/onmyway133/status/1500863857257975809?s=20&t=eAM-rnE32cuMWGG6P7gikQ)
--   [Stack Overflow: Where can I find tutorials on Swift?](https://stackoverflow.com/q/62119815/8181347)
--   [A Path to Mastery for iOS Development](https://trello.com/b/dOV9dvBu/a-path-to-mastery-for-ios-development)
--   [Awesome iOS](https://github.com/vsouza/awesome-ios#readme)
--   [Debugging Crashes in iOS](https://riptutorial.com/ios/topic/4745/debugging-crashes)
--   [Swift URLSession Tutorial](https://matteomanferdini.com/swift-urlsession/)
 
 ## Objective C
 
@@ -325,9 +315,9 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 
 -   [Objective-C and Swift Interoperability](https://academy.realm.io/posts/altconf-nikita-lutsenko-objc-swift-interoperability/)
 
-## App Lifecycle
 
--   [Application Lifecycle in iOS](https://manasaprema04.medium.com/application-life-cycle-in-ios-f7365d8c1636)
+
+
 
  
 # SwiftUI Resources
@@ -347,63 +337,8 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [SwiftUI Animations](https://github.com/Inncoder/SwiftUI-Animations)
 -   [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet)
 
-### Templates and Examples
 
--   [Top SwiftUI App Templates](https://apps4world.medium.com/top-swiftui-app-templates-xcode-source-codes-2797ffabd4ab)
 
-### Documentation
-
--   [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui/)
-
-### Interview Questions and Answers
-
--   [SwiftUI Interview Questions and Answers](https://ishtiz.com/swiftui/swiftui-interview-questions-and-answers-part-1)
-
-### PDF Resources
-
--   [Architecting SwiftUI Apps with MVC and MVVM](https://matteomanferdini.com/wp-content/uploads/2020/05/Architecting-SwiftUI-apps-with-MVC-and-MVVM.pdf)
--   [The 5 Most Common Misconceptions About SwiftUI](https://matteomanferdini.com/wp-content/uploads/2019/10/The-5-most-common-misconceptions-about-SwiftUI-Matteo-Manferdini.pdf)
--   [The Complete Guide to Understanding Swift Optionals](https://matteomanferdini.com/wp-content/uploads/2019/04/The-Complete-Guide-to-Understanding-Swift-Optionals.pdf)
-# Design and Architecture Resources for iOS Development
-
-This is a curated list of resources related to design and architecture for iOS development.
-
-## Design
-
--   [iOS Design Patterns](https://chetan-aggarwal.medium.com/ios-design-patterns-f478abd78132)
--   [iOS Design Guidelines and Templates](https://learnui.design/blog/ios-design-guidelines-templates.html)
-
-## Architecture
-
-### MVVM
-
--   [MVVM and Coordinators: iOS Architecture Tutorial](https://medium.com/nerd-for-tech/mvvm-coordinators-ios-architecture-tutorial-fb27eaa36470)
--   [The 5 Most Common Misconceptions About SwiftUI](https://matteomanferdini.com/wp-content/uploads/2019/10/The-5-most-common-misconceptions-about-SwiftUI-Matteo-Manferdini.pdf)
--   [Static Patterns in Swift: MVVM Tutorial](https://www.toptal.com/swift/static-patterns-swift-mvvm-tutorial)
-
-### SOLID Principles
-
--   [SOLID Principles in Swift](https://medium.com/@nishant.kumbhare4/solid-principles-in-swift-73b505d3c63f)
-
-### State Machine
-
--   [Handling iOS App States with a State Machine](https://blog.codecentric.de/en/2016/07/handling-ios-app-states-state-machine/)
-
-### Other
-
--   [Architecting SwiftUI apps with MVC and MVVM](https://matteomanferdini.com/wp-content/uploads/2020/05/Architecting-SwiftUI-apps-with-MVC-and-MVVM.pdf)
--   [iOS App Architecture](https://karthikkeyan.medium.com/ios-app-architecture-3f1d1400862f)
--   [Dictionary Locking in Swift](https://straypixels.net/swift-dictionary-locking/)
--   [Twitter Architecture 2022 vs. 2012](https://blog.bytebytego.com/p/twitter-architecture-2022-vs-2012)
-
-## Other Resources
-
--   [Cocoa Design Patterns](https://developer.apple.com/documentation/swift/cocoa_design_patterns)
--   [Apple's Official Swift Documentation](https://developer.apple.com/documentation/swift)
--   [Swift Access Control in iOS](https://medium.com/hash-coding/swift-access-control-ios-dab45a0b79ab#:~:text=Open%20%E2%80%94%20This%20is%20where%20you,outside%20the%20module(target).)
--   [Apple's Documentation Navigation](https://developer.apple.com/library/archive/navigation/)
--   [iOS Dev Directory](https://iosdevdirectory.com/)
--   [Onmyway133 Blog](https://onmyway133.com/)
 
 
 
@@ -427,8 +362,67 @@ This is a curated list of resources related to design and architecture for iOS d
 -   [iOS Unit Testing](https://qualitycoding.org/ios-unit-testing/)
 -   [Unit Testing Best Practices](https://www.avanderlee.com/swift/unit-tests-best-practices/)
 
+## Swift Programming Language
 
- 
+-   [Apple's Official Swift Documentation](https://developer.apple.com/documentation/swift)
+-   [Swift Access Control in iOS](https://medium.com/hash-coding/swift-access-control-ios-dab45a0b79ab): This article explains the access control levels in Swift.
+-   [Static Patterns in Swift: MVVM Tutorial](https://www.toptal.com/swift/static-patterns-swift-mvvm-tutorial): This tutorial covers the Model-View-ViewModel (MVVM) architecture pattern in Swift.
+
+## iOS App Architecture
+
+-   [Architecting SwiftUI apps with MVC and MVVM](https://matteomanferdini.com/wp-content/uploads/2020/05/Architecting-SwiftUI-apps-with-MVC-and-MVVM.pdf): This article compares the Model-View-Controller (MVC) and Model-View-ViewModel (MVVM) architecture patterns for SwiftUI apps.
+-   [iOS App Architecture](https://karthikkeyan.medium.com/ios-app-architecture-3f1d1400862f): This article covers various architecture patterns used in iOS app development.
+-   [MVVM and Coordinators: iOS Architecture Tutorial](https://medium.com/nerd-for-tech/mvvm-coordinators-ios-architecture-tutorial-fb27eaa36470): This tutorial covers the MVVM architecture pattern and coordinators in iOS app development.
+
+## Design Patterns
+
+-   [Cocoa Design Patterns](https://developer.apple.com/documentation/swift/cocoa_design_patterns): This document provides an overview of the design patterns used in Cocoa frameworks.
+-   [Dictionary Locking in Swift](https://straypixels.net/swift-dictionary-locking/): This article discusses the challenges of working with dictionaries in a multithreaded environment and provides a solution using a locking mechanism.
+-   [iOS Design Patterns](https://chetan-aggarwal.medium.com/ios-design-patterns-f478abd78132): This article covers some design patterns used in iOS app development.
+
+## SwiftUI
+
+-   [The 5 Most Common Misconceptions About SwiftUI](https://matteomanferdini.com/wp-content/uploads/2019/10/The-5-most-common-misconceptions-about-SwiftUI-Matteo-Manferdini.pdf): This article addresses some common misconceptions about SwiftUI.
+-   [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui/): This is the official documentation for SwiftUI.
+-   [Top SwiftUI App Templates](https://apps4world.medium.com/top-swiftui-app-templates-xcode-source-codes-2797ffabd4ab): This article lists some popular SwiftUI app templates.
+
+## Miscellaneous
+
+-   [Handling iOS App States with a State Machine](https://blog.codecentric.de/en/2016/07/handling-ios-app-states-state-machine/): This article explains how to use a state machine to manage app states in iOS.
+-   [iOS Design Guidelines and Templates](https://learnui.design/blog/ios-design-guidelines-templates.html): This article provides guidelines and templates for designing iOS apps.
+-   [iOS Dev Directory](https://iosdevdirectory.com/): This is a directory of iOS developers and companies.
+-   [Onmyway133 Blog](https://onmyway133.com/): This blog covers various iOS development topics.
+-   [SwiftUI Interview Questions and Answers](https://ishtiz.com/swiftui/swiftui-interview-questions-and-answers-part-1): This article provides some common interview questions and answers related to SwiftUI.
+-   [Twitter Architecture 2022 vs. 2012]([https://blog.bytebytego.com/p/twitter-architecture-202](https://blog.bytebytego.com/p/twitter-architecture-202)
+## Application Lifecycle
+
+-   [Application Lifecycle in iOS](https://manasaprema04.medium.com/application-life-cycle-in-ios-f7365d8c1636)
+
+## Architecture
+
+-   [Architecting SwiftUI Apps with MVC and MVVM](https://matteomanferdini.com/wp-content/uploads/2020/05/Architecting-SwiftUI-apps-with-MVC-and-MVVM.pdf)
+-   [The 5 Most Common Misconceptions About SwiftUI](https://matteomanferdini.com/wp-content/uploads/2019/10/The-5-most-common-misconceptions-about-SwiftUI-Matteo-Manferdini.pdf)
+
+## Fundamentals
+
+-   [The Complete Guide to Understanding Swift Optionals](https://matteomanferdini.com/wp-content/uploads/2019/04/The-Complete-Guide-to-Understanding-Swift-Optionals.pdf)
+-   [Swift URLSession Tutorial](https://matteomanferdini.com/swift-urlsession/)
+-   [Debugging Crashes in iOS](https://riptutorial.com/ios/topic/4745/debugging-crashes)
+
+## Learning Paths
+
+-   [Twitter Thread on iOS Learning Resources](https://twitter.com/onmyway133/status/1500863857257975809?s=20&t=eAM-rnE32cuMWGG6P7gikQ)
+-   [Stack Overflow: Where can I find tutorials on Swift?](https://stackoverflow.com/q/62119815/8181347)
+-   [A Path to Mastery for iOS Development](https://trello.com/b/dOV9dvBu/a-path-to-mastery-for-ios-development)
+-   [Awesome iOS](https://github.com/vsouza/awesome-ios#readme)
+
+## Optimization
+
+-   [Optimization Tips for Swift by Apple](https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst#advice-use-copy-on-write-semantics-for-large-values)
+
+## Design Patterns
+
+-   [Top Swift Design Patterns by Aglowid IT Solutions](https://aglowiditsolutions.com/blog/top-swift-design-patterns/#:~:text=The%20following%20are%20some%20of,Singleton) 
 # Mobile System Design Resources
 
 This is a list of resources that can help you prepare for a mobile system design interview.
@@ -547,18 +541,6 @@ https://github.com/smenjas/history-notes
 
 ## Twitter
 https://twitter.com/Infinitians1/status/1500813267547033602?s=20&t=lLk_fyY2PVJmKfmS2Gmp0g
-
-
-
-
-
-
-
-
-
-
-
- 
 
 
 > Written with [StackEdit](https://stackedit.io/).
