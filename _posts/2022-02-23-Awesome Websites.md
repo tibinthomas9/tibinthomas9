@@ -413,6 +413,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [The 5 Most Common Misconceptions About SwiftUI](https://matteomanferdini.com/wp-content/uploads/2019/10/The-5-most-common-misconceptions-about-SwiftUI-Matteo-Manferdini.pdf): This article addresses some common misconceptions about SwiftUI.
 -   [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui/): This is the official documentation for SwiftUI.
 -   [Top SwiftUI App Templates](https://apps4world.medium.com/top-swiftui-app-templates-xcode-source-codes-2797ffabd4ab): This article lists some popular SwiftUI app templates.
+-  [About SwiftUI](https://github.com/Juanpe/About-SwiftUI)
 
 
 ### Tutorials and Articles
