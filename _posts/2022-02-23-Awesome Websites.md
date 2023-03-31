@@ -427,6 +427,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [Avoiding Massive SwiftUI Views](https://www.swiftbysundell.com/articles/avoiding-massive-swiftui-views/)
 -   [State of SwiftUI](https://steipete.com/posts/state-of-swiftui/)
 -   [SwiftUI Empty State](https://peterfriese.dev/posts/swiftui-empty-state/)
+-   [SwiftUI Main Topics tree](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/SwiftUITree.text)
 
 ### GitHub Repositories
 
@@ -514,14 +515,6 @@ Study Plan
 -   [LazyWeb](https://app.lazyweb.rocks/) - A web tool to generate HTML/CSS code snippets for common UI elements.
 
 Develop a guide for iOS which details out important structured details of iOS development which details most important things to learn like concurrency but also discuss minute non technical details like signing, app Ids,Apples recoomended way, which frameworks use target action pattern, which use singletons, which use delegates ,which use functional programming, protocol programming, event driven or reactive programing(swiftUI, combine, Rxswift), concection between functional and reactive, declarative programming, key value coding and Obeserving. Various values in plist, which functionalities need an associated permission text in plist etc, when to use swift, swiftUI, ObjectiveC, when to use GCD vs Operations vs Threads, where to use value driven programing or reference types, how threads are handled in multi cores, how data gets saved during context switch, importance of ABI stability of swift, how swift, objectivec and C work together in the OS, details about POSIX features, learn from transistor, how SoliD patterns get enforced via protocol oriented programming, how design patterns and different programing patterns work together in swift or Cocoa
-
-
- 
-
-
-
-
- 
 
 
  
