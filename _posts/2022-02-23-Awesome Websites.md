@@ -416,6 +416,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [Top SwiftUI App Templates](https://apps4world.medium.com/top-swiftui-app-templates-xcode-source-codes-2797ffabd4ab): This article lists some popular SwiftUI app templates.
 -  [About SwiftUI](https://github.com/Juanpe/About-SwiftUI)
 -  [SwiftUI Data Flow](https://kean.blog/post/swiftui-data-flow#:~:text=When%20the%20data%20changes%2C%20either%20due%20to%20an,is%20often%20referred%20to%20as%20unidirectional%20data%20flow.) (source)
+-  [SwiftUI Data Flow](https://matteomanferdini.com/swiftui-data-flow/)
 
 
 ### Tutorials and Articles
