@@ -60,7 +60,46 @@ Transistor
     |-- Web applications (Google Docs, Facebook)
 
 
+Computer architecture is the design and organization of a computer system, starting from its fundamental building blocks - transistors. Transistors are tiny electronic switches that can be used to build digital circuits, which are the foundation of modern computers. By combining these circuits, we can create logic gates that can perform basic operations, such as addition and subtraction.
 
+Using these gates, we can then build more complex circuits, like flip-flops and registers, that can store and manipulate data. We can also build more advanced circuits, like processors, which can execute instructions and perform complex calculations. Processors use a combination of registers, arithmetic logic units (ALUs), and control units to perform their operations.
+
+To make these processors more useful, we can add memory to store instructions and data, and input/output devices to interact with the outside world. With these components, we can build embedded systems, which are computers built into other devices, like cars or appliances.
+
+To program these systems, we use high-level languages like C, which can be compiled into machine code that the processor can execute. Operating systems provide a layer of abstraction between the hardware and the user, allowing multiple programs to run at the same time and managing resources like memory and CPU time.
+
+With the advent of networking, we can connect these systems together to form networks, and use protocols like TCP/IP to enable communication between them. And finally, we can build web applications that run on top of these networks, using web browsers to access content and services hosted on remote servers.
+
+Overall, computer architecture is a constantly evolving field, with new technologies and applications emerging all the time. But at its core, it is the art of designing and building systems that can process and manipulate information, and provide useful services to users.
+
+1.  Transistors: The foundation of modern computing begins with the invention of the transistor, a semiconductor device that can amplify and switch electronic signals. Transistors form the building blocks of modern microprocessors, which are the heart of modern computers.
+    
+2.  Digital Logic and Binary Number Systems: Digital logic is the foundation of modern computing. It uses Boolean algebra and logic gates to represent and manipulate digital signals. Binary number systems are used to represent digital data in a computer.
+    
+3.  Computer Architecture: Computer architecture refers to the design of the hardware components that make up a computer system. This includes the central processing unit (CPU), memory, input/output devices, and other peripheral devices.
+    
+4.  Von Neumann Architecture: The von Neumann architecture is a model of computer architecture that was proposed by John von Neumann in the 1940s. It describes the basic organization of a computer system, which includes a central processing unit (CPU), memory, and input/output devices. The von Neumann architecture is still used in most modern computers.
+    
+5.  Machine Language and Assembly Language: Machine language is the lowest-level programming language that a computer can understand. It consists of a series of binary instructions that the CPU can execute directly. Assembly language is a low-level programming language that is easier to read and write than machine language. It uses mnemonic codes to represent the binary instructions of machine language.
+    
+6.  Digital Design: Digital design is the process of designing digital circuits using hardware description languages (HDLs). It involves the use of combinational and sequential logic, finite state machines, and other digital design techniques.
+    
+7.  Microcontrollers and Embedded Systems: Microcontrollers are small, self-contained computer systems that are used in a wide range of embedded applications. They typically include a CPU, memory, and input/output peripherals. Programming in C for microcontrollers involves working with peripherals, interrupts, and communication protocols.
+    
+8.  Compilers: A “high” level language: A compiler is a software tool that translates high-level programming languages into machine code that a computer can execute. Building a C compiler involves writing a parser, building a linker, and implementing library functions.
+    
+9.  Operating Systems: Software we take for granted: An operating system (OS) is a collection of software that manages computer hardware resources and provides common services for computer programs. Building an operating system involves designing and implementing memory management, process management, and file systems.
+    
+10.  Browser: Coming online: A web browser is a software application that enables users to access and navigate the World Wide Web. Building a web browser involves implementing a TCP/IP stack, creating a user interface, and implementing dynamic linking.
+    
+11.  Web Applications: Web applications are software programs that run on web servers and can be accessed using a web browser. They are written using web technologies such as HTML, CSS, and JavaScript, and can communicate with web servers using HTTP or other web protocols.
+    
+
+Overall, understanding computer architecture from transistor to web requires knowledge of digital logic, computer organization, software engineering, and web development. It is a fascinating and ever-evolving field that has revolutionized the way we live and work.
+
+
+
+----------------------------------------------------
 Chapter 1: So about those transistors
 
 Course overview
