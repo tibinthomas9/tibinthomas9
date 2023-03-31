@@ -1,3 +1,50 @@
+------------------High-level overview----------------------------
+
+SwiftUI
+├── Views
+│   ├── Primitive Views (e.g. Text, Image, Button)
+│   ├── Containers (e.g. VStack, HStack, List)
+│   ├── Layout (e.g. Spacer, Divider, GeometryReader)
+│   ├── Control Flow (e.g. if/else, ForEach, Switch)
+│   ├── Navigation (e.g. NavigationView, NavigationLink)
+│   ├── Presentation (e.g. Modal, Alert, ActionSheet)
+│   ├── Drawing and Animation (e.g. Shape, Animation)
+│   └── Custom Views
+├── View Modifiers
+├── State and Data Flow
+│   ├── @State
+│   ├── @Binding
+│   ├── @ObservedObject
+│   ├── @EnvironmentObject
+│   ├── @Published
+│   ├── Combine Framework
+│   └── Redux Architecture
+├── View Lifecycle
+│   ├── init()
+│   ├── body
+│   ├── onAppear
+│   ├── onDisappear
+│   ├── onChange
+│   ├── onReceive
+│   └── onPreferenceChange
+├── Gestures and Interactions
+├── Animation and Effects
+├── Accessibility
+├── Localization
+├── App Lifecycle
+│   ├── SceneDelegate
+│   ├── @main
+│   ├── UIApplicationDelegateAdaptor
+│   ├── State Restoration
+│   ├── Background Tasks
+│   ├── Push Notifications
+│   └── Widgets
+└── Testing and Debugging
+
+
+-------------------------------Detailed overview----------------------------
+
+
 SwiftUI
 ├── Views
 │   ├── Primitive Views
