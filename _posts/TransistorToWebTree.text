@@ -1,0 +1,577 @@
+Transistor
+|
+|-- Logic gates
+|   |
+|   |-- Combinational logic
+|   |-- Sequential logic
+|   |-- Arithmetic logic
+|
+|-- Integrated circuits
+|   |
+|   |-- Memory (DRAM, SRAM)
+|   |-- Microprocessors
+|   |-- ASICs
+|
+|-- Computer architecture
+|   |
+|   |-- CPU (ALU, registers, cache)
+|   |-- Memory hierarchy (cache, main memory, secondary storage)
+|   |-- I/O systems (interrupts, DMA, buses)
+|
+|-- Operating systems
+|   |
+|   |-- Processes and threads
+|   |-- Scheduling and synchronization
+|   |-- Memory management
+|   |-- File systems
+|
+|-- Programming languages
+|   |
+|   |-- Imperative languages (C, C++)
+|   |-- Object-oriented languages (Java, C++)
+|   |-- Functional languages (Haskell, Lisp)
+|   |-- Scripting languages (Python, Ruby)
+|
+|-- Data structures and algorithms
+|   |
+|   |-- Arrays, lists, stacks, queues
+|   |-- Trees, graphs, heaps
+|   |-- Sorting and searching
+|   |-- Hash tables
+|
+|-- Computer networks
+|   |
+|   |-- Protocols (TCP/IP, HTTP, DNS)
+|   |-- Network architecture (LAN, WAN, VPN)
+|   |-- Wireless networks (WiFi, Bluetooth, cellular)
+|
+|-- Web technologies
+|   |
+|   |-- HTML, CSS, JavaScript
+|   |-- Client-side web development (React, Vue, Angular)
+|   |-- Server-side web development (Node.js, Django, Ruby on Rails)
+|   |-- Databases (SQL, NoSQL)
+|   |-- Web servers (Apache, Nginx)
+|
+|-- Applications
+    |
+    |-- Desktop applications (Office, Photoshop)
+    |-- Mobile applications (iOS, Android)
+    |-- Web applications (Google Docs, Facebook)
+
+
+
+Chapter 1: So about those transistors
+
+Course overview
+The history of transistors and their impact on computing
+The theory behind how transistors work
+An introduction to Field-Programmable Gate Arrays (FPGAs) and Integrated Circuits (ICs)
+Exploring how LUTs (Look-Up Tables) are used in FPGAs
+
+
+Chapter 2: Boolean logic and gates
+
+An introduction to Boolean logic
+The basics of logic gates (AND, OR, NOT)
+How to combine gates to build more complex logic (NAND, NOR, XOR)
+Implementing Boolean logic in hardware using transistors
+Building simple logic circuits using breadboards and logic gate ICs
+
+
+Chapter 3: From gates to circuits
+
+Understanding how to build more complex circuits using logic gates
+An introduction to Adders and Subtractors
+How to use circuits to perform arithmetic operations
+Understanding how clocks and clock signals work in digital circuits
+Building more complex circuits using breadboards and ICs
+
+
+Chapter 4: The CPU
+
+The basic components of a CPU (Arithmetic Logic Unit, Control Unit, Registers)
+The Von Neumann architecture and its impact on modern computing
+How to design a simple CPU using circuits and logic gates
+The role of microcode in CPUs
+An overview of modern CPU architectures (x86, ARM, etc.)
+
+
+Chapter 5: Memory
+
+An introduction to different types of memory (SRAM, DRAM, ROM, Flash)
+The basic principles of memory addressing and how it works with CPUs
+The challenges of building and scaling memory systems
+An introduction to caching and how it improves system performance
+The role of virtual memory in modern computing
+
+
+Chapter 6: Operating systems
+
+An introduction to the concept of an operating system
+The basic components of an operating system (kernel, user space, drivers, etc.)
+How operating systems manage resources (memory, CPU time, I/O, etc.)
+An overview of different operating systems (Windows, MacOS, Linux)
+The role of virtualization and containerization in modern computing
+
+
+Chapter 7: Networks and the Internet
+
+An overview of computer networks and their components (routers, switches, cables, etc.)
+How data is transmitted over networks using the OSI model
+An introduction to TCP/IP and how it enables Internet communication
+The role of DNS and how it translates domain names into IP addresses
+An overview of common Internet protocols (HTTP, FTP, SMTP, etc.)
+
+
+
+Chapter 8: Web development
+
+An introduction to HTML, CSS, and JavaScript
+How web browsers render web pages and execute JavaScript
+The role of server-side technologies (PHP, Node.js, etc.)
+An overview of modern web development frameworks (React, Angular, etc.)
+Building a simple web application from scratch
+This is just a rough outline and there are many other potential topics that could be covered in a course like this, depending on the level of detail and the specific focus.
+
+
+
+
+----------------------------Detailed-------------------------
+
+
+Chapter 1: Introduction to FPGAs and Emulation
+
+Overview: In this chapter, we will introduce the basics of Field Programmable Gate Arrays (FPGAs) and emulation. We will discuss how FPGAs are constructed using transistors and how they can be programmed to perform different tasks. Additionally, we will explore the concept of emulation and how it can be used to simulate hardware behavior on a computer.
+
+Topics: 1.1 Introduction to FPGAs
+
+-   What are FPGAs and how are they different from other types of integrated circuits?
+-   The basics of how FPGAs are constructed using transistors and logic elements
+-   The advantages and disadvantages of using FPGAs for hardware design
+
+1.2 Programming FPGAs
+
+-   The basics of FPGA programming languages such as VHDL and Verilog
+-   The role of synthesis tools in converting high-level designs into FPGA bitstreams
+-   The process of configuring and programming FPGAs for specific applications
+
+1.3 Emulation
+
+-   The concept of emulation and how it differs from simulation
+-   The benefits of using emulation to test and debug hardware designs
+-   Introduction to Verilator, an open-source tool for emulating Verilog designs on a computer
+
+1.4 Getting Started with Verilator
+
+-   Installing and configuring Verilator on your computer
+-   Writing a simple Verilog program to blink an LED using Verilator
+-   Simulating the program and observing the behavior of the LED
+
+Learning Outcomes:
+
+-   Understand the basics of FPGAs and how they can be programmed to perform different tasks
+-   Familiarity with FPGA programming languages and the tools used to convert high-level designs into FPGA bitstreams
+-   An understanding of the concept of emulation and how it can be used to simulate hardware behavior on a computer
+-   Ability to use Verilator to write and simulate simple Verilog programs for hardware design and testing
+
+
+Add this detail: Describe how FPGAs are buildable using transistors, and that ICs are just collections of transistors in a nice reliable package. And also add detail about LUT
+
+Sure, here's an updated version of Section 1 with the requested details:
+
+Section 1: Intro: Cheating our way past the transistor -- 0.5 weeks
+
+So about those transistors -- Course overview. The course will begin by exploring how FPGAs are built using transistors, and how integrated circuits (ICs) are just collections of transistors in a reliable package. Understanding the basics of transistors and ICs is essential for understanding digital electronics and computer science.
+
+Logic Units and Look-Up Tables -- One of the essential building blocks of FPGAs is the Look-Up Table (LUT), which is a configurable block of logic that can implement any digital logic function. LUTs are essentially collections of transistors arranged in a specific way to implement a specific logic function. Understanding how LUTs work is critical for building more complex digital circuits.
+
+Emulation -- Building on real hardware limits the reach of this course. Using something like Verilator will allow anyone with a computer to play. The course will use emulation to simulate the behavior of digital circuits on a computer. Emulation allows students to explore digital circuits and learn about them without the need for expensive hardware.
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+Chapter 2: Bringup - Introduction to Hardware Description Languages (HDLs)
+
+Overview: This chapter introduces the concept of Hardware Description Languages (HDLs) and their importance in the world of digital logic design. The chapter focuses on Verilog as the HDL of choice and covers the basics of using Verilog to create hardware circuits. Students will learn how to create their first Verilog program, simulate it, and run it on hardware.
+
+Learning objectives:
+
+-   Understand what HDLs are and why they are important
+-   Learn the basics of Verilog syntax and how to create simple circuits
+-   Understand how to simulate Verilog code using a simulator
+-   Learn how to program a hardware device using Verilog
+
+Chapter outline:
+
+1.  Introduction to Hardware Description Languages (HDLs)
+
+-   What are HDLs and why are they important?
+-   Overview of different HDLs (Verilog, VHDL, SystemVerilog)
+
+2.  Verilog Basics
+
+-   Syntax and structure of Verilog code
+-   Basic building blocks of Verilog circuits (gates, flip-flops, etc.)
+-   Creating a simple circuit in Verilog
+
+3.  Simulation
+
+-   Introduction to Verilog simulation
+-   Setting up a simulation environment
+-   Running and debugging Verilog simulations
+
+4.  Programming Hardware
+
+-   Introduction to programming hardware devices
+-   Overview of common hardware devices (FPGAs, microcontrollers, etc.)
+-   Programming a hardware device using Verilog
+
+5.  Project: Blinking an LED
+
+-   Create a simple Verilog program to blink an LED
+-   Simulate the Verilog code and verify its correctness
+-   Program the Verilog code onto an FPGA and test the blinking LED
+
+6.  Project: Building a UART
+
+-   Overview of UART (Universal Asynchronous Receiver/Transmitter)
+-   Copying a real UART in Verilog
+-   Introduction to MMIO (Memory Mapped Input/Output)
+-   Writing a Verilog program to test the UART
+-   Connecting the UART to a serial port and testing the program with echo and LED control
+
+---------------------------------------------------------------------------------
+Section 3: Processor: What is a processor anyway? -- 3 weeks
+
+In this section, the focus is on building a processor from scratch, starting with writing an assembler in Python to generate machine code for the processor. The goal is to gain a deeper understanding of how processors work and how they execute instructions.
+
+The first part of this section involves coding an assembler in Python. This is a straightforward and relatively simple task that involves writing a program that can convert assembly language code into machine code that the processor can execute. The emphasis here is on learning ARM assembly language and understanding how assembly language programs are translated into machine code.
+
+The second part of this section is where the real fun begins. Students will build an ARM7 CPU using Verilog, breaking the project down into subchapters that cover the various components of the CPU, such as the fetch and decode units, the execution unit, and the pipeline. One of the key challenges here is figuring out how much BRAM (block RAM) will be needed to store the CPU's program and data memory. Students will need at least 1MB of memory to work with, and DDR (double data rate) memory may be too difficult to implement, so SRAM (static RAM) is a good choice.
+
+The final part of this section involves coding a bootrom in assembly language. The bootrom is a small piece of code that is baked into the FPGA image and allows code to be downloaded into RAM over the serial port. The bootrom also runs cute test programs that demonstrate the capabilities of the CPU.
+
+Overall, this section is quite challenging but also very rewarding, as students gain a deep understanding of how processors work and how to build one from scratch.
+
+Chapter 1: Introduction to Processor Architecture
+
+-   Brief history of processor architecture
+-   Overview of processor components (ALU, registers, control unit, etc.)
+-   Introduction to instruction sets and assembly language
+
+Chapter 2: Assembler Programming
+
+-   Overview of assembly language syntax and structure
+-   Writing a simple assembler program in Python
+-   Introduction to the ARM assembly language
+-   Outputting binary files from the assembler program
+-   Writing a linker to combine binary files
+
+Chapter 3: Building a Simple ARM7 CPU
+
+-   Overview of CPU architecture and design
+-   Introduction to pipelining
+-   Breakdown of the CPU components (fetch, decode, execute)
+-   Design considerations for on-chip memory (BRAM, SRAM, DDR)
+-   Simulating and synthesizing the CPU design using Verilog
+
+Chapter 4: Coding a Bootrom
+
+-   Introduction to bootrom and its purpose
+-   Writing a simple bootrom program in assembly language
+-   Incorporating the bootrom into the FPGA image
+-   Running test programs on the bootrom
+
+---------------------------------------------------------------------------------
+Section 4: Compiler: A “high” level language -- 3 weeks
+
+
+Chapter 1: Building a C Compiler (Haskell, 2000)
+
+-   Introduce the basics of compiler design and how to write a parser
+-   Use Haskell to write a basic C compiler
+-   Cover the lexical and syntactic analysis of the language
+-   Discuss the generation of intermediate code and optimizations
+-   Outputs ARM assembly code for use with the ARM7 CPU built in Section 3
+
+Chapter 2: Building a Linker (Python, 300)
+
+-   Discuss the role of the linker and how it works
+-   Use Python to write a basic linker
+-   Output ELF files for use with the ARM7 CPU built in Section 3
+-   Use the linker for testing with QEMU and semihosting
+
+Chapter 3: libc + malloc (C, 500)
+
+-   Introduce the concept of a standard library and its importance
+-   Cover the basics of memory management and dynamic allocation
+-   Implement a simplified version of libc with functions like memcpy, memset, and printf
+-   Implement malloc to handle dynamic memory allocation
+
+Chapter 4: Building an Ethernet Controller (Verilog, 200)
+
+-   Introduce the concept of an Ethernet controller and its importance in networking
+-   Discuss MMIO design and its implementation in Verilog
+-   Build a simple Ethernet controller that can talk to a real PHY
+-   Discuss the importance of testing and debugging in networking applications
+
+Chapter 5: Writing a Bootloader (C, 300)
+
+-   Introduce the concept of a bootloader and its importance in booting the system
+-   Use C to write a bootloader that can download the kernel over UDP using the Ethernet controller built in Chapter 4
+-   Embed the bootloader in the FPGA image to avoid redownloading over serial each time
+-   Discuss the importance of error handling and recovery in bootloader design.
+
+
+--------------------------------------------------------------------------------------------
+
+Section 5: Operating System: Software we take for granted -- 3 weeks
+
+
+In this section, we will dive into the software that runs on top of the hardware we have built so far. We will start by building an MMU (Memory Management Unit) in Verilog, which is an important component for modern processors. We will cover concepts like TLBs (Translation Lookaside Buffers) and other related topics.
+
+Next, we will build an operating system in C, which will be UNIX-like and will support user-space threads. We will cover important system calls like open, read, write, close, fork, execve, wait, sleep, exit, mmap, munmap, and mprotect. We will also discuss various debug interfaces, ranging from printf to perhaps a gdbremote stub into the kernel. This chapter will be broken down into subchapters for better understanding.
+
+We will then move on to building a driver for an SD card in Verilog and implementing a real filesystem. FAT (File Allocation Table) is the simplest and we will use it to build our filesystem. Finally, we will build our first user-space programs like init, shell, download, cat, ls, and rm in C.
+
+Overall, this section will give students an understanding of how an operating system is built and how it interacts with the hardware. Students will also learn how to work with external devices like SD cards and build real-world applications on top of their FPGA-based computer system.
+
+
+Chapter 1: Introduction to Operating System Design for FPGAs
+
+In this chapter, we will introduce the concept of operating system design for FPGAs, and provide an overview of the topics covered in this section.
+
+1.1 What is an operating system?
+
+We will begin by defining what an operating system is and why it is necessary. We will discuss the different components of an operating system and their functions, including the kernel, system calls, and user space.
+
+1.2 Overview of Section 5
+
+We will provide an overview of the topics covered in Section 5, including building an MMU, building an operating system, talking to an SD card, implementing a file system, and writing basic user space programs.
+
+Chapter 2: Building an MMU
+
+2.1 Introduction to MMUs
+
+We will introduce the concept of MMUs and explain their function in operating systems. We will discuss the different types of MMUs and their advantages and disadvantages.
+
+2.2 Building an MMU in Verilog
+
+We will provide a detailed guide on building an MMU in Verilog, including implementing TLBs, page tables, and other necessary components. We will also discuss the importance of a memory controller and how it can be incorporated into the design.
+
+2.3 Adding MMU to Bootloader
+
+We will explain how to add the MMU to the bootloader and provide code examples for initializing and configuring the MMU.
+
+Chapter 3: Building an Operating System
+
+3.1 Introduction to Operating System Design
+
+We will discuss the design considerations for operating systems and provide an overview of the different components of an operating system, including system calls, process management, and memory management.
+
+3.2 Building an Operating System in C
+
+We will provide a detailed guide on building an operating system in C, including implementing system calls, user space threads, and memory management using mmap, munmap, and mprotect.
+
+3.3 Debugging and Testing
+
+We will discuss the importance of debugging and testing operating systems and provide guidance on how to use tools like printf and gdbremote stub to debug the system.
+
+Chapter 4: Talking to an SD Card
+
+4.1 Introduction to SD Cards
+
+We will introduce the concept of SD cards and explain how they can be used for storage in FPGAs. We will discuss the different types of SD cards and their advantages and disadvantages.
+
+4.2 Talking to an SD Card in Verilog
+
+We will provide a detailed guide on talking to an SD card in Verilog, including implementing the SPI protocol and the necessary drivers.
+
+Chapter 5: Implementing a File System
+
+5.1 Introduction to File Systems
+
+We will introduce the concept of file systems and explain how they are used in operating systems. We will discuss the different types of file systems and their advantages and disadvantages.
+
+5.2 Implementing a FAT File System in C
+
+We will provide a detailed guide on implementing a FAT file system in C, including reading and writing to files, creating directories, and managing file permissions.
+
+Chapter 6: Writing Basic User Space Programs
+
+6.1 Introduction to User Space Programs
+
+We will introduce the concept of user space programs and explain how they are used in operating systems. We will discuss the different types of user space programs and their functions.
+
+6.2 Writing Basic User Space Programs in C
+
+We will provide a detailed guide on writing basic user space programs in C, including implementing a shell, downloading files, and managing files using cat, ls, and rm commands.
+
+Chapter 7: Conclusion
+
+In this chapter, we will summarize the topics covered in this section and provide guidance on how to continue learning about operating system design for FPGAs. We will also discuss the importance of operating system design and its applications in real-world scenarios.
+
+
+---------------------------------------------------------
+Section 6: Browser: Coming online -- 1 week
+
+Building a Simple Web Browser with TCP stack and Dynamic Linking
+
+In this chapter, we will explore the world of web browsing by building a simple text-based web browser using ANSI and terminal niceness. The browser will be built on top of a TCP stack that we will develop in C, and we will also implement space-saving dynamic linking to make the browser more efficient.
+
+Section 6: Browser: Coming online -- 1 week
+
+Building a TCP stack (C, 500)
+
+We will start by building a simple TCP stack in C. We will integrate the Ethernet driver into the kernel and add support for networking syscalls to the kernel (send, recv, bind, connect). This will allow us to establish TCP connections with other devices on the network and communicate with them.
+
+To build the TCP stack, we will need to understand the TCP protocol and its various components such as sequence numbers, acknowledgement numbers, and window sizes. We will also need to implement the three-way handshake for establishing a TCP connection and handle various TCP flags like SYN, ACK, and FIN.
+
+Once we have built the TCP stack, we can move on to the next step of building a telnet server.
+
+telnetd, the power of being multiprocess (C, 50)
+
+We will build a simple telnet server in C that will allow users to connect to our device remotely via the telnet protocol. The telnet server will be a bind shell, allowing users to execute commands on our device remotely.
+
+We will make the telnet server multiprocess so that it can handle multiple connections simultaneously. This will involve creating child processes to handle each incoming connection.
+
+Space saving dynamic linking (C, 300)
+
+Next, we will implement space-saving dynamic linking to make our browser more efficient. Dynamic linking is the process of linking a program to shared libraries at runtime rather than at compile time. This allows multiple programs to share the same library code, saving space.
+
+We will explore how the dynamic linker is just a user space program, and we will make changes to the linker required for our browser.
+
+So about that web (C, 500+)
+
+Finally, we will build our simple text-based web browser using ANSI and terminal niceness. We will dynamically link the browser to the required libraries, and we will implement features such as parsing HTML, displaying images, and navigating links.
+
+We will also explore how modern web browsers work and how they are built on top of more advanced networking protocols like HTTPS and TLS.
+
+By the end of this chapter, you will have built a simple but functional web browser from scratch, and you will have a better understanding of how networking protocols and dynamic linking work.
+
+----------------------------------------------------------------
+
+Section 7: Physical: Running on real hardware -- 1 week
+
+Section 7: Physical: Running on real hardware -- 1 week
+
+Building an operating system that runs on real hardware is an exciting milestone. In this section, we will focus on the hardware aspect of running an operating system. We will learn how to talk to an FPGA and how to build an FPGA board. We will also discuss the process of bringing up an FPGA board.
+
+Talking to an FPGA (C, 200):
+Before we can build an FPGA board, we need to learn how to talk to an FPGA. In this subchapter, we will write a little code in C for the USB MCU to bitbang JTAG. We will explain what JTAG is and how to use it to communicate with an FPGA.
+
+Building an FPGA board:
+In this subchapter, we will learn how to design and build an FPGA board. We will cover the following topics:
+
+Board design: We will discuss the process of designing an FPGA board. We will talk about the components that we need to include on the board and how to arrange them.
+FPGA BGA reflow: We will explain what BGA is and how to do BGA reflow. We will provide a toaster oven and a multimeter thermometer to do reflow.
+FPGA flash: We will discuss how to program the FPGA once it has been assembled.
+A 50MHz clock: We will learn how to generate a clock signal for the FPGA.
+A USB JTAG port and flasher: We will explain how to use a little Cypress USB MCU to do JTAG.
+A few LEDs: We will add some LEDs to our board to indicate the status of the FPGA.
+A reset button: We will include a reset button on the board to reset the FPGA.
+A serial port (USB-FTDI): We will provide a USB-FTDI serial port for debugging and communication.
+Powering via USB: We will explain how to power the board via USB.
+An SD card: We will add an SD card slot to our board for storage.
+Expansion connector (IDE cable?): We will include an expansion connector for connecting additional hardware.
+An Ethernet port: We will add an Ethernet port to our board for networking.
+Optional: We will discuss additional optional components that can be added to the board, such as an expansion board, host USB port, NTSC TV out, an ISA port, and a PS/2 connector.
+Bringup:
+Once the FPGA board has been assembled, we need to compile and download the Verilog for the board. In this subchapter, we will explain the process of bringing up the FPGA board. We will cover the following topics:
+
+Compiling the Verilog: We will discuss how to compile the Verilog for the FPGA.
+Downloading the Verilog: We will explain how to download the compiled Verilog to the FPGA.
+Testing the board: We will provide some basic tests to verify that the FPGA board is working correctly.
+By the end of this section, you will have the skills to talk to an FPGA, build an FPGA board, and bring up the board. You will be ready to run your operating system on real hardware.
+
+
+
+
+-------------------------------------------
+
+
+
+Section 1: Introduction to Computer Systems -- 1 week
+
+-   The history of computing
+-   The basic structure of a computer system
+-   Digital logic and binary number systems
+-   Boolean algebra and logic gates
+-   The von Neumann architecture
+-   Machine language and assembly language
+
+Section 2: Digital Design and Computer Architecture -- 2 weeks
+
+-   Introduction to digital design
+-   Combinational and sequential logic
+-   Finite state machines
+-   Hardware description languages (HDLs)
+-   Designing digital circuits with an HDL
+-   Processor architecture
+-   Pipelining and performance optimization
+
+Section 3: Microcontrollers and Embedded Systems -- 2 weeks
+
+-   Introduction to microcontrollers and embedded systems
+-   Programming in C for microcontrollers
+-   Working with peripherals (GPIO, timers, ADC, etc.)
+-   Interrupts and event-driven programming
+-   Interfacing with sensors and actuators
+-   Communication protocols (SPI, I2C, UART)
+
+Section 4: Compiler: A “high” level language -- 3 weeks
+
+-   Building a C compiler (Haskell, 2000)
+-   Writing a parser
+-   Outputs ARM assembly
+-   Building a linker (Python, 300)
+-   Outputting elf files
+-   Use for testing with QEMU, semihosting
+-   libc + malloc (C, 500)
+-   The gateway to more complicated programs
+-   Building an ethernet controller (Verilog, 200)
+-   Talk to a real PHY
+-   Consider carefully MMIO design
+-   Writing a bootloader (C, 300)
+-   Write ethernet program to boot kernel over UDP
+-   First thing written in C
+-   Maybe don’t redownload over serial each time and embed in FPGA image
+
+Section 5: Operating System: Software we take for granted -- 3 weeks
+
+-   Building an MMU (Verilog, 1000)
+-   ARM9ish, explain TLBs and other fun things
+-   Maybe also a memory controller, depending on how the FPGA is
+-   Add the init code to your bootloader
+-   Building an operating system (C, 2500)
+-   UNIXish, only user space threads
+-   (open, read, write, close), (fork, execve, wait, sleep, exit), (mmap, munmap, mprotect)
+-   Consider the debug interface you are using, ranging from printf to perhaps a gdbremote stub into kernel
+-   Talking to an SD card (Verilog, 150)
+-   The last hardware you have to do
+-   And a driver
+-   FAT (C, 300)
+-   A real filesystem, I think fat is the simplest
+-   init, shell, download, cat, ls, rm (C, 250)
+-   Your first user space programs
+
+Section 6: Browser: Coming online -- 1 week
+
+-   Building a TCP stack (C, 500)
+-   Probably coded in the kernel
+-   Integrate the ethernet driver into the kernel
+-   Add support for networking syscalls to kernel
+-   (send, recv, bind, connect)
+-   telnetd, the power of being multiprocess (C, 50)
+-   Written in C
+-   User can connect multiple times with telnet
+-   Really just a bind shell
+-   Space saving dynamic linking (C, 300)
+-   Because we can, explain how dynamic linker is just a user space program
+-   Changes to linker required
+-   So about that web (C, 500+)
+-   A “nice” text based web browser
+-   Using ANSI and terminal niceness
+-   Dynamically linked and nice, nice as you want.
