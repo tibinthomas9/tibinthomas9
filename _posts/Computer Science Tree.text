@@ -1,0 +1,51 @@
+Computer Science
+├── Algorithms
+│   ├── Sorting algorithms
+│   │   ├── Bubble sort
+│   │   ├── Selection sort
+│   │   ├── Insertion sort
+│   │   ├── Merge sort
+│   │   └── Quick sort
+│   ├── Searching algorithms
+│   │   ├── Linear search
+│   │   ├── Binary search
+│   │   ├── Depth-first search (DFS)
+│   │   └── Breadth-first search (BFS)
+│   ├── Graph algorithms
+│   │   ├── Shortest path algorithms
+│   │   ├── Minimum spanning tree algorithms
+│   │   ├── Topological sorting
+│   │   └── Connected components
+│   ├── Dynamic programming
+│   ├── Divide and conquer
+│   └── Greedy algorithms
+├── Data Structures
+│   ├── Arrays
+│   ├── Linked lists
+│   ├── Stacks
+│   ├── Queues
+│   ├── Trees
+│   │   ├── Binary trees
+│   │   ├── AVL trees
+│   │   └── Red-black trees
+│   ├── Hash tables
+│   ├── Graphs
+│   └── Heaps
+├── Programming paradigms
+│   ├── Imperative programming
+│   ├── Functional programming
+│   ├── Object-oriented programming
+│   └── Event-driven programming
+├── Databases
+│   ├── Relational databases
+│   ├── NoSQL databases
+│   ├── SQL
+│   └── ACID properties
+└── Operating systems
+    ├── Processes
+    ├── Threads
+    ├── Scheduling algorithms
+    ├── Memory management
+    ├── File systems
+    ├── I/O management
+    └── Network protocols
