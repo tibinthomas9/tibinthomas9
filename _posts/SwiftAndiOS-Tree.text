@@ -1,0 +1,290 @@
+Swift
+├── Syntax
+│   ├── Variables and Constants
+│   ├── Optionals
+│   ├── Functions
+│   ├── Closures
+│   ├── Enumerations
+│   ├── Structs
+│   ├── Classes
+│   ├── Protocols
+│   ├── Generics
+│   ├── Extensions
+│   ├── Type Casting
+│   ├── Access Control
+│   └── Error Handling
+├── Standard Library
+│   ├── Collection Types (e.g. Array, Dictionary, Set)
+│   ├── Optionals (e.g. Optional, Implicitly Unwrapped Optional)
+│   ├── Control Flow (e.g. for-in loops, switch statements)
+│   ├── Strings and Characters (e.g. String, Character)
+│   ├── Numbers (e.g. Int, Double)
+│   ├── Dates and Times (e.g. Date, DateFormatter)
+│   ├── File System (e.g. FileManager, FileHandle)
+│   ├── Networking (e.g. URLSession, URLRequest)
+│   ├── Memory Management (e.g. ARC, Weak References)
+│   ├── Error Handling (e.g. Error, NSError)
+│   └── Miscellaneous (e.g. UUID, Regular Expressions)
+├── Object-Oriented Programming
+│   ├── Inheritance
+│   ├── Polymorphism
+│   ├── Encapsulation
+│   └── Abstraction
+├── Functional Programming
+│   ├── Immutability
+│   ├── Higher-Order Functions
+│   ├── Pure Functions
+│   ├── Referential Transparency
+│   └── Composition
+├── Concurrency
+│   ├── Grand Central Dispatch (GCD)
+│   ├── Operation Queues
+│   ├── Asynchronous Programming
+│   ├── Thread Safety
+│   └── Concurrency Best Practices
+├── Memory Management
+│   ├── Automatic Reference Counting (ARC)
+│   ├── Memory Leaks
+│   ├── Strong and Weak References
+│   └── Memory Management Best Practices
+├── SwiftUI Framework
+│   ├── Views
+│   ├── Layout
+│   ├── State and Binding
+│   ├── Animations
+│   ├── Gestures
+│   ├── Environment Variables
+│   └── View Lifecycle
+├── Testing and Debugging
+│   ├── Unit Testing
+│   ├── Debugging Techniques
+│   └── Memory Management Profiling
+├── Package Management
+│   ├── Swift Package Manager
+│   ├── CocoaPods
+│   └── Carthage
+├── Swift Interoperability
+├── Design Patterns
+└── Third-Party Libraries and Frameworks
+
+
+Concurrency in Swift
+├── Grand Central Dispatch (GCD)
+│   ├── Dispatch queues
+│   │   ├── Serial queues
+│   │   └── Concurrent queues
+│   ├── Dispatch work items
+│   │   ├── Synchronous execution
+│   │   └── Asynchronous execution
+│   ├── Dispatch groups
+│   ├── Dispatch semaphores
+│   └── Dispatch barriers
+├── Operations
+│   ├── Operation queue
+│   ├── Operation
+│   │   ├── Dependencies
+│   │   └── Execution states
+│   └── Block operation
+└── Futures and Promises
+    ├── Futures
+    │   ├── Result type
+    │   ├── Future types
+    │   ├── Futures composition
+    │   └── Error handling
+    └── Promises
+        ├── Promise type
+        └── PromiseKit
+
+
+
+------------------------------------------------------iOS--------------------------------------------------
+
+
+iOS
+├── Core OS
+│   ├── Security
+│   ├── Services
+│   ├── File System
+│   └── Sockets
+├── Core Services
+│   ├── Contacts
+│   ├── Core Location
+│   ├── Core Motion
+│   ├── Network
+│   ├── Settings
+│   └── Threading
+├── Media
+│   ├── Core Audio
+│   ├── Core Image
+│   ├── Core Video
+│   ├── AVFoundation
+│   ├── Core Animation
+│   ├── OpenGL ES
+│   └── Metal
+├── Cocoa Touch
+│   ├── UIKit
+│   ├── Core Text
+│   ├── Core Data
+│   ├── Core Animation
+│   ├── MapKit
+│   ├── MessageUI
+│   ├── QuickLook
+│   ├── Safari Services
+│   ├── StoreKit
+│   ├── WebKit
+│   └── EventKit
+├── Development Tools
+│   ├── Xcode
+│   ├── Instruments
+│   └── Swift
+└── System Apps
+    ├── App Store
+    ├── Camera
+    ├── Clock
+    ├── Health
+    ├── Maps
+    ├── Messages
+    ├── Phone
+    ├── Photos
+    ├── Safari
+    ├── Settings
+    └── Wallet
+
+
+
+This diagram shows the different layers of iOS, from the Core OS at the bottom to the System Apps at the top. The Core OS layer provides low-level services such as security, file system, and sockets. The Core Services layer provides higher-level services such as contacts, location, and threading. The Media layer provides multimedia services such as audio, video, and graphics. The Cocoa Touch layer is the layer that most iOS developers work with directly and includes frameworks such as UIKit, Core Data, and MapKit. The Development Tools layer includes Xcode, Instruments, and Swift. Finally, the System Apps layer includes the built-in apps that come with iOS, such as the App Store, Camera, and Messages.
+
+
+
+------------------------------------------------Cocoa Touch------------------------
+
+
+
+Cocoa Touch
+├── App Frameworks
+│   ├── UIKit
+│   ├── Core Animation
+│   ├── Core Audio
+│   ├── Core Data
+│   ├── Core Location
+│   ├── Core Motion
+│   ├── Core Text
+│   ├── MapKit
+│   ├── Media Player
+│   ├── MessageUI
+│   ├── Social
+│   └── WebKit
+├── System Frameworks
+│   ├── Address Book
+│   ├── Event Kit
+│   ├── Foundation
+│   ├── GameKit
+│   ├── iAd
+│   ├── iCloud
+│   ├── Store Kit
+│   └── Twitter
+├── Core Services
+│   ├── Networking
+│   ├── Threading
+│   ├── Localization
+│   ├── Preferences
+│   └── Settings
+├── Development Tools
+│   ├── Xcode
+│   ├── Instruments
+│   └── Swift
+└── Libraries
+    ├── libc++
+    ├── libxml2
+    └── libz
+
+
+This diagram shows the different layers of Cocoa Touch, from the App Frameworks at the top to the Libraries at the bottom. The App Frameworks layer includes the frameworks that most iOS developers work with directly, such as UIKit, Core Data, and MapKit. The System Frameworks layer includes lower-level system frameworks such as Foundation, iCloud, and GameKit. The Core Services layer provides additional services such as networking, threading, localization, and preferences. The Development Tools layer includes Xcode, Instruments, and Swift. Finally, the Libraries layer includes C++ and other libraries used by the frameworks in Cocoa Touch.
+
+
+
+----------------------------------------------UIKit-----------------------------------------------------------------------
+
+
+UIKit
+├── Views
+│   ├── UIControl
+│   ├── UIButton
+│   ├── UILabel
+│   ├── UIImageView
+│   ├── UITableView
+│   ├── UICollectionView
+│   ├── UITextView
+│   ├── UISwitch
+│   ├── UIStepper
+│   ├── UIProgressView
+│   ├── UISlider
+│   ├── UITextField
+│   ├── UIPickerView
+│   ├── UIDatePicker
+│   ├── UIPageControl
+│   ├── UISegmentedControl
+│   ├── UIActivityIndicatorView
+│   ├── UIRefreshControl
+│   ├── UIStackView
+│   ├── UIWebView
+│   └── More...
+├── View Controllers
+│   ├── UIViewController
+│   ├── UINavigationController
+│   ├── UITabBarController
+│   ├── UISplitViewController
+│   ├── UITableViewController
+│   ├── UICollectionViewController
+│   ├── UIPopoverPresentationController
+│   ├── UIActivityViewController
+│   ├── UIAlertController
+│   ├── UIImagePickerController
+│   ├── More...
+├── Layout and Drawing
+│   ├── Auto Layout
+│   ├── Constraints
+│   ├── Frames
+│   ├── Drawing
+│   ├── Graphics Contexts
+│   ├── Core Graphics
+│   ├── Core Text
+│   └── More...
+├── User Interactions
+│   ├── Gesture Recognizers
+│   ├── Touches and Events
+│   ├── Responders and the Responder Chain
+│   ├── Motion Effects
+│   ├── Animations
+│   ├── Transitions
+│   ├── Accessibility
+│   └── More...
+├── Navigation and Flow
+│   ├── Segues
+│   ├── Navigation Bar
+│   ├── Tab Bar
+│   ├── Toolbars
+│   ├── Page View Controllers
+│   ├── Popovers
+│   ├── Split View Controllers
+│   ├── Custom Container View Controllers
+│   └── More...
+├── Appearance and Behavior
+│   ├── Appearance API
+│   ├── Dynamic Type
+│   ├── Fonts
+│   ├── Colors
+│   ├── Images
+│   ├── Tint Color
+│   ├── Status Bar
+│   ├── Alert Views and Action Sheets
+│   ├── Activity Indicators
+│   ├── Progress Indicators
+│   ├── Text Fields and Text Views
+│   ├── More...
+└── More...
+
+
+
+
+
