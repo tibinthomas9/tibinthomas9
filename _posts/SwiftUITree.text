@@ -1,5 +1,111 @@
 SwiftUI
 ├── Views
+│   ├── Primitive Views
+│   │   ├── Text
+│   │   ├── Image
+│   │   ├── Shape
+│   │   ├── Group
+│   │   ├── Divider
+│   │   └── ...
+│   ├── Container Views
+│   │   ├── VStack
+│   │   ├── HStack
+│   │   ├── ZStack
+│   │   ├── List
+│   │   ├── ScrollView
+│   │   ├── Form
+│   │   ├── NavigationView
+│   │   ├── TabView
+│   │   ├── ...
+│   │   └── Custom Views
+│   ├── Composing Views
+│   │   ├── @ViewBuilder
+│   │   ├── ViewModifiers
+│   │   ├── Animations
+│   │   ├── Transitions
+│   │   └── ...
+│   ├── Layout
+│   │   ├── Alignment
+│   │   ├── Spacing
+│   │   ├── Padding
+│   │   ├── Frame
+│   │   └── ...
+│   └── ...
+├── State Management
+│   ├── @State
+│   ├── @Binding
+│   ├── @Environment
+│   ├── @ObservedObject
+│   ├── @Published
+│   ├── Property Wrappers
+│   └── ...
+├── Events and Actions
+│   ├── @Gesture
+│   ├── Button
+│   ├── TapGesture
+│   ├── DragGesture
+│   ├── LongPressGesture
+│   ├── NotificationCenter
+│   ├── Timers
+│   ├── ...
+│   └── Custom Events and Actions
+├── Data Flow
+│   ├── Data Models
+│   ├── Fetching Data
+│   ├── Parsing Data
+│   ├── Caching Data
+│   ├── Transforming Data
+│   └── ...
+├── App Lifecycle
+│   ├── Scene
+│   ├── App
+│   ├── WindowGroup
+│   ├── ScenePhase
+│   ├── ...
+│   └── Custom App Lifecycle Management
+├── Navigation and Routing
+│   ├── NavigationLink
+│   ├── PresentationLink
+│   ├── Modal
+│   ├── TabBar
+│   ├── Sheet
+│   ├── Popovers
+│   ├── ...
+│   └── Custom Navigation and Routing
+├── Animation
+│   ├── Animatable
+│   ├── AnimatableModifier
+│   ├── Animation
+│   ├── Transition
+│   ├── ...
+│   └── Custom Animation
+├── Localization
+│   ├── Text Localization
+│   ├── Image Localization
+│   ├── Date Formatting
+│   ├── Number Formatting
+│   └── Custom Localization
+├── Accessibility
+│   ├── Accessible Properties
+│   ├── Accessibility Actions
+│   ├── Accessibility Roles
+│   ├── Accessibility Traits
+│   └── Custom Accessibility
+├── Testing
+│   ├── XCTest
+│   ├── Preview Testing
+│   ├── Snapshot Testing
+│   ├── UI Testing
+│   └── Custom Testing
+└── ...
+
+
+
+
+-----------------------------------Another one------------------------------------------
+
+SwiftUI
+├── Views
 │   ├── Text
 │   ├── Image
 │   ├── Button
