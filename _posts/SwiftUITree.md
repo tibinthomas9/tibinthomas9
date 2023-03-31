@@ -1,0 +1,112 @@
+SwiftUI
+├── Views
+│   ├── Text
+│   ├── Image
+│   ├── Button
+│   ├── TextField
+│   ├── Toggle
+│   ├── Picker
+│   ├── List
+│   ├── NavigationView
+│   ├── TabView
+│   ├── ScrollView
+│   ├── LazyVStack
+│   ├── LazyHStack
+│   ├── VStack
+│   ├── HStack
+│   ├── ZStack
+│   ├── ForEach
+│   ├── Group
+│   ├── Section
+│   ├── Spacer
+│   ├── Divider
+│   ├── EmptyView
+│   ├── AnyView
+│   ├── GeometryReader
+│   ├── Color
+│   └── Gradients
+├── Modifiers
+│   ├── font()
+│   ├── foregroundColor()
+│   ├── background()
+│   ├── padding()
+│   ├── frame()
+│   ├── overlay()
+│   ├── border()
+│   ├── opacity()
+│   ├── rotationEffect()
+│   ├── scaleEffect()
+│   ├── offset()
+│   ├── clipShape()
+│   ├── shadow()
+│   ├── animation()
+│   ├── transition()
+│   ├── onAppear()
+│   └── onDisappear()
+├── Layout
+│   ├── Alignment
+│   ├── HAlignment
+│   ├── VAlignment
+│   ├── EdgeInsets
+│   ├── Edge
+│   └── Safe Area
+├── State
+│   ├── @State
+│   ├── @Binding
+│   ├── @EnvironmentObject
+│   ├── @ObservedObject
+│   ├── @Published
+│   └── @Environment
+├── Animation
+│   ├── Animatable
+│   ├── ViewModifier
+│   ├── Interpolatable
+│   └── withAnimation()
+├── Gestures
+│   ├── TapGesture
+│   ├── LongPressGesture
+│   ├── DragGesture
+│   ├── MagnificationGesture
+│   ├── RotationGesture
+│   └── GestureState
+├── Accessibility
+│   ├── AccessibilityElement
+│   ├── accessibility()
+│   ├── accessibilityLabel()
+│   ├── accessibilityHint()
+│   ├── accessibilityValue()
+│   ├── accessibilityTraits()
+│   ├── accessibilityAction()
+│   ├── accessibilityAdjustableAction()
+│   ├── accessibilityScrollAction()
+│   ├── accessibilitySortPriority()
+│   └── accessibilityElement()
+└── Other
+    ├── App
+    ├── Scene
+    ├── ViewBuilder
+    ├── AppStorage
+    ├── SceneStorage
+    ├── UserDefaults
+    ├── DatePickers
+    ├── Alerts
+    ├── Sheets
+    ├── Navigation
+    ├── Routing
+    ├── Presentations
+    ├── Actions
+    ├── Interfacing
+    ├── Previews
+    └── Localization
+
+
+This diagram shows the various elements of SwiftUI organized into categories, including Views, Modifiers, Layout, State, Animation, Gestures, Accessibility, and Other. Each category contains several sub-elements, such as the Text, Image, Button, and other view components in the Views category, and the font(), foregroundColor(), background(), and other modifier functions in the Modifiers category.
+
+Overall, SwiftUI provides a rich set of building blocks for creating sophisticated user interfaces, with a focus on composability, flexibility, and ease of use.
+
+
+The main App component is at the top level and contains one or more View components. In this diagram, the View component is a NavigationView that contains a VStack component, which in turn contains a Text and a Button.
+
+Each component can have its own properties and behavior, and can pass data and actions to its child components. Components can also use property wrappers such as @State, @Binding, and @ObservableObject to manage their data and update their views accordingly.
+
+Overall, the structure of SwiftUI is designed to be declarative and composable, allowing you to build complex UIs from simple, reusable components.
