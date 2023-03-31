@@ -267,6 +267,8 @@ Here are some useful resources for learning data structures and algorithms:
 
 Here are some useful resources for learning and preparing for iOS and Swift interviews:
 
+- [iOS and Swift Tree Diagram](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/SwiftAndiOS-Tree.text)
+
 ## Fundamentals
 
 -   [The Complete Guide to Understanding Swift Optionals](https://matteomanferdini.com/wp-content/uploads/2019/04/The-Complete-Guide-to-Understanding-Swift-Optionals.pdf)
