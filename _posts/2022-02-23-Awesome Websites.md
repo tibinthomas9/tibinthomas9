@@ -216,6 +216,7 @@ Here are some useful resources for learning data structures and algorithms:
 ## Resources for Preparing for a Software Engineering Job
 
 -   [Google Tech Dev Guide: Path to a Software Engineering Job](https://techdevguide.withgoogle.com/paths/) - Resources for preparing for a software engineering job.
+-   [How to evaluate if you are ready for an interview?"](https://www.linkedin.com/posts/dollyvaishnav198_book-a-time-with-dolly-on-topmateio-activity-7043218990592126976-jCVj/)
 
 
 
