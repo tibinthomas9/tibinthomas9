@@ -472,6 +472,7 @@ This is a list of resources that can help you prepare for a mobile system design
 -   [System Design Cheatsheet | Vasanthk](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 -   [System Design Master Template | GitConnected](https://levelup.gitconnected.com/system-design-master-template-how-to-answer-any-system-design-interview-question-ee5dc332acd5)
 -   [Netflix System Design: Backend Architecture | Dev Community](https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3)
+-   [System Design Hub](https://blog.bytebytego.com/)
 
 ## Checklists
 
