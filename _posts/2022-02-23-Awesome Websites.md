@@ -475,7 +475,7 @@ This is a list of resources that can help you prepare for a mobile system design
 -   [System Design Master Template | GitConnected](https://levelup.gitconnected.com/system-design-master-template-how-to-answer-any-system-design-interview-question-ee5dc332acd5)
 -   [Netflix System Design: Backend Architecture | Dev Community](https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3)
 -   [System Design Hub](https://blog.bytebytego.com/)
-
+- [Sytem Design Archive bytebytego PDF](https://bytebyte-go.s3.amazonaws.com/ByteByteGo_LinkedIn_PDF.pdf)
 ## Checklists
 
 -   [Backend Software Architecture Checklist | freeCodeCamp](https://www.freecodecamp.org/news/have-an-idea-want-to-build-a-product-from-scratch-heres-a-checklist-of-things-you-should-go-through-in-your-backend-software-architecture/)
