@@ -463,6 +463,7 @@ This is a list of resources that can help you prepare for a mobile system design
 -   [Polling, SSE, WebSockets – System Design Interview](https://igotanoffer.com/blogs/tech/polling-sse-websockets-system-design-interview#basics)
 -   [Full Stack Software Design | Khalil Stemmler](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)
 -   [System Design Concepts | Arpit Bhayani](https://arpitbhayani.me/system-design)
+-   [What are some of the most common data structures used in the real world?](https://twitter.com/alexxubyte/status/1646174726698713088?s=20)
 
 ## Repositories
 
