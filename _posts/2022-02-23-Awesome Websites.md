@@ -46,6 +46,7 @@
 -   [Xhalr](https://xhalr.com/) - Provides a collection of interactive and visual effects.
 -   [MyNoise](https://mynoise.net/) - Provides a wide range of background noises for relaxation or focus.
 -   [Neave](https://neave.com/) - Offers a variety of interactive websites and games.
+-   [ShowdowMap](https://app.shadowmap.org/) -  Helps visualizing sunlight and shadows anywhere on the Planet.
 
 ## Simulation
 
