@@ -374,7 +374,7 @@ This is a list of resources that can help you prepare for a mobile system design
 
 ### Miscellaneous
 
--   [Image of Different App Architectures](https://cpb-eu-w2.wpmucdn.com/blogs.brighton.ac.uk/dist/c/2637/files/2017/05/5-1cra1rq.jpg)
+-   [iOS Cocoa Layered Architecture](https://cpb-eu-w2.wpmucdn.com/blogs.brighton.ac.uk/dist/c/2637/files/2017/05/5-1cra1rq.jpg)
  
  
 
