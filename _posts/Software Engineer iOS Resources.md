@@ -272,6 +272,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [Objective-C 2.0 Essentials](https://www.techotopia.com/index.php/Objective-C_2.0_Essentials)
 -   [Infinum Handbook: iOS](https://infinum.com/handbook/ios)
 -   [Programming with Objective-C Documentation](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
+-   [Cocoa development concepts by apple](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/Introduction.html)
 
 ### Interoperability
 
