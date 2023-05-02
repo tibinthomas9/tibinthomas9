@@ -138,6 +138,13 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [The Complete Guide to Understanding Swift Optionals](https://matteomanferdini.com/wp-content/uploads/2019/04/The-Complete-Guide-to-Understanding-Swift-Optionals.pdf)
 -   [Swift URLSession Tutorial](https://matteomanferdini.com/swift-urlsession/)
 -   [Debugging Crashes in iOS](https://riptutorial.com/ios/topic/4745/debugging-crashes)
+-   [SOLID iOS](https://www.kodeco.com/21503974-solid-principles-for-ios-apps)
+-   [SOLID iOS](https://www.kodeco.com/21503974-solid-principles-for-ios-apps](https://maddevs.io/blog/solid-principles-in-ios-development/)
+-   https://betterprogramming.pub/swift-s-o-l-i-d-21203ba3a226
+-   https://medium.com/@nishant.kumbhare4/solid-principles-in-swift-73b505d3c63f
+
+
+
 
 ## Swift Programming Language
 
