@@ -7,6 +7,7 @@
 
 -   [Apollo 11](https://github.com/chrislgarry/Apollo-11)
 -   [Apple Open Source](https://opensource.apple.com/releases/)
+-   https://medium.com/javarevisited/top-8-meta-certifications-to-take-in-2023-best-of-lot-c83c009713a
 
 ### Software Stacks
 
