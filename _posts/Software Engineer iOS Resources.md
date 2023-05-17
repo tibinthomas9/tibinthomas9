@@ -18,6 +18,7 @@
  
 # Resources for Learning Computer Science and Programming
 - https://github.com/readme/guides/engineering-career-success
+- https://xcodebuildsettings.com/#group-native-build-syste
 
 ## Links for Learning Data Structures and Algorithms
 
