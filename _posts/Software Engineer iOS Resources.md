@@ -11,6 +11,8 @@
 -   https://www.essentialdeveloper.com/ios-architect-crash-course/may-2023-e03b
 -   https://betterprogramming.pub/the-complete-swiftui-documentation-youve-been-waiting-for-fdfe7241add9
 -   https://swiftuidocs.com/
+-   
+-   https://redd.one/blog/the-art-of-code-review
 
 ### Software Stacks
 
