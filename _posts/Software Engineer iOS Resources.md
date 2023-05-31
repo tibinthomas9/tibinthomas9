@@ -1,5 +1,6 @@
 # Computer  
 https://dev.to/zenstack/simplicity-is-the-ultimate-sophistication-1cfk
+https://indiegoodies.com/awesome-ios
 
 https://designcode.io/tutorials
  https://heckj.github.io/swiftui-notes/
