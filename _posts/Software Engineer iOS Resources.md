@@ -1,6 +1,8 @@
 # Computer  
 https://dev.to/zenstack/simplicity-is-the-ultimate-sophistication-1cfk
+
 https://indiegoodies.com/awesome-ios
+
 https://www.swiftanytime.com/
 
 https://designcode.io/tutorials
