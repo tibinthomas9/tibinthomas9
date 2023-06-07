@@ -5,6 +5,8 @@ https://indiegoodies.com/awesome-ios
 
 https://theswiftdev.com/
 
+https://developer.apple.com/documentation/updates/
+
 https://www.swiftanytime.com/
 
 https://designcode.io/tutorials
