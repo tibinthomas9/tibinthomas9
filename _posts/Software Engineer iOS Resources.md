@@ -419,4 +419,27 @@ Study Plan
 Develop a guide for iOS which details out important structured details of iOS development which details most important things to learn like concurrency but also discuss minute non technical details like signing, app Ids,Apples recoomended way, which frameworks use target action pattern, which use singletons, which use delegates ,which use functional programming, protocol programming, event driven or reactive programing(swiftUI, combine, Rxswift), concection between functional and reactive, declarative programming, key value coding and Obeserving. Various values in plist, which functionalities need an associated permission text in plist etc, when to use swift, swiftUI, ObjectiveC, when to use GCD vs Operations vs Threads, where to use value driven programing or reference types, how threads are handled in multi cores, how data gets saved during context switch, importance of ABI stability of swift, how swift, objectivec and C work together in the OS, details about POSIX features, learn from transistor, how SoliD patterns get enforced via protocol oriented programming, how design patterns and different programing patterns work together in swift or Cocoa
 
 
+Notes
+
+
+# 1
+Using small static libraries instead of a single module can offer several benefits in iOS app development, especially for larger projects:
+
+1. Faster build times: ---- When working with a large project, building the entire codebase can be time-consuming. By using small static libraries, you can build and link only the components that have changed, reducing build times significantly. This allows for faster iterations during development and improves developer productivity.
+
+2. Parallel development: ---- Splitting the codebase into small static libraries enables parallel development by different teams or developers. Each team can work on their specific library without interfering with others. This parallelization can accelerate development timelines and enhance collaboration.
+
+3. Code encapsulation and reusability: ---- Static libraries promote encapsulation of specific functionalities or modules into separate units. These units can be easily reused across multiple projects, reducing code duplication and increasing efficiency. Encapsulation also makes it easier to maintain and update specific parts of the codebase without affecting other components.
+
+4. Granular control over dependencies: ---- With small static libraries, you have more control over managing dependencies. Each library can have its own set of dependencies, and you can manage them independently. This can help prevent dependency conflicts and simplify the management of third-party libraries.
+
+5. Incremental updates and releases: --- When using small static libraries, it becomes easier to deliver updates and bug fixes to specific components without affecting the entire application. This granularity allows for faster deployment of critical fixes and reduces the risk of introducing new bugs during the release process.
+
+6. Better code organization and maintainability: --- Splitting the codebase into small static libraries helps maintain a clean and organized project structure. Each library focuses on a specific functionality or feature, making it easier to understand, modify, and maintain the codebase over time.
+
+7. Improved recompilation times: --- If a specific static library undergoes changes, only that library needs to be recompiled. This saves time during the build process and speeds up the overall development workflow.
+
+However, it's important to strike a balance between creating too many small static libraries and having too few large ones. Overcompartmentalization can introduce unnecessary complexity and increase build times due to excessive linking. It's crucial to find the right balance based on the specific needs and complexity of your project.
+
+
  
