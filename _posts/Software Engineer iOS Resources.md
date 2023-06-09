@@ -5,6 +5,10 @@ https://indiegoodies.com/awesome-ios
 
 https://theswiftdev.com/
 
+
+
+https://www.wwdcnotes.com/notes/wwdc23/10166/
+
 https://developer.apple.com/documentation/updates/
 
 https://www.swiftanytime.com/
