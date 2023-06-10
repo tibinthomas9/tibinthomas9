@@ -7,7 +7,7 @@ https://theswiftdev.com/
 
 
 
-https://www.wwdcnotes.com/notes/wwdc23/10166/
+https://www.wwdcnotes.com/notes
 
 https://developer.apple.com/documentation/updates/
 
