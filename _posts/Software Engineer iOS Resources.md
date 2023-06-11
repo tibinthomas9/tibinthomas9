@@ -11,6 +11,8 @@ https://www.wwdcnotes.com/notes
 
 https://developer.apple.com/documentation/updates/
 
+https://developer.apple.com/whats-new/
+
 https://www.swiftanytime.com/
 
 https://designcode.io/tutorials
