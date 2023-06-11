@@ -322,6 +322,13 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -  [SwiftUI Data Flow](https://matteomanferdini.com/swiftui-data-flow/)
 -  [Swiftui-relationship-to-uikit-appkit](https://wwdcbysundell.com/2019/swiftui-relationship-to-uikit-appkit/)
 
+## TVOS 
+
+- [Mastering the tvOS Focus Engine](https://medium.com/airbnb-engineering/mastering-the-tvos-focus-engine-f8a13b371083)
+-  [TVOS Apple](https://developer.apple.com/library/archive/documentation/General/Conceptual/AppleTV_PG/index.html#//apple_ref/doc/uid/TP40015241-CH12-SW1)
+-   [TVOS Focus](https://bignerdranch.com/blog/10-tips-for-mastering-the-focus-engine-on-tvos/)
+-   [Kodeco TvOS Swiftui](https://www.kodeco.com/19074315-swiftui-on-tvos)
+
 
 ### Tutorials and Articles
 
