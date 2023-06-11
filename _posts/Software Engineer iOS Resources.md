@@ -382,6 +382,7 @@ This is a list of resources that can help you prepare for a mobile system design
 
  
 ## Blogs
+https://www.linkedin.com/in/shantini-vyas/
 
 ### iOS Development
 
