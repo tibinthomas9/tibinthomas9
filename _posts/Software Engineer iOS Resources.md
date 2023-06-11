@@ -44,6 +44,11 @@ https://levelup.gitconnected.com/16-system-design-concepts-i-wish-i-knew-before-
 - https://github.com/readme/guides/engineering-career-success
 - https://xcodebuildsettings.com/#group-native-build-syste
 
+# Roadmaps
+- https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c
+- https://dev.to/shreethaanu/ios-developer-roadmap-2022-3bpi
+- https://github.com/BohdanOrlov/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ESSENTIALROADMAP.png
+
 ## Links for Learning Data Structures and Algorithms
 
 Here are some useful resources for learning data structures and algorithms:
