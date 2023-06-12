@@ -196,7 +196,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [Static Patterns in Swift: MVVM Tutorial](https://www.toptal.com/swift/static-patterns-swift-mvvm-tutorial): This tutorial covers the Model-View-ViewModel (MVVM) architecture pattern in Swift.
 
 ## iOS App Architecture
-
+- https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/WhatIsCocoa/WhatIsCocoa.html
 - https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/CocoaApplicationLayer/CocoaApplicationLayer.html
 
 - https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/CoreServicesLayer/CoreServicesLayer.html
