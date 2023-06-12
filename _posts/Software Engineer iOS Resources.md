@@ -9,7 +9,12 @@ https://theswiftdev.com/
 
 https://www.wwdcnotes.com/notes
 
+https://developer.apple.com/ios/planning/
+
 https://developer.apple.com/documentation/updates/
+
+https://developer.apple.com/app-extensions/
+
 
 https://developer.apple.com/whats-new/
 
