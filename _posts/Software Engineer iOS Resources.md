@@ -1,4 +1,21 @@
 # Computer  
+
+
+https://github.com/BohdanOrlov/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ESSENTIALROADMAP.png
+
+https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c
+
+https://stevenpcurtis.medium.com/swift-learning-roadmap-2023-the-ultimate-guide-fa96a28a4f75
+
+https://redblink.com/learn-ios-development/
+
+https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_PjPem35N-CN_gPTnfveHq5oPT0oQGgMvD0BCxZkF_A6TJsQU7A-5z-m2H2FLe0NsF_uC-pnZX_5GkLBQj1A0lFQov8DL7aLoz_V0mxFkm6OEdO02sqAr2QcFINftwlikcZOopqM9nTCxUlzcnHCdl56Lt5bP9xXIOdfE4OnPo6YtGmlpAro6WHmI/s16000/iOS%20Developer%20RoadMap.png
+
+https://resources.grey.software/
+
+
+
+
 https://dev.to/zenstack/simplicity-is-the-ultimate-sophistication-1cfk
 
 https://indiegoodies.com/awesome-ios
