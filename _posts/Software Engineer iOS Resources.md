@@ -5,6 +5,8 @@ https://indiegoodies.com/awesome-ios
 
 https://theswiftdev.com/
 
+https://siddarthkalra.github.io/articles/swift-vs-stdlib-vs-foundation/
+
 
 
 https://www.wwdcnotes.com/notes
