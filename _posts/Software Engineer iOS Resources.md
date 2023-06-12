@@ -13,6 +13,8 @@ https://developer.apple.com/ios/planning/
 
 https://developer.apple.com/documentation/technologies
 
+https://web.archive.org/web/20200529121825/https://developer.apple.com/documentation/
+
 https://developer.apple.com/documentation/updates/
 
 https://developer.apple.com/app-extensions/
