@@ -197,6 +197,10 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 
 ## iOS App Architecture
 
+- https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/CocoaApplicationLayer/CocoaApplicationLayer.html
+
+- https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/CoreServicesLayer/CoreServicesLayer.html
+
 -   [Architecting SwiftUI apps with MVC and MVVM](https://matteomanferdini.com/wp-content/uploads/2020/05/Architecting-SwiftUI-apps-with-MVC-and-MVVM.pdf): This article compares the Model-View-Controller (MVC) and Model-View-ViewModel (MVVM) architecture patterns for SwiftUI apps.
 -   [iOS App Architecture](https://karthikkeyan.medium.com/ios-app-architecture-3f1d1400862f): This article covers various architecture patterns used in iOS app development.
 -   [MVVM and Coordinators: iOS Architecture Tutorial](https://medium.com/nerd-for-tech/mvvm-coordinators-ios-architecture-tutorial-fb27eaa36470): This tutorial covers the MVVM architecture pattern and coordinators in iOS app development.
