@@ -11,6 +11,12 @@ https://redblink.com/learn-ios-development/
 
 https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_PjPem35N-CN_gPTnfveHq5oPT0oQGgMvD0BCxZkF_A6TJsQU7A-5z-m2H2FLe0NsF_uC-pnZX_5GkLBQj1A0lFQov8DL7aLoz_V0mxFkm6OEdO02sqAr2QcFINftwlikcZOopqM9nTCxUlzcnHCdl56Lt5bP9xXIOdfE4OnPo6YtGmlpAro6WHmI/s16000/iOS%20Developer%20RoadMap.png
 
+https://devlancer.work/ios-developer-roadmap-skills-you-must-have/
+
+
+
+
+
 https://resources.grey.software/
 
 
