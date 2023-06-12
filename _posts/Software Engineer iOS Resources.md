@@ -269,6 +269,8 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [Swift on Tap](https://swiftontap.com/section)
 -   [Swift 5.1 Cheatsheet by raywenderlich](https://koenig-media.raywenderlich.com/uploads/2020/12/RW-Swift-5.1-Cheatsheet-1.0.pdf)
 -   [Swift by Avanderlee](https://www.avanderlee.com/category/swift/)
+
+- https://www.advancedswift.com/date-formatter-cheatsheet-formulas-swift/
 ### Tutorials and Courses
 
 -   [TutorialsPoint iOS Tutorial](https://www.tutorialspoint.com/ios/)
