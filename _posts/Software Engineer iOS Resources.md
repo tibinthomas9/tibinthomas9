@@ -354,6 +354,10 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 ## Objective C
 
 - [ObjectiveC Tree](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/ObjectiveC-Tree.text)
+- https://medium.com/swlh/objective-c-for-swift-developers-ca8196e914ff#:~:text=Objective%2DC%20uses%20a%20combination,default%2C%20all%20objects%20are%20mutable.
+- https://www.bitdegree.org/courses/course/objective-c-tutorial
+- https://www.hackingwithswift.com/store/objective-c-for-swift-developers
+- https://www.appypie.com/objective-c-swift-developers
 
 ### Tutorials and Courses
 
