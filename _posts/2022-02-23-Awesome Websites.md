@@ -4,8 +4,10 @@
  - A collection of awesome websites on internet!  
 
 
-https://12ft.io/
- https://twitter.com/felixleezd/status/1657041174933143552
+- https://12ft.io/
+
+- https://twitter.com/felixleezd/status/1657041174933143552
+- https://twitter.com/brcyrr/status/1669258086035472385/photo/1
 
 
 
