@@ -48,6 +48,8 @@ https://developer.apple.com/documentation/updates/
 
 https://developer.apple.com/app-extensions/
 
+https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+
 
 https://developer.apple.com/whats-new/
 
@@ -358,6 +360,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 - https://www.bitdegree.org/courses/course/objective-c-tutorial
 - https://www.hackingwithswift.com/store/objective-c-for-swift-developers
 - https://www.appypie.com/objective-c-swift-developers
+- https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
 
 ### Tutorials and Courses
 
