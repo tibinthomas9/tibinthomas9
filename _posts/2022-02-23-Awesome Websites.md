@@ -160,6 +160,7 @@ https://github.com/smenjas/history-notes
 -   [https://www.johncoogan.com/](https://www.johncoogan.com/)
 -   [Entropy](https://jamesclear.com/entropy) by James Clear
 -   [Why You're Not Getting Promoted as an Engineer](https://medium.com/@_michaellin/why-youre-not-getting-promoted-as-an-engineer-8d213f5ea0a6) by Michael Lin
+-   https://www.jarynbunney.com/
 
 ## Philosophy
 
