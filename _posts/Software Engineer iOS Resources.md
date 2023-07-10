@@ -27,6 +27,9 @@ https://socialpomodoro.com/
 
 Pending items to add
 
+https://www.fivestars.blog/
+
+
 https://midnight-beanie-ccb.notion.site/WWDC23-SwiftUI-520489da7e914cd18b5f5e43eeeec069
 
 https://github.com/NilCoalescing/SwiftUI-Code-Examples
