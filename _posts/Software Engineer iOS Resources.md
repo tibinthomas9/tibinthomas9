@@ -6,6 +6,8 @@ https://midnight-beanie-ccb.notion.site/WWDC23-SwiftUI-520489da7e914cd18b5f5e43e
 
 https://github.com/NilCoalescing/SwiftUI-Code-Examples
 
+https://trailingclosure.com/blendmode-cheat-sheet/
+
 https://www.archet.app/
 
 
