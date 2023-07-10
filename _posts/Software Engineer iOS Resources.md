@@ -3,7 +3,26 @@
 Support tools
 
 http://www.eyebreaks.com/
+
 https://clockify.me/blog/productivity/best-productivity-tools-programmers/
+
+https://forestapp.cc/
+
+https://pomodor.app/timer
+
+https://focuskeeper.co/modal/options
+
+https://pomofocus.io/app
+
+https://www.brain.fm/
+
+https://twist.com/
+
+https://remotion.com/?ref=producthunt
+
+https://lifeat.io/app?ref=producthunt&space=241
+
+https://socialpomodoro.com/
 
 
 Pending items to add
