@@ -24,6 +24,7 @@ https://lifeat.io/app?ref=producthunt&space=241
 
 https://socialpomodoro.com/
 
+https://claude.ai/chat
 
 Pending items to add
 
