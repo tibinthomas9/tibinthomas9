@@ -29,6 +29,8 @@ Pending items to add
 
 https://www.fivestars.blog/
 
+https://www.objc.io/issues/5-ios7/iOS7-hidden-gems-and-workarounds/
+
 
 https://midnight-beanie-ccb.notion.site/WWDC23-SwiftUI-520489da7e914cd18b5f5e43eeeec069
 
