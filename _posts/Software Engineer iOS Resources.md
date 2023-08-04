@@ -30,6 +30,8 @@ https://claude.ai/chat
 
 Pending items to add
 
+https://medium.com/@oradwan037/swiftui-under-the-hood-ec5330d9d28c
+
 https://www.fivestars.blog/
 
 https://developer.apple.com/library/archive/releasenotes/General/iOS70APIDiffs/
