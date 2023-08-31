@@ -288,6 +288,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [iOS Switch Control Tutorial](https://www.journaldev.com/22826/ios-uiswitch)
 -   [Architecting SwiftUI Apps with MVC and MVVM](https://matteomanferdini.com/wp-content/uploads/2020/05/Architecting-SwiftUI-apps-with-MVC-and-MVVM.pdf)
 -   [The 5 Most Common Misconceptions About SwiftUI](https://matteomanferdini.com/wp-content/uploads/2019/10/The-5-most-common-misconceptions-about-SwiftUI-Matteo-Manferdini.pdf)
+-   https://medium.engineering/evolution-of-the-medium-ios-app-architecture-8b6090f4508e
 
 ## Application Lifecycle
 
