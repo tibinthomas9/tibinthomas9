@@ -28,9 +28,11 @@ https://socialpomodoro.com/
 
 https://claude.ai/chat
 
-Pending items to add
+# Pending items to add
 
 https://medium.com/@oradwan037/swiftui-under-the-hood-ec5330d9d28c
+
+https://useyourloaf.com/
 
 https://www.fivestars.blog/
 
