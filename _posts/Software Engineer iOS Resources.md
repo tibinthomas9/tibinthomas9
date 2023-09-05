@@ -36,6 +36,8 @@ https://useyourloaf.com/
 
 https://www.fivestars.blog/
 
+https://byby.dev/swiftui-state-management
+
 https://developer.apple.com/library/archive/releasenotes/General/iOS70APIDiffs/
 
 https://www.objc.io/issues/5-ios7/iOS7-hidden-gems-and-workarounds/
