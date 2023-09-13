@@ -258,6 +258,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 
 - [iOS and Swift Tree Diagram](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/SwiftAndiOS-Tree.text)
 - [iOS Code Review Checklist](https://gist.github.com/pallavtrivedi03/8f4975a41f5b64d8a6af4fd119949d39)
+- https://developer.apple.com/forums/thread/699003
 
 ## Fundamentals
 
