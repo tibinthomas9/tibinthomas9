@@ -535,6 +535,7 @@ https://www.linkedin.com/in/shantini-vyas/
 -   [Isolate Client-Server Interaction Logic in iOS](https://www.toptal.com/ios/isolate-client-server-interaction-logic-ios)
 -   [Apple Developer Blog](https://developer.apple.com/swift/blog/)
 -   [Software Engineering with Karthik - YouTube Channel](https://www.youtube.com/watch?v=6hYPUFWJ7QA&t=6s&ab_channel=SoftwareEngineeringwithKarthik)
+-   https://www.pluralsight.com/guides/protocol-oriented-programming-in-swift
 
 ### Swift Style Guide
 
