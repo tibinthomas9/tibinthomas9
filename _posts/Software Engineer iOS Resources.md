@@ -271,6 +271,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [Debugging Crashes in iOS](https://riptutorial.com/ios/topic/4745/debugging-crashes)
 -   [SOLID iOS](https://www.kodeco.com/21503974-solid-principles-for-ios-apps)
 -   [SOLID iOS](https://www.kodeco.com/21503974-solid-principles-for-ios-apps](https://maddevs.io/blog/solid-principles-in-ios-development/)
+-   https://codeburst.io/solid-design-principle-using-swift-fa67443672b8
 -   https://betterprogramming.pub/swift-s-o-l-i-d-21203ba3a226
 -   https://medium.com/@nishant.kumbhare4/solid-principles-in-swift-73b505d3c63f
 -   https://www.kodeco.com/books/swift-cookbook/v1.0
