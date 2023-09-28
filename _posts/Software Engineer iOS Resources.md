@@ -33,6 +33,8 @@ https://claude.ai/chat
 
 https://nalexn.github.io/state-management-guide-ios/
 
+https://www.bestinclassiosapp.com/
+
 https://getstream.io/blog/swiftui-video-streaming-app/
 
 
