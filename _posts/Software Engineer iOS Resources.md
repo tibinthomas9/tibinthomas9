@@ -116,6 +116,7 @@ https://designcode.io/tutorials
 
 - [Computer Science Tree](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/Computer%20Science%20Tree.text)
 - [Transistor to Web tree](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/TransistorToWebTree.text)
+- https://github.com/apple/swift/blob/main/docs/GenericsManifesto.md
 https://levelup.gitconnected.com/16-system-design-concepts-i-wish-i-knew-before-the-interview-b8586e40a73b
 
 
