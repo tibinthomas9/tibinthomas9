@@ -28,6 +28,8 @@ https://socialpomodoro.com/
 
 https://claude.ai/chat
 
+https://medium.com/airbnb-engineering/unlocking-swiftui-at-airbnb-ea58f50cde49
+
 # Pending items to add
 
 
