@@ -35,6 +35,8 @@ https://medium.com/airbnb-engineering/unlocking-swiftui-at-airbnb-ea58f50cde49
 
 https://nalexn.github.io/state-management-guide-ios/
 
+https://blog.timac.org/2016/1124-testing-if-an-arbitrary-pointer-is-a-valid-objective-c-object/
+
 https://www.bestinclassiosapp.com/
 
 https://getstream.io/blog/swiftui-video-streaming-app/
