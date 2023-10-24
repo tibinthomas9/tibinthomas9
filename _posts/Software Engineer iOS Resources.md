@@ -77,6 +77,8 @@ https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_PjPem35N-CN_gPTnfve
 
 https://devlancer.work/ios-developer-roadmap-skills-you-must-have/
 
+https://blog.timac.org/2016/1124-testing-if-an-arbitrary-pointer-is-a-valid-objective-c-object/
+
 
 
 
