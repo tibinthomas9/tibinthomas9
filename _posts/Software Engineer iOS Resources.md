@@ -30,6 +30,23 @@ https://claude.ai/chat
 
 https://medium.com/airbnb-engineering/unlocking-swiftui-at-airbnb-ea58f50cde49
 
+
+Roadmap
+
+https://github.com/KaneEast/iOS-Developer-Roadmap
+
+https://github.com/viacheslavbilyi/iOS-Roadmap
+
+https://github.com/canopas/iOS-developer-roadmap-2023
+
+https://github.com/Cinichka/ios_roadmap
+
+https://github.com/godrm/mobile-developer-roadmap
+
+https://github.com/canopas/iOS-developer-roadmap
+
+https://github.com/M1zz/iOS-developer-roadmap-2022
+
 # Pending items to add
 
 
