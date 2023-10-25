@@ -52,6 +52,9 @@ https://github.com/M1zz/iOS-developer-roadmap-2022
 # Pending items to add
 
 
+https://shopify.engineering/lessons-building-ios-widgets
+
+
 https://nalexn.github.io/state-management-guide-ios/
 
 https://blog.timac.org/2016/1124-testing-if-an-arbitrary-pointer-is-a-valid-objective-c-object/
