@@ -1,12 +1,41 @@
-# Computer  
+# Computer  Science
 
-Support tools
 
-https://okaxaki.github.io/objc2swift/demo.html
 
-http://www.eyebreaks.com/
+# Roadmaps
 
-https://clockify.me/blog/productivity/best-productivity-tools-programmers/
+- https://github.com/KaneEast/iOS-Developer-Roadmap
+
+- https://github.com/viacheslavbilyi/iOS-Roadmap
+
+- https://github.com/canopas/iOS-developer-roadmap-2023
+
+- https://github.com/Cinichka/ios_roadmap
+
+- https://github.com/godrm/mobile-developer-roadmap
+
+- https://github.com/canopas/iOS-developer-roadmap
+
+- https://github.com/M1zz/iOS-developer-roadmap-2022
+
+- https://github.com/BohdanOrlov/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ESSENTIALROADMAP.png
+
+
+- https://stevenpcurtis.medium.com/swift-learning-roadmap-2023-the-ultimate-guide-fa96a28a4f75
+
+- https://devlancer.work/ios-developer-roadmap-skills-you-must-have/
+- https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_PjPem35N-CN_gPTnfveHq5oPT0oQGgMvD0BCxZkF_A6TJsQU7A-5z-m2H2FLe0NsF_uC-pnZX_5GkLBQj1A0lFQov8DL7aLoz_V0mxFkm6OEdO02sqAr2QcFINftwlikcZOopqM9nTCxUlzcnHCdl56Lt5bP9xXIOdfE4OnPo6YtGmlpAro6WHmI/s16000/iOS%20Developer%20RoadMap.png
+
+
+# Pending items to add
+
+
+
+
+### Tools
+- http://www.eyebreaks.com/
+
+- https://clockify.me/blog/productivity/best-productivity-tools-programmers/
 
 https://forestapp.cc/
 
@@ -28,129 +57,6 @@ https://socialpomodoro.com/
 
 https://claude.ai/chat
 
-https://medium.com/airbnb-engineering/unlocking-swiftui-at-airbnb-ea58f50cde49
-
-https://releases.llvm.org/12.0.0/tools/clang/docs/
-
-
-Roadmap
-
-https://github.com/KaneEast/iOS-Developer-Roadmap
-
-https://github.com/viacheslavbilyi/iOS-Roadmap
-
-https://github.com/canopas/iOS-developer-roadmap-2023
-
-https://github.com/Cinichka/ios_roadmap
-
-https://github.com/godrm/mobile-developer-roadmap
-
-https://github.com/canopas/iOS-developer-roadmap
-
-https://github.com/M1zz/iOS-developer-roadmap-2022
-
-# Pending items to add
-
-
-https://shopify.engineering/lessons-building-ios-widgets
-
-
-https://nalexn.github.io/state-management-guide-ios/
-
-https://blog.timac.org/2016/1124-testing-if-an-arbitrary-pointer-is-a-valid-objective-c-object/
-
-https://www.bestinclassiosapp.com/
-
-https://getstream.io/blog/swiftui-video-streaming-app/
-
-
-
-https://medium.com/@oradwan037/swiftui-under-the-hood-ec5330d9d28c
-
-https://useyourloaf.com/
-
-https://www.fivestars.blog/
-
-https://byby.dev/swiftui-state-management
-
-https://developer.apple.com/library/archive/releasenotes/General/iOS70APIDiffs/
-
-https://www.objc.io/issues/5-ios7/iOS7-hidden-gems-and-workarounds/
-
-
-https://midnight-beanie-ccb.notion.site/WWDC23-SwiftUI-520489da7e914cd18b5f5e43eeeec069
-
-https://github.com/NilCoalescing/SwiftUI-Code-Examples
-
-https://trailingclosure.com/blendmode-cheat-sheet/
-
-https://www.archet.app/
-
-
-https://github.com/BohdanOrlov/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ESSENTIALROADMAP.png
-
-https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c
-
-https://stevenpcurtis.medium.com/swift-learning-roadmap-2023-the-ultimate-guide-fa96a28a4f75
-
-https://redblink.com/learn-ios-development/
-
-https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_PjPem35N-CN_gPTnfveHq5oPT0oQGgMvD0BCxZkF_A6TJsQU7A-5z-m2H2FLe0NsF_uC-pnZX_5GkLBQj1A0lFQov8DL7aLoz_V0mxFkm6OEdO02sqAr2QcFINftwlikcZOopqM9nTCxUlzcnHCdl56Lt5bP9xXIOdfE4OnPo6YtGmlpAro6WHmI/s16000/iOS%20Developer%20RoadMap.png
-
-https://devlancer.work/ios-developer-roadmap-skills-you-must-have/
-
-https://blog.timac.org/2016/1124-testing-if-an-arbitrary-pointer-is-a-valid-objective-c-object/
-
-
-
-
-
-https://resources.grey.software/
-
-
-
-
-https://dev.to/zenstack/simplicity-is-the-ultimate-sophistication-1cfk
-
-https://indiegoodies.com/awesome-ios
-
-https://theswiftdev.com/
-
-https://siddarthkalra.github.io/articles/swift-vs-stdlib-vs-foundation/
-
-
-
-https://www.wwdcnotes.com/notes
-
-https://developer.apple.com/ios/planning/
-
-https://developer.apple.com/documentation/technologies
-
-https://web.archive.org/web/20200529121825/https://developer.apple.com/documentation/
-
-https://developer.apple.com/documentation/updates/
-
-https://developer.apple.com/app-extensions/
-
-https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
-
-
-https://developer.apple.com/whats-new/
-
-https://www.swiftanytime.com/
-
-https://designcode.io/tutorials
- https://heckj.github.io/swiftui-notes/
-
-- [Computer Science Tree](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/Computer%20Science%20Tree.text)
-- [Transistor to Web tree](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/TransistorToWebTree.text)
-- https://github.com/apple/swift/blob/main/docs/GenericsManifesto.md
-https://levelup.gitconnected.com/16-system-design-concepts-i-wish-i-knew-before-the-interview-b8586e40a73b
-
-
-
-https://azamsharp.com/2023/02/28/building-large-scale-apps-swiftui.html
-
 ### Projects and Open Source
 
 -   [Apollo 11](https://github.com/chrislgarry/Apollo-11)
@@ -162,6 +68,15 @@ https://azamsharp.com/2023/02/28/building-large-scale-apps-swiftui.html
 -   https://swiftsenpai.com/swift/decode-dynamic-keys-json/
 -   https://redd.one/blog/the-art-of-code-review
 -   
+
+## Resource repos
+- https://resources.grey.software/
+- - [Computer Science Tree](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/Computer%20Science%20Tree.text)
+- [Transistor to Web tree](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/TransistorToWebTree.text)
+- https://github.com/apple/swift/blob/main/docs/GenericsManifesto.md
+- https://levelup.gitconnected.com/16-system-design-concepts-i-wish-i-knew-before-the-interview-b8586e40a73b
+
+
 
 ### Software Stacks
 
@@ -176,7 +91,7 @@ https://azamsharp.com/2023/02/28/building-large-scale-apps-swiftui.html
 ## Security
 - https://twitter.com/MalwareJake/status/1715754563683135806?t=obYzWGVRZyKqepoDwdLsnw&s=19
  
-$# Resources for Learning Computer Science and Programming
+## Resources for Learning Computer Science and Programming
 - https://github.com/readme/guides/engineering-career-success
 - https://xcodebuildsettings.com/#group-native-build-syste
 
@@ -214,7 +129,7 @@ Here are some useful resources for learning data structures and algorithms:
 -   [Design Patterns - Sourcemaking](https://sourcemaking.com/design_patterns) - Overview of design patterns.
 -   [Visualgo](https://visualgo.net/en) - Visual representations of data structures and algorithms.
 -   https://github.com/ByteByteGoHq/system-design-101
--   
+-   https://dev.to/zenstack/simplicity-is-the-ultimate-sophistication-1cfk
 
 
 
@@ -304,6 +219,19 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 - [iOS Code Review Checklist](https://gist.github.com/pallavtrivedi03/8f4975a41f5b64d8a6af4fd119949d39)
 - https://developer.apple.com/forums/thread/699003
 - https://www.avanderlee.com/swift/exc-bad-access-crash/
+- https://developer.apple.com/documentation/updates/
+ -https://developer.apple.com/app-extensions/
+- https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+- https://developer.apple.com/whats-new/
+- https://useyourloaf.com/
+- https://www.fivestars.blog/
+
+
+
+
+## Tools
+- https://okaxaki.github.io/objc2swift/demo.html
+
 
 ## Fundamentals
 
@@ -317,6 +245,19 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   https://medium.com/@nishant.kumbhare4/solid-principles-in-swift-73b505d3c63f
 -   https://www.kodeco.com/books/swift-cookbook/v1.0
 -   https://www.kodeco.com/books/swiftui-cookbook
+-   https://releases.llvm.org/12.0.0/tools/clang/docs/
+-   https://indiegoodies.com/awesome-ios
+-   https://theswiftdev.com/
+-   https://siddarthkalra.github.io/articles/swift-vs-stdlib-vs-foundation/
+-   https://www.wwdcnotes.com/notes
+-   https://developer.apple.com/ios/planning/
+-   https://developer.apple.com/documentation/technologies
+-   https://web.archive.org/web/20200529121825/https://developer.apple.com/documentation/
+-   https://www.swiftanytime.com/
+-   https://designcode.io/tutorials
+-   https://developer.apple.com/library/archive/releasenotes/General/iOS70APIDiffs/
+-   https://redblink.com/learn-ios-development/
+-   
 
 
 
@@ -330,7 +271,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 ## iOS App Architecture
 
 - https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/?US
-- 
+- https://www.bestinclassiosapp.com/
 - https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/WhatIsCocoa/WhatIsCocoa.html
 - https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/CocoaApplicationLayer/CocoaApplicationLayer.html
 
@@ -347,6 +288,8 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [Architecting SwiftUI Apps with MVC and MVVM](https://matteomanferdini.com/wp-content/uploads/2020/05/Architecting-SwiftUI-apps-with-MVC-and-MVVM.pdf)
 -   [The 5 Most Common Misconceptions About SwiftUI](https://matteomanferdini.com/wp-content/uploads/2019/10/The-5-most-common-misconceptions-about-SwiftUI-Matteo-Manferdini.pdf)
 -   https://medium.engineering/evolution-of-the-medium-ios-app-architecture-8b6090f4508e
+-   https://nalexn.github.io/state-management-guide-ios/
+-   https://byby.dev/swiftui-state-management
 
 ## Application Lifecycle
 
@@ -365,9 +308,14 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 
 
 
-## Optimization
+## Optimization and debugging
 
 -   [Optimization Tips for Swift by Apple](https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst#advice-use-copy-on-write-semantics-for-large-values)
+-  https://blog.timac.org/2016/1124-testing-if-an-arbitrary-pointer-is-a-valid-objective-c-object/
+-  https://blog.timac.org/2016/1124-testing-if-an-arbitrary-pointer-is-a-valid-objective-c-object/
+-  https://www.objc.io/issues/5-ios7/iOS7-hidden-gems-and-workarounds/
+-  
+
 
 ## Design Patterns
 
@@ -496,6 +444,24 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -  [SwiftUI Data Flow](https://matteomanferdini.com/swiftui-data-flow/)
 -  [Swiftui-relationship-to-uikit-appkit](https://wwdcbysundell.com/2019/swiftui-relationship-to-uikit-appkit/)
 -  Xcode cheat sheet https://twitter.com/ishtiz_/status/1716786616457654331
+-  https://getstream.io/blog/swiftui-video-streaming-app/
+-  https://medium.com/@oradwan037/swiftui-under-the-hood-ec5330d9d28c
+-  https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c
+-   https://heckj.github.io/swiftui-notes/
+-   https://midnight-beanie-ccb.notion.site/WWDC23-SwiftUI-520489da7e914cd18b5f5e43eeeec069
+-   https://github.com/NilCoalescing/SwiftUI-Code-Examples
+-   https://trailingclosure.com/blendmode-cheat-sheet/
+-   https://www.archet.app/
+
+
+-  
+
+## Swiftui integration at big comapnies
+- https://azamsharp.com/2023/02/28/building-large-scale-apps-swiftui.html
+- https://medium.com/airbnb-engineering/unlocking-swiftui-at-airbnb-ea58f50cde49
+- https://shopify.engineering/lessons-building-ios-widgets
+- 
+
 
 ## TVOS 
 
