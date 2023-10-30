@@ -168,13 +168,18 @@ https://azamsharp.com/2023/02/28/building-large-scale-apps-swiftui.html
 -   [Stackshare](https://stackshare.io/): a website that allows users to view tech stacks of big software products.
 
 
+ ## Promising Tech study
+- https://twitter.com/karpathy/status/1715856458842309033?t=111DlUtJ5MMZnu-QqQ9_5g&s=19
+- https://twitter.com/milan_milanovic/status/1716792434829496831?s=20
+
+## Security
+- https://twitter.com/MalwareJake/status/1715754563683135806?t=obYzWGVRZyKqepoDwdLsnw&s=19
  
- 
-# Resources for Learning Computer Science and Programming
+$# Resources for Learning Computer Science and Programming
 - https://github.com/readme/guides/engineering-career-success
 - https://xcodebuildsettings.com/#group-native-build-syste
 
-# Roadmaps
+## Roadmaps
 - https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c
 - https://dev.to/shreethaanu/ios-developer-roadmap-2022-3bpi
 - https://github.com/BohdanOrlov/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ESSENTIALROADMAP.png
@@ -207,6 +212,8 @@ Here are some useful resources for learning data structures and algorithms:
 -   [Design Patterns by Refactoring Guru](https://refactoring.guru/design-patterns/what-is-pattern) - Detailed explanations of design patterns.
 -   [Design Patterns - Sourcemaking](https://sourcemaking.com/design_patterns) - Overview of design patterns.
 -   [Visualgo](https://visualgo.net/en) - Visual representations of data structures and algorithms.
+-   https://github.com/ByteByteGoHq/system-design-101
+-   
 
 
 
@@ -277,7 +284,7 @@ Here are some useful resources for learning data structures and algorithms:
 -   [Every Resource I Used to Get 500k Software Engineering Offers](https://medium.com/@SantalTech/every-resource-i-used-to-get-500k-software-engineering-offers-bae44a0097c7)
 -   [Follow the Coding Patterns Instead](https://levelup.gitconnected.com/dont-just-leetcode-follow-the-coding-patterns-instead-4beb6a197fdb)
 
- # Recursion
+ ## Recursion
 
 -   [Train Your Mind to Think Recursively in 5 Steps](https://towardsdatascience.com/train-your-mind-to-think-recursively-in-5-steps-8f85c0e0eb81)
 -   [Understanding Recursion](https://www.johndcook.com/blog/2010/03/30/understanding-recursion/)
@@ -353,6 +360,10 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [A Path to Mastery for iOS Development](https://trello.com/b/dOV9dvBu/a-path-to-mastery-for-ios-development)
 -   [Awesome iOS](https://github.com/vsouza/awesome-ios#readme)
 
+-   
+
+
+
 ## Optimization
 
 -   [Optimization Tips for Swift by Apple](https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst#advice-use-copy-on-write-semantics-for-large-values)
@@ -363,6 +374,9 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -  [Cocoa Design Patterns](https://developer.apple.com/documentation/swift/cocoa_design_patterns): This document provides an overview of the design patterns used in Cocoa frameworks.
 -   [Dictionary Locking in Swift](https://straypixels.net/swift-dictionary-locking/): This article discusses the challenges of working with dictionaries in a multithreaded environment and provides a solution using a locking mechanism.
 -   [iOS Design Patterns](https://chetan-aggarwal.medium.com/ios-design-patterns-f478abd78132): This article covers some design patterns used in iOS app development.
+
+-   https://twitter.com/milan_milanovic/status/1714955962098884628?t=4Qwaf8FFTR4k18_0MyEYGA&s=19
+-   
 ## Concurrency
 
 -   [Concurrency in iOS and Swift Guide by Better Programming](https://betterprogramming.pub/concurrency-in-ios-and-swift-guide-50443ce5b0f5#:~:text=Concurrent%20Queues%20executes%20tasks%20one,threads%20from%20the%20thread%20pool.)
@@ -480,6 +494,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -  [SwiftUI Data Flow](https://kean.blog/post/swiftui-data-flow#:~:text=When%20the%20data%20changes%2C%20either%20due%20to%20an,is%20often%20referred%20to%20as%20unidirectional%20data%20flow.) (source)
 -  [SwiftUI Data Flow](https://matteomanferdini.com/swiftui-data-flow/)
 -  [Swiftui-relationship-to-uikit-appkit](https://wwdcbysundell.com/2019/swiftui-relationship-to-uikit-appkit/)
+-  Xcode cheat sheet https://twitter.com/ishtiz_/status/1716786616457654331
 
 ## TVOS 
 
@@ -591,6 +606,15 @@ Study Plan
 
 Develop a guide for iOS which details out important structured details of iOS development which details most important things to learn like concurrency but also discuss minute non technical details like signing, app Ids,Apples recoomended way, which frameworks use target action pattern, which use singletons, which use delegates ,which use functional programming, protocol programming, event driven or reactive programing(swiftUI, combine, Rxswift), concection between functional and reactive, declarative programming, key value coding and Obeserving. Various values in plist, which functionalities need an associated permission text in plist etc, when to use swift, swiftUI, ObjectiveC, when to use GCD vs Operations vs Threads, where to use value driven programing or reference types, how threads are handled in multi cores, how data gets saved during context switch, importance of ABI stability of swift, how swift, objectivec and C work together in the OS, details about POSIX features, learn from transistor, how SoliD patterns get enforced via protocol oriented programming, how design patterns and different programing patterns work together in swift or Cocoa
 
+
+## Certification course
+
+- Microsoft's Introduction to Quantum Computing on edX : https://www.edx.org/professional-certificate/introduction-to-quantum-computing
+- Google Free digital skills training   https://grow.google/intl/uk/
+- https://www.zdnet.com/article/i-took-this-free-ai-course-for-developers-in-one-weekend-and-highly-recommend-it/
+- https://twitter.com/clarifai/status/1715611422632325575?s=20
+- AWS https://twitter.com/TechWithLucy/status/1716431874661159254?s=20
+- Apple https://developer.apple.com/learn/
 
 Notes
 
