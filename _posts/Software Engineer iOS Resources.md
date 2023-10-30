@@ -171,6 +171,7 @@ https://azamsharp.com/2023/02/28/building-large-scale-apps-swiftui.html
  ## Promising Tech study
 - https://twitter.com/karpathy/status/1715856458842309033?t=111DlUtJ5MMZnu-QqQ9_5g&s=19
 - https://twitter.com/milan_milanovic/status/1716792434829496831?s=20
+- https://aws.amazon.com/government-education/workforce-development/aws-fiber-optic-fusion-splicing/?ps-events.sort-by=item.additionalFields.startDateTime&ps-events.sort-order=asc
 
 ## Security
 - https://twitter.com/MalwareJake/status/1715754563683135806?t=obYzWGVRZyKqepoDwdLsnw&s=19
