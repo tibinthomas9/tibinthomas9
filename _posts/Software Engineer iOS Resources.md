@@ -2,35 +2,10 @@
 
 
 
-# Roadmaps
-
-- https://roadmap.sh/
-
-- https://github.com/KaneEast/iOS-Developer-Roadmap
-
-- https://github.com/viacheslavbilyi/iOS-Roadmap
-
-- https://github.com/canopas/iOS-developer-roadmap-2023
-
-- https://github.com/Cinichka/ios_roadmap
-
-- https://github.com/godrm/mobile-developer-roadmap
-
-- https://github.com/canopas/iOS-developer-roadmap
-
-- https://github.com/M1zz/iOS-developer-roadmap-2022
-
-- https://github.com/BohdanOrlov/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ESSENTIALROADMAP.png
 
 
-- https://stevenpcurtis.medium.com/swift-learning-roadmap-2023-the-ultimate-guide-fa96a28a4f75
 
-- https://devlancer.work/ios-developer-roadmap-skills-you-must-have/
-- https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_PjPem35N-CN_gPTnfveHq5oPT0oQGgMvD0BCxZkF_A6TJsQU7A-5z-m2H2FLe0NsF_uC-pnZX_5GkLBQj1A0lFQov8DL7aLoz_V0mxFkm6OEdO02sqAr2QcFINftwlikcZOopqM9nTCxUlzcnHCdl56Lt5bP9xXIOdfE4OnPo6YtGmlpAro6WHmI/s16000/iOS%20Developer%20RoadMap.png
-
-
-# Pending items to add
-
+### Pending items to add
 
 
 
@@ -98,6 +73,28 @@ https://claude.ai/chat
 - https://xcodebuildsettings.com/#group-native-build-syste
 
 ## Roadmaps
+- https://roadmap.sh/
+
+- https://github.com/KaneEast/iOS-Developer-Roadmap
+
+- https://github.com/viacheslavbilyi/iOS-Roadmap
+
+- https://github.com/canopas/iOS-developer-roadmap-2023
+
+- https://github.com/Cinichka/ios_roadmap
+
+- https://github.com/godrm/mobile-developer-roadmap
+
+- https://github.com/canopas/iOS-developer-roadmap
+
+- https://github.com/M1zz/iOS-developer-roadmap-2022
+
+- https://github.com/BohdanOrlov/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ESSENTIALROADMAP.png
+
+- https://stevenpcurtis.medium.com/swift-learning-roadmap-2023-the-ultimate-guide-fa96a28a4f75
+
+- https://devlancer.work/ios-developer-roadmap-skills-you-must-have/
+- https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_PjPem35N-CN_gPTnfveHq5oPT0oQGgMvD0BCxZkF_A6TJsQU7A-5z-m2H2FLe0NsF_uC-pnZX_5GkLBQj1A0lFQov8DL7aLoz_V0mxFkm6OEdO02sqAr2QcFINftwlikcZOopqM9nTCxUlzcnHCdl56Lt5bP9xXIOdfE4OnPo6YtGmlpAro6WHmI/s16000/iOS%20Developer%20RoadMap.png
 - https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c
 - https://dev.to/shreethaanu/ios-developer-roadmap-2022-3bpi
 - https://github.com/BohdanOrlov/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ESSENTIALROADMAP.png
@@ -127,8 +124,6 @@ Here are some useful resources for learning data structures and algorithms:
 
 -   [Introduction to Data Structures](https://www.studytonight.com/data-structures/introduction-to-data-structures) - Introduction to data structures course.
 -   [Big O Cheat Sheet](https://www.bigocheatsheet.com/) - Cheat sheet for Big O notation.
--   [Design Patterns by Refactoring Guru](https://refactoring.guru/design-patterns/what-is-pattern) - Detailed explanations of design patterns.
--   [Design Patterns - Sourcemaking](https://sourcemaking.com/design_patterns) - Overview of design patterns.
 -   [Visualgo](https://visualgo.net/en) - Visual representations of data structures and algorithms.
 -   https://github.com/ByteByteGoHq/system-design-101
 -   https://dev.to/zenstack/simplicity-is-the-ultimate-sophistication-1cfk
@@ -166,7 +161,7 @@ Here are some useful resources for learning data structures and algorithms:
 
 
 
- # Competitive Programming
+ ## Competitive Programming
 
 ## Interview Preparation
 
@@ -181,8 +176,10 @@ Here are some useful resources for learning data structures and algorithms:
 
 ## Design Patterns
 
--   [Design Patterns by Refactoring Guru](https://refactoring.guru/design-patterns/what-is-pattern)
--   [Design Patterns - Sourcemaking](https://sourcemaking.com/design_patterns)
+
+-  [Design Patterns by Refactoring Guru](https://refactoring.guru/design-patterns/what-is-pattern) - Detailed explanations of design patterns.
+-   [Design Patterns - Sourcemaking](https://sourcemaking.com/design_patterns) - Overview of design patterns
+-   https://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries/2707195#2707195
 
 ## Computer Science Fundamentals
 
