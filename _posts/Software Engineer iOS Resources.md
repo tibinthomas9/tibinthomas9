@@ -24,11 +24,15 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 
 ###  Apple docs
 
-- [Updates](https://developer.apple.com/documentation/updates/)
+- [Updates](https://developer.apple.com/documentation/updates/) - View major documentation updates from WWDC, jump to the latest release notes, and browse ongoing updates from a set of framework releases over tim
 - [App Extension](https://developer.apple.com/app-extensions/)
-- https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
-- https://developer.apple.com/whats-new/
--  https://developer.apple.com/forums/thread/699003
+- [Objective C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
+- [Whats new ](https://developer.apple.com/whats-new/) Learn about the key technologies and exciting capabilities available in the latest SDKs for Apple platforms.
+-  [Planning an App] (https://developer.apple.com/ios/planning/)
+-  [All technologies] (https://developer.apple.com/documentation/technologies)
+-  [MVVM for SwiftUI Thread Discusion](https://developer.apple.com/forums/thread/699003)
+-  [iOS70APIDiffs] (https://developer.apple.com/library/archive/releasenotes/General/iOS70APIDiffs/)
+- [Preparing Your UI to Run in the Background](https://developer.apple.com/documentation/uikit/app_and_environment/scenes/preparing_your_ui_to_run_in_the_background)
 
 
 
@@ -49,12 +53,9 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   https://theswiftdev.com/
 -   https://siddarthkalra.github.io/articles/swift-vs-stdlib-vs-foundation/
 -   https://www.wwdcnotes.com/notes
--   https://developer.apple.com/ios/planning/
--   https://developer.apple.com/documentation/technologies
 -   https://web.archive.org/web/20200529121825/https://developer.apple.com/documentation/
 -   https://www.swiftanytime.com/
 -   https://designcode.io/tutorials
--   https://developer.apple.com/library/archive/releasenotes/General/iOS70APIDiffs/
 -   https://redblink.com/learn-ios-development/
 -   
 
@@ -85,7 +86,6 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [Accessibility Guidelines for iOS](https://a11y-guidelines.orange.com/en/mobile/ios/)
 -   [iOS Switch Control Tutorial](https://www.journaldev.com/22826/ios-uiswitch)
 -   [Architecting SwiftUI Apps with MVC and MVVM](https://matteomanferdini.com/wp-content/uploads/2020/05/Architecting-SwiftUI-apps-with-MVC-and-MVVM.pdf)
--   [The 5 Most Common Misconceptions About SwiftUI](https://matteomanferdini.com/wp-content/uploads/2019/10/The-5-most-common-misconceptions-about-SwiftUI-Matteo-Manferdini.pdf)
 -   https://medium.engineering/evolution-of-the-medium-ios-app-architecture-8b6090f4508e
 -   https://nalexn.github.io/state-management-guide-ios/
 -   https://byby.dev/swiftui-state-management
@@ -156,12 +156,8 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [Swift with Majid](https://swiftwithmajid.com/categories/)
 -   [Swift on Tap](https://swiftontap.com/section)
 -   [Swift 5.1 Cheatsheet by raywenderlich](https://koenig-media.raywenderlich.com/uploads/2020/12/RW-Swift-5.1-Cheatsheet-1.0.pdf)
--   [Swift by Avanderlee](https://www.avanderlee.com/category/swift/)
--   
-
+-   [Swift by Avanderlee](https://www.avanderlee.com/category/swift/)  
 - https://www.advancedswift.com/date-formatter-cheatsheet-formulas-swift/
-### Tutorials and Courses
-
 -   [TutorialsPoint iOS Tutorial](https://www.tutorialspoint.com/ios/)
 -   [iOS From Scratch with Swift](https://code.tutsplus.com/series/ios-from-scratch-with-swift--cms-909)
 -   [UIKit Documentation](https://developer.apple.com/documentation/uikit)
@@ -170,6 +166,11 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [iOS Learning Materials](https://github.com/jVirus/ios-learning-materials)
 -   [iOS Tutorial](https://github.com/Catherine22/iOS-tutorial)
 -   https://intellipaat.com/blog/tutorial/ios-tutorial/ios-technologies/?US
+
+
+### Security
+
+-   [iOS App Security Best Practices](https://quickbirdstudios.com/blog/ios-app-security-best-practices/)
 
 
 ### Testing
@@ -185,7 +186,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [iOS Design Guidelines and Templates](https://learnui.design/blog/ios-design-guidelines-templates.html): This article provides guidelines and templates for designing iOS apps.
 -   [iOS Dev Directory](https://iosdevdirectory.com/): This is a directory of iOS developers and companies.
 -   [Onmyway133 Blog](https://onmyway133.com/): This blog covers various iOS development topics.
--   [SwiftUI Interview Questions and Answers](https://ishtiz.com/swiftui/swiftui-interview-questions-and-answers-part-1): This article provides some common interview questions and answers related to SwiftUI.
+
 -   [Twitter Architecture 2022 vs. 2012]([https://blog.bytebytego.com/p/twitter-architecture-202](https://blog.bytebytego.com/p/twitter-architecture-202)
 
 
@@ -229,9 +230,9 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   https://github.com/NilCoalescing/SwiftUI-Code-Examples
 -   https://trailingclosure.com/blendmode-cheat-sheet/
 -   https://www.archet.app/
+-   [The 5 Most Common Misconceptions About SwiftUI](https://matteomanferdini.com/wp-content/uploads/2019/10/The-5-most-common-misconceptions-about-SwiftUI-Matteo-Manferdini.pdf)
 
-
--  
+  
 
 ## Swiftui integration at big comapnies
 - https://azamsharp.com/2023/02/28/building-large-scale-apps-swiftui.html
@@ -309,17 +310,13 @@ This is a list of resources that can help you prepare for a mobile system design
 -   [Database Answers Data Models](https://web.archive.org/web/20160308080311/http://www.databaseanswers.org/data_models/)
 
  
-## Blogs
-https://www.linkedin.com/in/shantini-vyas/
-
-### iOS Development
+## Blogs iOS Development
+- https://www.linkedin.com/in/shantini-vyas/
 
 -   [Funmia's Gist](https://gist.github.com/funmia)
 -   [David Seek's Blog](https://www.davidseek.com/fb/)
 -   [KVO Guide for Key-Value Observing](https://nalexn.github.io/kvo-guide-for-key-value-observing/)
 -   [State Management Guide for iOS](https://nalexn.github.io/state-management-guide-ios/)
--   [iOS App Security Best Practices](https://quickbirdstudios.com/blog/ios-app-security-best-practices/)
--   [Preparing Your UI to Run in the Background](https://developer.apple.com/documentation/uikit/app_and_environment/scenes/preparing_your_ui_to_run_in_the_background)
 -   [MapKit Tutorial: Getting Started](https://www.raywenderlich.com/7738344-mapkit-tutorial-getting-started)
 -   [How to Make Phone Calls, Send SMS, and Email in Swift](https://en.proft.me/2020/02/14/how-make-phone-call-send-sms-and-email-swift/)
 -   [Custom Progress Bars](https://medium.com/@marina.sauca/custom-progress-bars-dc1c1c111751)
@@ -369,6 +366,7 @@ https://www.linkedin.com/in/shantini-vyas/
 -   [iOS Interview Questions on LinkedIn](https://www.linkedin.com/interview-prep/assessments/urn:li:fsd_assessment:(1,a)/question/urn:li:fsd_assessmentQuestion:(10011,aq11)/)
 -  [SwiftUI Interview Questions And Answers](https://ishtiz.com/swiftui/swiftui-interview-questions-and-answers-part-1)
 -  https://www.testdome.com/tests/ios-swift-online-test/161
+- [SwiftUI Interview Questions and Answers](https://ishtiz.com/swiftui/swiftui-interview-questions-and-answers-part-1): This article provides some common interview questions and answers related to SwiftUI.
 
 Study Plan 
 * https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/startuplinks.md
