@@ -15,7 +15,7 @@
 Here are some useful resources for learning and preparing for iOS and Swift interviews:
 
 - [iOS and Swift Tree Diagram](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/SwiftAndiOS-Tree.text)
-- https://www.avanderlee.com/swift/exc-bad-access-crash/
+
 - https://useyourloaf.com/
 - https://www.fivestars.blog/
 
@@ -112,8 +112,8 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 
 -   [Optimization Tips for Swift by Apple](https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst#advice-use-copy-on-write-semantics-for-large-values)
 -  https://blog.timac.org/2016/1124-testing-if-an-arbitrary-pointer-is-a-valid-objective-c-object/
--  https://blog.timac.org/2016/1124-testing-if-an-arbitrary-pointer-is-a-valid-objective-c-object/
 -  https://www.objc.io/issues/5-ios7/iOS7-hidden-gems-and-workarounds/
+- https://www.avanderlee.com/swift/exc-bad-access-crash/
 -  
 
 
