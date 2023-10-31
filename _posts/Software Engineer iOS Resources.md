@@ -10,29 +10,29 @@
 
 
 
-# iOS and Swift Resources
+## iOS and Swift Resources
 
 Here are some useful resources for learning and preparing for iOS and Swift interviews:
 
 - [iOS and Swift Tree Diagram](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/SwiftAndiOS-Tree.text)
-- [iOS Code Review Checklist](https://gist.github.com/pallavtrivedi03/8f4975a41f5b64d8a6af4fd119949d39)
-- https://developer.apple.com/forums/thread/699003
 - https://www.avanderlee.com/swift/exc-bad-access-crash/
+- https://useyourloaf.com/
+- https://www.fivestars.blog/
+
+### Code Review
+- [iOS Code Review Checklist](https://gist.github.com/pallavtrivedi03/8f4975a41f5b64d8a6af4fd119949d39)
+
+###  Apple docs
+
 - https://developer.apple.com/documentation/updates/
  -https://developer.apple.com/app-extensions/
 - https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
 - https://developer.apple.com/whats-new/
-- https://useyourloaf.com/
-- https://www.fivestars.blog/
+-  https://developer.apple.com/forums/thread/699003
 
 
 
-
-## Tools
-- https://okaxaki.github.io/objc2swift/demo.html
-
-
-## Fundamentals
+### Fundamentals
 
 -   [The Complete Guide to Understanding Swift Optionals](https://matteomanferdini.com/wp-content/uploads/2019/04/The-Complete-Guide-to-Understanding-Swift-Optionals.pdf)
 -   [Swift URLSession Tutorial](https://matteomanferdini.com/swift-urlsession/)
@@ -61,19 +61,19 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 
 
 
-## Swift Programming Language
+### Swift Programming Language
 
 -   [Apple's Official Swift Documentation](https://developer.apple.com/documentation/swift)
 -   [Swift Access Control in iOS](https://medium.com/hash-coding/swift-access-control-ios-dab45a0b79ab): This article explains the access control levels in Swift.
 -   [Static Patterns in Swift: MVVM Tutorial](https://www.toptal.com/swift/static-patterns-swift-mvvm-tutorial): This tutorial covers the Model-View-ViewModel (MVVM) architecture pattern in Swift.
 
-## iOS App Architecture
+### iOS App Architecture
 
 - https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/?US
 - https://www.bestinclassiosapp.com/
 - https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/WhatIsCocoa/WhatIsCocoa.html
 - https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/CocoaApplicationLayer/CocoaApplicationLayer.html
-
+- [iOS Cocoa Layered Architecture](https://cpb-eu-w2.wpmucdn.com/blogs.brighton.ac.uk/dist/c/2637/files/2017/05/5-1cra1rq.jpg)
 - https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/CoreServicesLayer/CoreServicesLayer.html
 
 -   [Architecting SwiftUI apps with MVC and MVVM](https://matteomanferdini.com/wp-content/uploads/2020/05/Architecting-SwiftUI-apps-with-MVC-and-MVVM.pdf): This article compares the Model-View-Controller (MVC) and Model-View-ViewModel (MVVM) architecture patterns for SwiftUI apps.
@@ -90,13 +90,14 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   https://nalexn.github.io/state-management-guide-ios/
 -   https://byby.dev/swiftui-state-management
 
-## Application Lifecycle
+
+### Application Lifecycle
 
 -   [Application Lifecycle in iOS](https://manasaprema04.medium.com/application-life-cycle-in-ios-f7365d8c1636)
 
 
 
-## Learning Paths
+### Learning Paths
 
 -   [Twitter Thread on iOS Learning Resources](https://twitter.com/onmyway133/status/1500863857257975809?s=20&t=eAM-rnE32cuMWGG6P7gikQ)
 -   [Stack Overflow: Where can I find tutorials on Swift?](https://stackoverflow.com/q/62119815/8181347)
@@ -107,7 +108,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 
 
 
-## Optimization and debugging
+### Optimization and debugging
 
 -   [Optimization Tips for Swift by Apple](https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst#advice-use-copy-on-write-semantics-for-large-values)
 -  https://blog.timac.org/2016/1124-testing-if-an-arbitrary-pointer-is-a-valid-objective-c-object/
@@ -116,7 +117,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -  
 
 
-## Design Patterns
+### Design Patterns
 
 -   [Top Swift Design Patterns by Aglowid IT Solutions](https://aglowiditsolutions.com/blog/top-swift-design-patterns/#:~:text=The%20following%20are%20some%20of,Singleton) 
 -  [Cocoa Design Patterns](https://developer.apple.com/documentation/swift/cocoa_design_patterns): This document provides an overview of the design patterns used in Cocoa frameworks.
@@ -125,7 +126,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 
 -   https://twitter.com/milan_milanovic/status/1714955962098884628?t=4Qwaf8FFTR4k18_0MyEYGA&s=19
 -   
-## Concurrency
+### Concurrency
 
 -   [Concurrency in iOS and Swift Guide by Better Programming](https://betterprogramming.pub/concurrency-in-ios-and-swift-guide-50443ce5b0f5#:~:text=Concurrent%20Queues%20executes%20tasks%20one,threads%20from%20the%20thread%20pool.)
 
@@ -136,7 +137,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [Serial DispatchQueue on Twitter](https://twitter.com/onmyway133/status/1501951060696465410/photo/1)
 -   [Concurrent Serial DispatchQueue on Blog](https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/)
 
-## Swift One-Liners
+### Swift One-Liners
 
 -   [9 Swift One-Liners That Will Make You Look Like an Expert by Namit Gupta](https://namitgupta.com/9-swift-one-liners-that-will-make-you-look-like-an-expert)
 
@@ -170,40 +171,15 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [iOS Tutorial](https://github.com/Catherine22/iOS-tutorial)
 -   https://intellipaat.com/blog/tutorial/ios-tutorial/ios-technologies/?US
 
-## Interview Resources
 
--   [Awesome iOS Interview](https://github.com/dashvlas/awesome-ios-interview/blob/master/Resources/English.md)
--   [iOS Interview by DenisLitvin](https://github.com/DenisLitvin/iOS-Interview)
--   [iOS Interview Questions by onthecodepath](https://github.com/onthecodepath/iOS-Interview-Questions)
--   [Swift Interview Questions by acrookston](https://gist.github.com/acrookston/da0652bb6a5e9b11f2e79b7dc04e533b)
--   [iOS Interview by raywenderlich](https://github.com/raywenderlich/ios-interview)
--   https://ios.matelli.org/swift-and-ios-interview-questions/
-
-
-
-## iOS Interview Questions
-
--   [iOS Interview Questions Part 1: Differentiate](https://chetan-aggarwal.medium.com/ios-interview-questions-part-1-differentiate-99e8f574a3f1)
--   [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/launching/)
--   [Intellipaat iOS Interview Questions](https://intellipaat.com/blog/interview-question/ios-interview-questions/)
--   [Swift 5 Features](https://www.spaceotechnologies.com/blog/swift-5-features/)
--   [Hacking with Swift Interview Questions](https://www.hackingwithswift.com/interview-questions)
--   [iOS Interview on Github](https://github.com/DenisLitvin/iOS-Interview)
--   [BrainStation iOS Developer Interview Questions](https://brainstation.io/career-guides/ios-developer-interview-questions)
--   [iOS Interview Questions by Code with Chris](https://codewithchris.com/ios-interview-questions/)
--   [iOS Interview Questions on Github](https://github.com/dmyma/iOS-interview)
--   [iOS Interview Questions on LinkedIn](https://www.linkedin.com/interview-prep/assessments/urn:li:fsd_assessment:(1,a)/question/urn:li:fsd_assessmentQuestion:(10011,aq11)/)
--  [SwiftUI Interview Questions And Answers](https://ishtiz.com/swiftui/swiftui-interview-questions-and-answers-part-1)
--  https://www.testdome.com/tests/ios-swift-online-test/161
-
-## Testing
+### Testing
 
 -   [iOS Unit Testing](https://qualitycoding.org/ios-unit-testing/)
 -   [Unit Testing Best Practices](https://www.avanderlee.com/swift/unit-tests-best-practices/)
 
 
 
-## Miscellaneous
+### Miscellaneous
 
 -   [Handling iOS App States with a State Machine](https://blog.codecentric.de/en/2016/07/handling-ios-app-states-state-machine/): This article explains how to use a state machine to manage app states in iOS.
 -   [iOS Design Guidelines and Templates](https://learnui.design/blog/ios-design-guidelines-templates.html): This article provides guidelines and templates for designing iOS apps.
@@ -264,13 +240,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 - 
 
 
-## TVOS 
 
-- [Mastering the tvOS Focus Engine](https://medium.com/airbnb-engineering/mastering-the-tvos-focus-engine-f8a13b371083)
--  [TVOS Apple](https://developer.apple.com/library/archive/documentation/General/Conceptual/AppleTV_PG/index.html#//apple_ref/doc/uid/TP40015241-CH12-SW1)
--   [TVOS Focus](https://bignerdranch.com/blog/10-tips-for-mastering-the-focus-engine-on-tvos/)
--   [Kodeco TvOS Swiftui](https://www.kodeco.com/19074315-swiftui-on-tvos)
--   https://github.com/sanketfirodiya/tvOS
 
 
 ### Tutorials and Articles
@@ -288,6 +258,14 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [ygit/SwiftUI](https://github.com/ygit/swiftui)
 -   [SwiftUI Animations](https://github.com/Inncoder/SwiftUI-Animations)
 -   [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet)
+
+# TVOS 
+
+- [Mastering the tvOS Focus Engine](https://medium.com/airbnb-engineering/mastering-the-tvos-focus-engine-f8a13b371083)
+-  [TVOS Apple](https://developer.apple.com/library/archive/documentation/General/Conceptual/AppleTV_PG/index.html#//apple_ref/doc/uid/TP40015241-CH12-SW1)
+-   [TVOS Focus](https://bignerdranch.com/blog/10-tips-for-mastering-the-focus-engine-on-tvos/)
+-   [Kodeco TvOS Swiftui](https://www.kodeco.com/19074315-swiftui-on-tvos)
+-   https://github.com/sanketfirodiya/tvOS
 
 
 # Mobile System Design Resources
@@ -359,9 +337,38 @@ https://www.linkedin.com/in/shantini-vyas/
 
 ### Miscellaneous
 
--   [iOS Cocoa Layered Architecture](https://cpb-eu-w2.wpmucdn.com/blogs.brighton.ac.uk/dist/c/2637/files/2017/05/5-1cra1rq.jpg)
- 
- 
+## Tools
+- https://okaxaki.github.io/objc2swift/demo.html
+
+
+
+
+# Interviews
+ ### Interview Resources
+
+-   [Awesome iOS Interview](https://github.com/dashvlas/awesome-ios-interview/blob/master/Resources/English.md)
+-   [iOS Interview by DenisLitvin](https://github.com/DenisLitvin/iOS-Interview)
+-   [iOS Interview Questions by onthecodepath](https://github.com/onthecodepath/iOS-Interview-Questions)
+-   [Swift Interview Questions by acrookston](https://gist.github.com/acrookston/da0652bb6a5e9b11f2e79b7dc04e533b)
+-   [iOS Interview by raywenderlich](https://github.com/raywenderlich/ios-interview)
+-   https://ios.matelli.org/swift-and-ios-interview-questions/
+
+
+
+### iOS Interview Questions
+
+-   [iOS Interview Questions Part 1: Differentiate](https://chetan-aggarwal.medium.com/ios-interview-questions-part-1-differentiate-99e8f574a3f1)
+-   [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/launching/)
+-   [Intellipaat iOS Interview Questions](https://intellipaat.com/blog/interview-question/ios-interview-questions/)
+-   [Swift 5 Features](https://www.spaceotechnologies.com/blog/swift-5-features/)
+-   [Hacking with Swift Interview Questions](https://www.hackingwithswift.com/interview-questions)
+-   [iOS Interview on Github](https://github.com/DenisLitvin/iOS-Interview)
+-   [BrainStation iOS Developer Interview Questions](https://brainstation.io/career-guides/ios-developer-interview-questions)
+-   [iOS Interview Questions by Code with Chris](https://codewithchris.com/ios-interview-questions/)
+-   [iOS Interview Questions on Github](https://github.com/dmyma/iOS-interview)
+-   [iOS Interview Questions on LinkedIn](https://www.linkedin.com/interview-prep/assessments/urn:li:fsd_assessment:(1,a)/question/urn:li:fsd_assessmentQuestion:(10011,aq11)/)
+-  [SwiftUI Interview Questions And Answers](https://ishtiz.com/swiftui/swiftui-interview-questions-and-answers-part-1)
+-  https://www.testdome.com/tests/ios-swift-online-test/161
 
 Study Plan 
 * https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/startuplinks.md
