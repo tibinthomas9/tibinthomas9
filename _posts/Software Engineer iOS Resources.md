@@ -24,8 +24,8 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 
 ###  Apple docs
 
-- https://developer.apple.com/documentation/updates/
- -https://developer.apple.com/app-extensions/
+- [Updates](https://developer.apple.com/documentation/updates/)
+- [App Extension](https://developer.apple.com/app-extensions/)
 - https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
 - https://developer.apple.com/whats-new/
 -  https://developer.apple.com/forums/thread/699003
