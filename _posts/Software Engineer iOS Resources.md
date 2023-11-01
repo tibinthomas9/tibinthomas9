@@ -390,6 +390,7 @@ Develop a guide for iOS which details out important structured details of iOS de
 - AWS https://twitter.com/TechWithLucy/status/1716431874661159254?s=20
 - Apple https://developer.apple.com/learn/
 - https://www.isc2.org/certifications/csslp/csslp-certification-exam-outline
+- https://www.ucalgary.ca/pubs/calendar/grad/current/quantum-computing-quac.html
 
 Notes
 
