@@ -396,6 +396,7 @@ Develop a guide for iOS which details out important structured details of iOS de
 - https://learn.microsoft.com/en-us/training/paths/quantum-computing-fundamentals/
 - https://www.amarchenkova.com/posts/best-quantum-computing-courses-online
 - https://quantumai.google/education
+- https://365datascience.com/career-advice/career-guides/how-to-find-data-science-job-without-degree/
 
 Notes
 
