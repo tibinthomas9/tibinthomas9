@@ -395,6 +395,7 @@ Develop a guide for iOS which details out important structured details of iOS de
 - https://www.classcentral.com/subject/quantum-computing
 - https://learn.microsoft.com/en-us/training/paths/quantum-computing-fundamentals/
 - https://www.amarchenkova.com/posts/best-quantum-computing-courses-online
+- https://quantumai.google/education
 
 Notes
 
