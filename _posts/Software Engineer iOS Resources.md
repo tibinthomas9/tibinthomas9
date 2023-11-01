@@ -389,6 +389,7 @@ Develop a guide for iOS which details out important structured details of iOS de
 - https://twitter.com/clarifai/status/1715611422632325575?s=20
 - AWS https://twitter.com/TechWithLucy/status/1716431874661159254?s=20
 - Apple https://developer.apple.com/learn/
+- https://www.isc2.org/certifications/csslp/csslp-certification-exam-outline
 
 Notes
 
