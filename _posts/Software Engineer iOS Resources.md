@@ -391,6 +391,9 @@ Develop a guide for iOS which details out important structured details of iOS de
 - Apple https://developer.apple.com/learn/
 - https://www.isc2.org/certifications/csslp/csslp-certification-exam-outline
 - https://www.ucalgary.ca/pubs/calendar/grad/current/quantum-computing-quac.html
+- https://qiskit.org/learn/course/introduction-course
+- https://www.classcentral.com/subject/quantum-computing
+- https://learn.microsoft.com/en-us/training/paths/quantum-computing-fundamentals/
 
 Notes
 
