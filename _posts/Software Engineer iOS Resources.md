@@ -9,7 +9,7 @@
 
 
 ### Pending items to add
-
+https://stackoverflow.com/questions/68987329/struct-enum-vs-class-for-network-calls
 
 
 
