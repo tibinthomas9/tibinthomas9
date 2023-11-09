@@ -9,8 +9,12 @@
 
 
 ### Pending items to add
-https://stackoverflow.com/questions/68987329/struct-enum-vs-class-for-network-calls
-https://michaellong.medium.com/the-swift-dependency-injection-series-365ce5038ef7
+- https://stackoverflow.com/questions/68987329/struct-enum-vs-class-for-network-calls
+- https://michaellong.medium.com/the-swift-dependency-injection-series-365ce5038ef7
+
+- https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/
+- https://stackoverflow.com/questions/49376157/swift-dispatchgroup-notify-before-task-finish
+
 
 
 
