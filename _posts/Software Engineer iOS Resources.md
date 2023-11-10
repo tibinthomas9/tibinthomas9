@@ -14,6 +14,7 @@
 
 - https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/
 - https://stackoverflow.com/questions/49376157/swift-dispatchgroup-notify-before-task-finish
+- https://medium.com/expedia-group-tech/lessons-in-swiftui-2a1e1ae03f2a
 
 
 
