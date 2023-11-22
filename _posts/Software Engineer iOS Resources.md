@@ -14,6 +14,7 @@
 - https://nalexn.github.io/state-management-guide-ios/
 - https://nalexn.github.io/swiftui-unit-testing/
 - https://firebase.blog/posts/2023/06/feature-flags-with-real-time-remote-config/
+- https://developer.apple.com/library/archive/documentation/Security/Conceptual/SecureCodingGuide/Articles/BufferOverflows.html
 
 - https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/
 - https://stackoverflow.com/questions/49376157/swift-dispatchgroup-notify-before-task-finish
