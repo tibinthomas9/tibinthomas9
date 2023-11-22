@@ -11,6 +11,7 @@
 ### Pending items to add
 
 - Google mono repo: https://x.com/milan_milanovic/status/1720466194103201860?s=20
+- https://gregbrockman.com/
 
 
 
