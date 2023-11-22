@@ -9,6 +9,7 @@
 
 
 ### Pending items to add
+- https://www.restapitutorial.com/httpstatuscodes.html
 - https://stackoverflow.com/questions/68987329/struct-enum-vs-class-for-network-calls
 - https://michaellong.medium.com/the-swift-dependency-injection-series-365ce5038ef7
 - https://nalexn.github.io/state-management-guide-ios/
