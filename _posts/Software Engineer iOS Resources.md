@@ -9,6 +9,7 @@
 
 
 ### Pending items to add
+- https://betterprogramming.pub/swiftui-the-unsafeobservedobject-quiz-467bb8554262
 - https://fitotoledano.notion.site/Why-are-Constants-in-Swift-powerful-6715a343c51c4309ad2035da1a528c7e
 - https://www.restapitutorial.com/httpstatuscodes.html
 - https://stackoverflow.com/questions/68987329/struct-enum-vs-class-for-network-calls
