@@ -10,6 +10,7 @@
 
 ### Pending items to add
 - https://ln.hixie.ch/
+- https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper/
 - https://betterprogramming.pub/swiftui-the-unsafeobservedobject-quiz-467bb8554262
 - https://fitotoledano.notion.site/Why-are-Constants-in-Swift-powerful-6715a343c51c4309ad2035da1a528c7e
 - https://www.restapitutorial.com/httpstatuscodes.html
