@@ -192,6 +192,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 ### Security
 
 -   [iOS App Security Best Practices](https://quickbirdstudios.com/blog/ios-app-security-best-practices/)
+-   [SSL Pinning Implementation](https://davepoirier.medium.com/ios-protecting-against-tls-bypass-attacks-391729c5dea9)
 
 
 ### Testing
