@@ -264,8 +264,6 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 
 
 
-
-
 ### Tutorials and Articles
 
 -   [Learn SwiftUI Text](https://www.appcoda.com/learnswiftui/swiftui-text.html)
@@ -349,6 +347,7 @@ This is a list of resources that can help you prepare for a mobile system design
 -   [Apple Developer Blog](https://developer.apple.com/swift/blog/)
 -   [Software Engineering with Karthik - YouTube Channel](https://www.youtube.com/watch?v=6hYPUFWJ7QA&t=6s&ab_channel=SoftwareEngineeringwithKarthik)
 -   https://www.pluralsight.com/guides/protocol-oriented-programming-in-swift
+-   https://www.swiftwithvincent.com/
 
 ### Swift Style Guide
 
