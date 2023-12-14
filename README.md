@@ -12,11 +12,11 @@ Here are some ideas to get you started:  -->
 - 🔭  [Personal Website](https://tibinthomas9.github.io/)  
 - [Software Engineer iOS Resources](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/Software%20Engineer%20iOS%20Resources.md)
 - [Awesome websites](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/2022-02-23-Awesome%20Websites.md)
-- 😄 [Stackoverflow](https://stackoverflow.com/users/8181347/tibin-thomas) (top 28%) [![StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/8181347)](https://stackoverflow.com/users/8181347/tibin-thomas)
+- 😄 [Stackoverflow](https://stackoverflow.com/users/8181347/tibin-thomas) (top 26%) [![StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/8181347)](https://stackoverflow.com/users/8181347/tibin-thomas)
 - [Medium blogs](https://medium.com/@tibinmutholy)
 - [Awesome SwiftUI](https://github.com/ygit/swiftui)
 - 🌱 I’m currently learning everything I could
-- 👯 I’m looking to collaborate on open source startup ideas
+- 👯 I’m looking to collaborate on open-source startup ideas
 - 🤔 I’m looking for help with building ideas into product
 - 💬 Ask me about ...
 - 📫 How to reach me: [Twitter](https://twitter.com/tibinT9) �
