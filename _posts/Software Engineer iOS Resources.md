@@ -162,6 +162,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 ### Swift One-Liners
 
 -   [9 Swift One-Liners That Will Make You Look Like an Expert by Namit Gupta](https://namitgupta.com/9-swift-one-liners-that-will-make-you-look-like-an-expert)
+-   https://holyswift.app/discovering-all-swiftui-textfield-keyboard-types/
 
 
 
