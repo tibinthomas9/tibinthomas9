@@ -352,6 +352,7 @@ This is a list of resources that can help you prepare for a mobile system design
 -   [Software Engineering with Karthik - YouTube Channel](https://www.youtube.com/watch?v=6hYPUFWJ7QA&t=6s&ab_channel=SoftwareEngineeringwithKarthik)
 -   https://www.pluralsight.com/guides/protocol-oriented-programming-in-swift
 -   https://www.swiftwithvincent.com/
+-   https://iosfeeds.com/
 
 ### Swift Style Guide
 
