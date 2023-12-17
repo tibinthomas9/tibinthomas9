@@ -9,6 +9,7 @@
 
 
 ### Pending items to add
+- https://azamsharp.teachable.com/
 - https://betterprogramming.pub/swiftui-choosing-an-application-architecture-6ec9289f8e8f
 - https://ln.hixie.ch/
 - https://dev.to/jameson/swiftui-with-swiftdata-through-repository-36d1
