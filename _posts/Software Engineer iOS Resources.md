@@ -9,6 +9,7 @@
 
 
 ### Pending items to add
+- https://betterprogramming.pub/swiftui-choosing-an-application-architecture-6ec9289f8e8f
 - https://ln.hixie.ch/
 - https://dev.to/jameson/swiftui-with-swiftdata-through-repository-36d1
 - https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper/
