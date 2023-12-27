@@ -6,7 +6,7 @@
 
 - https://hiring-search.careerflow.ai/
 
-
+Resume Inspirastion https://jarocki.me/
 
 ### Pending items to add
 - https://azamsharp.teachable.com/
