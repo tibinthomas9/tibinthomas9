@@ -20,6 +20,7 @@
 ## Movie
 - https://movieuniverse.se/movie/
 - https://movie-web.app/
+- https://fmhy.pages.dev/
 
 ## Statistics
 
@@ -91,6 +92,7 @@
 -   [Ellie Al](https://www.ellie.ai/): An email writing assistant that learns from your writing style.
 -   [Riverside.fm](https://riverside.fm/): Record a radio-like podcast and let your listeners call in.
 -   [Simplified Al](https://simplified.co/): An Al writer for blogs, articles, ads, products and websites.
+-   https://app.readwonders.com/ - AI Science Journal
 
 ## Miscellaneous
 
@@ -169,6 +171,7 @@ https://github.com/smenjas/history-notes
 -   [Entropy](https://jamesclear.com/entropy) by James Clear
 -   [Why You're Not Getting Promoted as an Engineer](https://medium.com/@_michaellin/why-youre-not-getting-promoted-as-an-engineer-8d213f5ea0a6) by Michael Lin
 -   https://www.jarynbunney.com/
+-   
 
 ## Philosophy
 
