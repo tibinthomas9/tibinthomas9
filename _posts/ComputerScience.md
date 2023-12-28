@@ -5,13 +5,13 @@
 
 
 
-
-
-
 ### Pending items to add
 
 - Google mono repo: https://x.com/milan_milanovic/status/1720466194103201860?s=20
 - https://gregbrockman.com/
+- https://docs.google.com/forms/d/e/1FAIpQLScHTsbKKQqr_cNhnmQYNQwRw7l5ubGk2W7UeUcw8efsUVAhHQ/viewform
+- https://twitter.com/NickSinghTech/status/1730304097075486824
+- https://twitter.com/darius/status/1719065316691771615?s=20
 
 
 
@@ -82,6 +82,10 @@ https://claude.ai/chat
 
 ## Job search
 - https://jobboardsearch.com/
+- https://www.workatastartup.com/jobs
+- https://airtable.com/appIzntlle0xbYLBU/shr5ILufd9maTA2B3/tblSznIobk3S7bJpE/viwaXyF8bbsztFLFm?blocks=hide
+
+
 ## Roadmaps
 - https://roadmap.sh/
 
@@ -132,6 +136,7 @@ Here are some useful resources for learning data structures and algorithms:
 -   [Fireship: Data Structures & Algorithms](https://www.youtube.com/watch?v=tv-_1er1mWI&ab_channel=Fireship) - Video series on data structures and algorithms.
 -   [Tren Black: Cracking the Coding Interview](https://www.youtube.com/watch?v=oz9cEqFynHU&ab_channel=TrenBlack) - Video series on cracking the coding interview.
 -   [Bottom Up Computer Science](https://www.bottomupcs.com/) - Video series on computer science topics including data structures and algorithms.
+-   http://www.incompleteideas.net/IncIdeas/BitterLesson.html
 
 ## Additional Resources
 
@@ -160,7 +165,12 @@ Here are some useful resources for learning data structures and algorithms:
 -   [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Comprehensive guide to learning computer science.
 -   [Roadmap to Computer Science](https://roadmap.sh/computer-science) - Roadmap for learning computer science.
 -   [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - Collection of fundamental concepts for programmers.
+-   https://sadservers.com/scenarios
+## Fundraising
 
+- https://adamant.notion.site/adamant/Superchargers-for-Future-Fundraising-fec02fcc92384a21a18f6be54dcdbffb
+
+- 
 ## Programming Courses and Tutorials
 
 -   [Computer Science I: Programming and Problem Solving with Java](https://www-users.cse.umn.edu/~barry/book1.2.pdf) - Java programming course.
@@ -211,6 +221,8 @@ Here are some useful resources for learning data structures and algorithms:
 -   [Remote Job Roadmap](https://ghumare64.medium.com/remote-job-roadmap-276c2d61c0cc)
 -   [Every Resource I Used to Get 500k Software Engineering Offers](https://medium.com/@SantalTech/every-resource-i-used-to-get-500k-software-engineering-offers-bae44a0097c7)
 -   [Follow the Coding Patterns Instead](https://levelup.gitconnected.com/dont-just-leetcode-follow-the-coding-patterns-instead-4beb6a197fdb)
+-   https://blog.levelupcoding.co/
+-   https://world.hey.com/dhh/commit-to-competence-in-this-coming-year-feb7d7c5
 
  ## Recursion
 
@@ -219,4 +231,19 @@ Here are some useful resources for learning data structures and algorithms:
 -   [Recursion is not hard: Here is the right way to think](https://99x.io/blog/recursion-is-not-hard-here-is-the-right-way-to-think)
 -   [Recursion Tutorial for Beginners | Byte by Byte](https://www.youtube.com/watch?v=B3U6LExgevE&ab_channel=BytebyByte)
 -   [Coding Interview Concepts | Enjoy Algorithms](https://www.enjoyalgorithms.com/tags/coding-interview-concepts/)
+## Cool
+- https://twitter.com/ConcreteSciFi/status/1735334632252702858?s=20
+- https://tinygrad.org/
 
+## LLM
+- https://mphr.notion.site/Intro-To-Large-Language-Models-LLMs-a89c1750c71545dc88717d01c4552f0d
+## System Design
+- https://codingchallenges.fyi/challenges/challenge-load-tester/
+- https://twitter.com/ashishps_1/status/1740257104718696611?s=20
+- https://www.youtube.com/@ashishps_1
+- https://newsletter.techworld-with-milan.com/
+- https://twitter.com/nicolaballotta/status/1735973822803620326?s=20
+- https://drive.google.com/drive/folders/1ewK3CDYhawKFLrju8cR9YPsDj-XS7q5y
+- https://twitter.com/systemdesign42/status/1735621796106272911?s=20
+- https://twitter.com/alexxubyte/status/1720103447109009410?s=20
+- https://twitter.com/amuldotexe/status/1719635293555564762
