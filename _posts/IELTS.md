@@ -40,107 +40,76 @@
 -   [Forvo](https://forvo.com/) - Database of audio pronunciations of words and phrases in various languages, including English.
 - [English Central](https://www.englishcentral.com/) is a website that offers video-based lessons and practice exercises to help improve your English pronunciation and speaking skills.
 
+Certainly! Here's the organized markdown file with categorized links and explanations:
 
-## IELTS Speaking
-- https://grade-online.com/ielts/blog/linking-words-for-ielts-speaking/
+## IELTS Speaking - Linking Words
 
-- https://www.canamgroup.com/blog/linking-words-for-ielts-speaking-word-list-tips
+- [Grade Online](https://grade-online.com/ielts/blog/linking-words-for-ielts-speaking/)
+- [Canam Group](https://www.canamgroup.com/blog/linking-words-for-ielts-speaking-word-list-tips)
+- [IELTS Liz](https://ieltsliz.com/linking-words-for-ielts-speaking/)
+- [Kanan](https://www.kanan.co/ielts/speaking/linking-words/)
+- [IDP IELTS Canada](https://ielts.idp.com/canada/prepare/article-ielts-speaking-test-part-1)
+- [IELTS Material](https://ieltsmaterial.com/linking-words-for-ielts-speaking/)
 
-- https://ieltsliz.com/linking-words-for-ielts-speaking/
+## IELTS Speaking - Video Resources
 
-- https://www.kanan.co/ielts/speaking/linking-words/
-  - https://ielts.idp.com/canada/prepare/article-ielts-speaking-test-part-1
+- [Truestory680 on YouTube](https://youtube.com/@Truestory680?si=phywaptM0LiPiM0t)
+- [HelloSpokenEnglish](https://www.youtube.com/watch?v=QGfOAVpEHIE&ab_channel=HelloSpokenEnglish)
+- [IELTS Advantage](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3Q2TlBNTjJuRHhBSWc3SjBJd1d3Vi05b0cwd3xBQ3Jtc0tuUjBVV0c2bnpROVIwdWZVNGxSMWd6S3pIcm56aW9Fd24xMDk4ckMtT3NmX2IxSGVEQ3hPaDNtMnhnNFBVT2N2QkxhWUZGam1SRnFWUEg4Smp4QnNXWm9pZTVHRXFDWks4YVdiVUdSZ29VZ18zcWVwaw&q=https%3A%2F%2Fmy.ieltsadvantage.com%2F&v=V8hu68RwZY4)
+- [Free4Talk Room](https://www.free4talk.com/room/A0bc8)
 
-- https://ieltsmaterial.com/linking-words-for-ielts-speaking/
+## Pronunciation Improvement
 
+### General Pronunciation Tips
 
-- https://youtube.com/@Truestory680?si=phywaptM0LiPiM0t
+- [Magoosh TOEFL](https://magoosh.com/toefl/pronunciation-tips-for-indian-speakers-of-english/)
+- [Change Your Accent](https://changeyouraccent.com/blogs/news/how-to-change-an-indian-accent)
+- [Talk to Canada](https://www.talktocanada.com/blog/5-pronunciation-tips-to-get-you-started-on-changing-your-accent-and-increase-your-english-speaking-ability)
+- [FluentU](https://www.fluentu.com/blog/english/learn-american-english-accent/)
+- [IELTS Focus](https://ieltsfocus.com/2018/10/09/band-7-ielts-speaking/)
+- [Quora](https://qr.ae/pvfPa8)
+- [YouTube - IELTSAdvantage](https://www.youtube.com/watch?v=RuvVc3Mdgvg&ab_channel=IELTSAdvantage)
+- [YouTube - EnglishValleyCafe](https://www.youtube.com/watch?v=ehIx4Bs3298&ab_channel=EnglishValleyCafe)
+- [British Council Blog](https://www.britishcouncil.in/blog/seven-simple-ways-improve-your-speaking-skills)
+- [Speak and Improve](https://app.speakandimprove.com/)
+- [Confident Voice Blog](https://www.confidentvoice.com/blog/i-sound-like-a-robot-when-i-speak-english/)
 
-- https://www.youtube.com/watch?v=QGfOAVpEHIE&ab_channel=HelloSpokenEnglish
+### Specific Pronunciation Tools
 
-- https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3Q2TlBNTjJuRHhBSWc3SjBJd1d3Vi05b0cwd3xBQ3Jtc0tuUjBVV0c2bnpROVIwdWZVNGxSMWd6S3pIcm56aW9Fd24xMDk4ckMtT3NmX2IxSGVEQ3hPaDNtMnhnNFBVT2N2QkxhWUZGam1SRnFWUEg4Smp4QnNXWm9pZTVHRXFDWks4YVdiVUdSZ29VZ18zcWVwaw&q=https%3A%2F%2Fmy.ieltsadvantage.com%2F&v=V8hu68RwZY4
+- [Sounds American](https://www.soundsamerican.net/)
+- [Accent Hero](https://accenthero.com/app/lesson/the-role-of-word-stress/ready/english/american)
+- [American English Sounds](https://www.americanenglishsounds.net/)
+- [YouTube - mmmEnglish](https://www.youtube.com/watch?v=Ft17a7tyjMM&ab_channel=mmmEnglish)
+- [SoundsAmerican.net](https://soundsamerican.net/)
+- [TFCS Baruch](https://tfcs.baruch.cuny.edu/)
+- [YouTube - Shadowingb](https://www.youtube.com/@shadowingb)
+- [Talk English](https://www.talkenglish.com/)
 
+### Pronunciation Practice Tools
 
- - https://www.free4talk.com/room/A0bc8
+- [Speechling](https://speechling.com/)
+- [Pronunciation Power](https://pronunciationpower.com/)
+- [Forvo](https://forvo.com/)
+- [English Central](https://www.englishcentral.com/)
 
-- https://ozdic.com/
+### Additional Pronunciation Resources
 
-- - https://click.convertkit-mail.com/38uexqrpl2f6f4k246brh5re7nnn/e0hph7h0030n7li8/aHR0cHM6Ly9hcHAuY29udmVydGtpdC5jb20vZm9ybXMvY29uZmlybT9rZXk9MTU5MDliMjIzNWRkMGQ2ZGM3ZDdiODJlMDViMzI4ZDBhM2VhNTIwMSZzaWQ9NzE5NjcxNjUyMw==
+- [BBC Learning English](https://www.bbc.co.uk/learningenglish/)
+- [Learning Chocolate](https://learningchocolate.com/)
+- [IELTS Advantage - 25 Free Online Language Learning Tools](https://www.ieltsadvantage.com/2015/04/08/25-free-online-language-learning-tools/)
+- [Small Talk2Me](https://app.smalltalk2.me/)
+- [Authentic Journeys Blog](https://blog.authenticjourneys.info/2014/04/stop-robotic-speaking.html)
+- [English Accent Coach](https://www.englishaccentcoach.com/)
+- [Oxford House Barcelona](https://oxfordhousebcn.com/en/5-powerful-tools-to-perfect-your-pronunciation/)
+- [SpeechAce](https://app.speechace.co/placement/course/1/quiz/1/1)
 
--  https://accenthero.com/app/lesson/the-role-of-word-stress/ready/english/american
+### Practice Tools
 
-- https://www.americanenglishsounds.net/
-
-- https://www.youtube.com/watch?v=Ft17a7tyjMM&ab_channel=mmmEnglish
-
-- https://soundsamerican.net/
-
-- https://tfcs.baruch.cuny.edu/
-
-- https://www.youtube.com/@shadowingb
-
-
-- https://www.talkenglish.com/
-
-Pronunciation 
-
-https://magoosh.com/toefl/pronunciation-tips-for-indian-speakers-of-english/
-
-https://changeyouraccent.com/blogs/news/how-to-change-an-indian-accent
-
-https://www.talktocanada.com/blog/5-pronunciation-tips-to-get-you-started-on-changing-your-accent-and-increase-your-english-speaking-ability
-
-https://www.fluentu.com/blog/english/learn-american-english-accent/
-
-https://ieltsfocus.com/2018/10/09/band-7-ielts-speaking/
-
-https://qr.ae/pvfPa8
-
-https://www.youtube.com/watch?v=RuvVc3Mdgvg&ab_channel=IELTSAdvantage
-
-https://www.youtube.com/watch?v=XMRvVcP2dPc&ab_channel=IELTSAdvantage
-
-https://www.youtube.com/watch?v=_9XcEwl2Hhc&ab_channel=IELTSAdvantage
-
-https://ielts-up.com/
-
-https://www.youtube.com/watch?v=ehIx4Bs3298&ab_channel=EnglishValleyCafe
-
-https://www.britishcouncil.in/blog/seven-simple-ways-improve-your-speaking-skills
-
-https://app.speakandimprove.com/
+- [ManyThings.org - Sentence Practice](https://www.manythings.org/sentences/words/)
+- [Tactiq.io - YouTube Transcript Tool](https://tactiq.io/tools/run/youtube_transcript)
 
 
-https://www.confidentvoice.com/blog/i-sound-like-a-robot-when-i-speak-english/
 
-http://a4esl.org/
-
-https://www.youtube.com/watch?v=fRUuWD9vbdE&ab_channel=InterestingThingsESL
-
-https://www.bbc.co.uk/learningenglish/
-
-https://www.bbc.co.uk/learningenglish/english/features/pronunciation/introduction
-
-https://learningchocolate.com/
-
-
-https://www.ieltsadvantage.com/2015/04/08/25-free-online-language-learning-tools/
-
-https://www.ieltsadvantage.com/2015/04/08/25-free-online-language-learning-tools/
-
-
-https://app.smalltalk2.me/
-
-
-https://blog.authenticjourneys.info/2014/04/stop-robotic-speaking.html
-
-
-https://www.englishaccentcoach.com/
-
-https://oxfordhousebcn.com/en/5-powerful-tools-to-perfect-your-pronunciation/
-
-
-https://app.speechace.co/placement/course/1/quiz/1/1
 
 Use this website to practice speech, speak it along while visualising what you are saying
 https://www.manythings.org/sentences/words/
