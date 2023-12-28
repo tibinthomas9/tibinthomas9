@@ -14,6 +14,11 @@
 
 # List of Interesting Websites
 
+
+## Movie
+- https://movieuniverse.se/movie/
+- https://movie-web.app/
+
 ## Statistics
 
 -   [Statista](https://www.statista.com/) - Provides data on a wide range of topics such as business, politics, society, and more.
