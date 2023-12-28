@@ -104,6 +104,9 @@ https://claude.ai/chat
 - https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c
 - https://dev.to/shreethaanu/ios-developer-roadmap-2022-3bpi
 - https://github.com/BohdanOrlov/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ESSENTIALROADMAP.png
+## Python
+
+- https://replit.com/learn/100-days-of-python
 
 ## Links for Learning Data Structures and Algorithms
 
