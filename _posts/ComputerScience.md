@@ -77,7 +77,11 @@ https://claude.ai/chat
 ## Resources for Learning Computer Science and Programming
 - https://github.com/readme/guides/engineering-career-success
 - https://xcodebuildsettings.com/#group-native-build-syste
+- https://aws.cloudprojectbootcamp.com/
 
+
+## Job search
+- https://jobboardsearch.com/
 ## Roadmaps
 - https://roadmap.sh/
 
