@@ -247,3 +247,4 @@ Here are some useful resources for learning data structures and algorithms:
 - https://twitter.com/systemdesign42/status/1735621796106272911?s=20
 - https://twitter.com/alexxubyte/status/1720103447109009410?s=20
 - https://twitter.com/amuldotexe/status/1719635293555564762
+- https://docs.google.com/spreadsheets/d/1zNLbd4ShNbJ0xxLBjVmGY6VKkDjIkRsw3RWRfnakLM8/edit#gid=0
