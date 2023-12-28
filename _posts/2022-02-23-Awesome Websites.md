@@ -152,6 +152,47 @@
 - [English Central](https://www.englishcentral.com/) is a website that offers video-based lessons and practice exercises to help improve your English pronunciation and speaking skills.
 
 
+## IELTS Speaking
+- https://grade-online.com/ielts/blog/linking-words-for-ielts-speaking/
+
+- https://www.canamgroup.com/blog/linking-words-for-ielts-speaking-word-list-tips
+
+- https://ieltsliz.com/linking-words-for-ielts-speaking/
+
+- https://www.kanan.co/ielts/speaking/linking-words/
+
+- https://ielts.idp.com/canada/prepare/article-ielts-speaking-test-part-1
+
+- https://ieltsmaterial.com/linking-words-for-ielts-speaking/
+
+
+- https://youtube.com/@Truestory680?si=phywaptM0LiPiM0t
+
+- https://www.youtube.com/watch?v=QGfOAVpEHIE&ab_channel=HelloSpokenEnglish
+
+- https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3Q2TlBNTjJuRHhBSWc3SjBJd1d3Vi05b0cwd3xBQ3Jtc0tuUjBVV0c2bnpROVIwdWZVNGxSMWd6S3pIcm56aW9Fd24xMDk4ckMtT3NmX2IxSGVEQ3hPaDNtMnhnNFBVT2N2QkxhWUZGam1SRnFWUEg4Smp4QnNXWm9pZTVHRXFDWks4YVdiVUdSZ29VZ18zcWVwaw&q=https%3A%2F%2Fmy.ieltsadvantage.com%2F&v=V8hu68RwZY4
+
+
+ - https://www.free4talk.com/room/A0bc8
+
+- https://ozdic.com/
+
+- https://click.convertkit-mail.com/38uexqrpl2f6f4k246brh5re7nnn/e0hph7h0030n7li8/aHR0cHM6Ly9hcHAuY29udmVydGtpdC5jb20vZm9ybXMvY29uZmlybT9rZXk9MTU5MDliMjIzNWRkMGQ2ZGM3ZDdiODJlMDViMzI4ZDBhM2VhNTIwMSZzaWQ9NzE5NjcxNjUyMw==
+
+-  https://accenthero.com/app/lesson/the-role-of-word-stress/ready/english/american
+
+- https://www.americanenglishsounds.net/
+
+- https://www.youtube.com/watch?v=Ft17a7tyjMM&ab_channel=mmmEnglish
+
+- https://soundsamerican.net/
+
+- https://tfcs.baruch.cuny.edu/
+
+- https://www.youtube.com/@shadowingb
+
+
+- https://www.talkenglish.com/
 
 
 ## History
