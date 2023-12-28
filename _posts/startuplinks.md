@@ -1,4 +1,10 @@
-
+100 days tasks
+* https://replit.com/learn/100-days-of-python
+* https://www.hackingwithswift.com/100/swiftui
+* https://neetcode.io/
+* System Design
+* Spoken English and IELTS
+* https://sadservers.com/scenarios
 
 
 iOS
@@ -26,6 +32,7 @@ DSA
 * https://www.techinterviewhandbook.org/algorithms/array
 * https://www.quastor.org/
 * https://medium.com/@SantalTech/every-resource-i-used-to-get-500k-software-engineering-offers-bae44a0097c7
+* https://blog.levelupcoding.co/
 
 Study Plan
 * https://gist.github.com/tibinthomas9/692a548d48c6f65a81d915fbe1ce7217
