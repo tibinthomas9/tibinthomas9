@@ -1,13 +1,21 @@
 100 days tasks
-* https://replit.com/learn/100-days-of-python
-* https://www.hackingwithswift.com/100/swiftui
+
+* SwiftUI https://www.hackingwithswift.com/100/swiftui
+
+* iOS
+
 * System Design: 
  - https://docs.google.com/spreadsheets/d/1zNLbd4ShNbJ0xxLBjVmGY6VKkDjIkRsw3RWRfnakLM8/edit#gid=0
  -  https://neetcode.io/
  -  https://sadservers.com/scenarios
  -  https://codingchallenges.fyi/challenges/
  -  https://drive.google.com/drive/folders/1ewK3CDYhawKFLrju8cR9YPsDj-XS7q5y
-* Spoken English and IELTS
+
+
+* Spoken English and IELTS: https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/IELTS.md
+
+* * Python https://replit.com/learn/100-days-of-python
+
 
 
 
