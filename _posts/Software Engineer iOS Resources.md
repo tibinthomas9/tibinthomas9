@@ -24,6 +24,7 @@ https://www.createchsol.com/tutorials/
 - https://michaellong.medium.com/the-swift-dependency-injection-series-365ce5038ef7
 - https://nalexn.github.io/state-management-guide-ios/
 - https://nalexn.github.io/swiftui-unit-testing/
+- https://qualitycoding.org/optimize-xcode-for-fast-tests/
 - https://firebase.blog/posts/2023/06/feature-flags-with-real-time-remote-config/
 - https://developer.apple.com/library/archive/documentation/Security/Conceptual/SecureCodingGuide/Articles/BufferOverflows.html
 
@@ -153,6 +154,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 
 -   https://twitter.com/milan_milanovic/status/1714955962098884628?t=4Qwaf8FFTR4k18_0MyEYGA&s=19
 -   
+
 ### Concurrency
 
 -   [Concurrency in iOS and Swift Guide by Better Programming](https://betterprogramming.pub/concurrency-in-ios-and-swift-guide-50443ce5b0f5#:~:text=Concurrent%20Queues%20executes%20tasks%20one,threads%20from%20the%20thread%20pool.)
@@ -220,6 +222,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [Onmyway133 Blog](https://onmyway133.com/): This blog covers various iOS development topics.
 
 -   [Twitter Architecture 2022 vs. 2012]([https://blog.bytebytego.com/p/twitter-architecture-202](https://blog.bytebytego.com/p/twitter-architecture-202)
+-   https://medium.com/the-swift-cooperative/2-minute-tips-the-dark-secrets-of-bools-5cb57662a571
 
 
 ## Objective C
@@ -237,6 +240,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [Infinum Handbook: iOS](https://infinum.com/handbook/ios)
 -   [Programming with Objective-C Documentation](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 -   [Cocoa development concepts by apple](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/Introduction.html)
+-   https://www.swiftystack.com/
 
 ### Interoperability
 
@@ -317,6 +321,7 @@ This is a list of resources that can help you prepare for a mobile system design
 -   [Full Stack Software Design | Khalil Stemmler](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)
 -   [System Design Concepts | Arpit Bhayani](https://arpitbhayani.me/system-design)
 -   [What are some of the most common data structures used in the real world?](https://twitter.com/alexxubyte/status/1646174726698713088?s=20)
+-   https://twitter.com/codecat15/status/1630970641623941120
 
 ## Repositories
 
@@ -359,7 +364,13 @@ This is a list of resources that can help you prepare for a mobile system design
 -   https://www.pluralsight.com/guides/protocol-oriented-programming-in-swift
 -   https://www.swiftwithvincent.com/
 -   https://iosfeeds.com/
-
+-   https://azamsharp.com/2023/11/07/complete-guide-jwt-authentication.html
+-   https://www.hackingwithswift.com/articles/263/build-your-first-app-with-swiftui-and-swiftdata
+-   https://saagarjha.com/blog/2023/12/22/swift-concurrency-waits-for-no-one/
+-   https://michaellong.medium.com/
+-   https://blog.encoded.life/?source=top_nav_blog_home
+- https://stackoverflow.com/questions/33750636/swift-performance-map-and-reduce-vs-for-loops?rq=3
+- 
 ### Swift Style Guide
 
 -   [Ray Wenderlich's Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
@@ -429,6 +440,9 @@ Develop a guide for iOS which details out important structured details of iOS de
 - https://quantumai.google/education
 - https://365datascience.com/career-advice/career-guides/how-to-find-data-science-job-without-degree/
 - https://courses.minnalearn.com/?show=individuals
+- https://grow.google/intl/ALL_ca/certificates/#?modal_active=none
+- https://www.exampro.co/
+- https://www.testdome.com/tests/ios-swift-online-test/161
 
 Notes
 
