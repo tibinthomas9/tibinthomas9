@@ -170,6 +170,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 
 -   [9 Swift One-Liners That Will Make You Look Like an Expert by Namit Gupta](https://namitgupta.com/9-swift-one-liners-that-will-make-you-look-like-an-expert)
 -   https://holyswift.app/discovering-all-swiftui-textfield-keyboard-types/
+-   https://medium.com/codex/swifts-dictionary-grouping-and-how-underrated-it-is-8de68a50c4f7
 
 
 
