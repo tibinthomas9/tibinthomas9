@@ -178,6 +178,11 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 
 -   [iOS Localization Tutorial](https://medium.com/lean-localization/ios-localization-tutorial-938231f9f881)
 -   [What is a Provisioning Profile in iOS?](https://abhimuralidharan.medium.com/what-is-a-provisioning-profile-in-ios-77987a7c54c2)
+-   
+
+## API 
+
+- [set-up-a-google-firestore-database-as-an-api-endpoint](https://javascript.plainenglish.io/set-up-a-google-firestore-database-as-an-api-endpoint-a946f8d824d)
 
 ### Tutorials and Guides
 
