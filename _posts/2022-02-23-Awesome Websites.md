@@ -93,6 +93,8 @@
 -   [Riverside.fm](https://riverside.fm/): Record a radio-like podcast and let your listeners call in.
 -   [Simplified Al](https://simplified.co/): An Al writer for blogs, articles, ads, products and websites.
 -   https://app.readwonders.com/ - AI Science Journal
+-   https://www.whatonearth.ai/
+-    
 
 ## Miscellaneous
 
