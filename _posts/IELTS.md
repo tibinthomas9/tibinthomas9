@@ -10,6 +10,7 @@
 
 ## Writing
 - https://ielts-up.com/writing/ielts-writing-test.html
+- https://ielts-up.com/writing/ielts-linking-words.html
 
 ### Idioms for speaking only
 
