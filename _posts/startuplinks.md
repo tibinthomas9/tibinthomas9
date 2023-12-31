@@ -10,6 +10,7 @@
  -  https://sadservers.com/scenarios
  -  https://codingchallenges.fyi/challenges/
  -  https://drive.google.com/drive/folders/1ewK3CDYhawKFLrju8cR9YPsDj-XS7q5y
+ -  https://leetcode.com/UpvoteThisPls/ for swift solutions
 
 
 * Spoken English and IELTS: https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/IELTS.md
