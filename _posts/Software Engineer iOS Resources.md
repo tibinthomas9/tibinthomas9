@@ -10,7 +10,7 @@ Resume Inspirastion https://jarocki.me/
 
 ### Pending items to add
 - https://swiftrocks.com/
-- 
+- https://developer.apple.com/videos/play/wwdc2022/10059/
 https://www.createchsol.com/tutorials/
 - https://azamsharp.teachable.com/
 - https://betterprogramming.pub/swiftui-choosing-an-application-architecture-6ec9289f8e8f
