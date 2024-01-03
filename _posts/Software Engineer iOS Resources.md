@@ -45,6 +45,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 
 - https://useyourloaf.com/
 - https://www.fivestars.blog/
+- https://www.tutorialspoint.com/swift/index.htm
 
 ### Code Review
 - [iOS Code Review Checklist](https://gist.github.com/pallavtrivedi03/8f4975a41f5b64d8a6af4fd119949d39)
