@@ -1,4 +1,4 @@
-# Computer Science Basics
+### Computer Science Basics
 
 - https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/ComputerScience.md
 
