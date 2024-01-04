@@ -14,6 +14,9 @@
 - https://www.ieltsadvantage.com/2015/03/03/ielts-writing-task-2-essay-structures/
 - https://www.ieltsadvantage.com/2015/04/20/ielts-grammar-mistakes/
 
+  ## Speaking
+  - https://www.ieltsadvantage.com/ielts-speaking/
+
 ### Idioms for speaking only
 
 -   [IELTS Advantage](https://www.ieltsadvantage.com/2015/05/05/idioms-ielts-speaking/) - Idioms and phrases for IELTS speaking.
