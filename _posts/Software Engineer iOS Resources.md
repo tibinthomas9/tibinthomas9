@@ -81,14 +81,12 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   https://releases.llvm.org/12.0.0/tools/clang/docs/
 -   https://indiegoodies.com/awesome-ios
 -   https://theswiftdev.com/
--   https://siddarthkalra.github.io/articles/swift-vs-stdlib-vs-foundation/
 -   https://www.wwdcnotes.com/notes
-
 -   https://www.swiftanytime.com/
 -   https://designcode.io/tutorials
 -   https://redblink.com/learn-ios-development/
 -   [differences between Swift, the standard library and Foundation](https://siddarthkalra.github.io/articles/swift-vs-stdlib-vs-foundation/)
--   
+    
 
 
 
