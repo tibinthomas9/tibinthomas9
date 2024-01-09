@@ -10,6 +10,7 @@
 
 ## Writing
 - https://ieltsliz.com/ielts-letter-writing-essential-tips/  Task1
+- https://www.ieltsadvantage.com/2015/06/07/ielts-letter-writing-tips/
 - https://ielts-up.com/writing/ielts-writing-test.html
 - https://ielts-up.com/writing/ielts-linking-words.html
 - https://www.ieltsadvantage.com/2015/03/03/ielts-writing-task-2-essay-structures/ Task2
