@@ -87,6 +87,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   https://www.swiftanytime.com/
 -   https://designcode.io/tutorials
 -   https://redblink.com/learn-ios-development/
+-   https://siddarthkalra.github.io/articles/swift-vs-stdlib-vs-foundation/#:~:text=Foundation%20is%20a%20separate%20framework,applications%20require%20to%20be%20successful
 -   
 
 
