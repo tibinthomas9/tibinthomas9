@@ -71,7 +71,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 
 -   [The Complete Guide to Understanding Swift Optionals](https://matteomanferdini.com/wp-content/uploads/2019/04/The-Complete-Guide-to-Understanding-Swift-Optionals.pdf)
 -   [Swift URLSession Tutorial](https://matteomanferdini.com/swift-urlsession/)
--   [Debugging Crashes in iOS](https://riptutorial.com/ios/topic/4745/debugging-crashes)
+
 -   SOLID
 - -  [SOLID iOS](https://www.kodeco.com/21503974-solid-principles-for-ios-apps)
 - -  [SOLID iOS](https://www.kodeco.com/21503974-solid-principles-for-ios-apps](https://maddevs.io/blog/solid-principles-in-ios-development/)
@@ -144,6 +144,8 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -  https://blog.timac.org/2016/1124-testing-if-an-arbitrary-pointer-is-a-valid-objective-c-object/
 -  https://www.objc.io/issues/5-ios7/iOS7-hidden-gems-and-workarounds/
 - https://www.avanderlee.com/swift/exc-bad-access-crash/
+- -   [Debugging Crashes in iOS](https://riptutorial.com/ios/topic/4745/debugging-crashes)
+-   https://www.avanderlee.com/swift/thread-sanitizer-data-races/
 -  
 
 
