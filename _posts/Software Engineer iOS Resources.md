@@ -63,6 +63,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -  [iOS70APIDiffs] (https://developer.apple.com/library/archive/releasenotes/General/iOS70APIDiffs/)
 - [Preparing Your UI to Run in the Background](https://developer.apple.com/documentation/uikit/app_and_environment/scenes/preparing_your_ui_to_run_in_the_background)
 - https://web.archive.org/web/20200529121825/https://developer.apple.com/documentation/
+- https://docs.swift.org/swift-book/documentation/the-swift-programming-language
 
 
 
