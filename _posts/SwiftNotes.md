@@ -2,7 +2,7 @@ Basics
 
 * Types
   
-  Fundamental: Int, Double, Float, String, Character
+  Fundamental: Bool, Int, Double, Float, String, Character
   
   Tuples
   
@@ -15,4 +15,10 @@ Basics
   Declaring Types
    Constant let
    Variable car
+
+  * To Learn
+ 
+    Swift runtime environment
+     runtime environment  vs VM
+    Buffer overflow
 
