@@ -65,8 +65,14 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 - https://web.archive.org/web/20200529121825/https://developer.apple.com/documentation/
 - https://docs.swift.org/swift-book/documentation/the-swift-programming-language [swift language documentation]
 - https://developer.apple.com/documentation/swift/ [swift standard library documendation]
-- https://developer.apple.com/documentation/foundation [swift foundation documentation]
+- https://developer.apple.com/documentation/foundation [ios(swift) foundation documentation]
 - https://www.swift.org/about/ [swift language overview]
+- https://developer.apple.com/documentation/corefoundation [advanced: swift corefoundation documentation]
+- https://developer.apple.com/documentation/objectivec
+- https://developer.apple.com/documentation/uikit
+- https://developer.apple.com/documentation/SwiftUI
+- https://developer.apple.com/documentation/Combine
+- - https://developer.apple.com/documentation/technologies?tags=App%20Services
 
 
 
