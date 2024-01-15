@@ -9,6 +9,7 @@
 Resume Inspirastion https://jarocki.me/
 
 ### Pending items to add
+- https://github.com/BohdanOrlov/architecture-checklist
 - https://byby.dev/ios
 - https://swiftrocks.com/
 - https://developer.apple.com/videos/play/wwdc2022/10059/
