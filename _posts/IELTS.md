@@ -124,12 +124,18 @@ Certainly! Here's the organized markdown file with categorized links and explana
 - https://ielts.idp.com/canada/prepare/article-free-practice-tests
 - https://takeielts.britishcouncil.org/take-ielts/prepare/free-ielts-english-practice-tests
 - https://ielts.org/take-a-test/preparation-resources/sample-test-questions
+- https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test#IELTSOnComputerPracticeExperience
 
 ### Practice Tools
 
 - [ManyThings.org - Sentence Practice](https://www.manythings.org/sentences/words/)
 - [Tactiq.io - YouTube Transcript Tool](https://tactiq.io/tools/run/youtube_transcript)
 - Use chatgpt voice to talk and communicate (best method, as you could ask for feedback)
+
+
+# Test day advice
+
+- https://ieltsliz.com/ielts-exam-tips-on-the-day/
 
 
 
