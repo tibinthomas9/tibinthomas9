@@ -118,10 +118,18 @@ Certainly! Here's the organized markdown file with categorized links and explana
 - [Oxford House Barcelona](https://oxfordhousebcn.com/en/5-powerful-tools-to-perfect-your-pronunciation/)
 - [SpeechAce](https://app.speechace.co/placement/course/1/quiz/1/1)
 
+
+## Practice Tests
+- https://ielts.idp.com/prepare/ielts-test-preparation-practice-tests-material
+- https://ielts.idp.com/canada/prepare/article-free-practice-tests
+- https://takeielts.britishcouncil.org/take-ielts/prepare/free-ielts-english-practice-tests
+- https://ielts.org/take-a-test/preparation-resources/sample-test-questions
+
 ### Practice Tools
 
 - [ManyThings.org - Sentence Practice](https://www.manythings.org/sentences/words/)
 - [Tactiq.io - YouTube Transcript Tool](https://tactiq.io/tools/run/youtube_transcript)
+- Use chatgpt voice to talk and communicate (best method, as you could ask for feedback)
 
 
 
