@@ -145,6 +145,7 @@ Here are some useful resources for learning data structures and algorithms:
 -   [Visualgo](https://visualgo.net/en) - Visual representations of data structures and algorithms.
 -   https://github.com/ByteByteGoHq/system-design-101
 -   https://dev.to/zenstack/simplicity-is-the-ultimate-sophistication-1cfk
+-   https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader
 
 
 
