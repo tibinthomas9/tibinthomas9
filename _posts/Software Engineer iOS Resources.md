@@ -5,6 +5,7 @@
 ### Hiring Search
 
 - https://hiring-search.careerflow.ai/
+- https://milena-lemancq.medium.com/how-to-write-a-successful-cv-including-free-template-4f25c06a8815
 
 Resume Inspirastion https://jarocki.me/
 
