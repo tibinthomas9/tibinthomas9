@@ -10,6 +10,8 @@
 Resume Inspirastion https://jarocki.me/
 
 ### Pending items to add
+https://exercism.org/tracks/swift/exercises/hello-world/edit
+
 https://azamsharp.teachable.com/p/swiftui-cookbook-over-100-recipes-for-building-ios-apps1
 - https://github.com/BohdanOrlov/architecture-checklist
 - https://byby.dev/ios
