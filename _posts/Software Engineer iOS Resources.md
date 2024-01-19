@@ -10,6 +10,9 @@
 Resume Inspirastion https://jarocki.me/
 
 ### Pending items to add
+
+https://swiftsenpai.com/testing/implemented-http-request-helper-without-server/
+
 https://exercism.org/tracks/swift/exercises/hello-world/edit
 
 https://azamsharp.teachable.com/p/swiftui-cookbook-over-100-recipes-for-building-ios-apps1
