@@ -16,6 +16,8 @@ https://swiftsenpai.com/testing/implemented-http-request-helper-without-server/
 https://exercism.org/tracks/swift/exercises/hello-world/edit
 
 https://azamsharp.teachable.com/p/swiftui-cookbook-over-100-recipes-for-building-ios-apps1
+
+- https://gist.github.com/greencoppercompany/9a17404cd3b8abe77b6d483b16774d7b
 - https://github.com/BohdanOrlov/architecture-checklist
 - https://byby.dev/ios
 - https://swiftrocks.com/
