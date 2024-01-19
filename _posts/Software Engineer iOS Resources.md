@@ -83,7 +83,9 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 - https://developer.apple.com/documentation/uikit
 - https://developer.apple.com/documentation/SwiftUI
 - https://developer.apple.com/documentation/Combine
-- - https://developer.apple.com/documentation/technologies?tags=App%20Services
+- https://developer.apple.com/documentation/technologies?tags=App%20Services
+  - https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/Introduction/Introduction.html#//apple_ref/doc/uid/TP40002974 (old cocoa to understand objc)
+  - https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html#//apple_ref/doc/uid/10000011-SW1 (old cocoa mem management to understand objc)
 
 
 
