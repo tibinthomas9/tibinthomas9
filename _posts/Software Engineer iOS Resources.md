@@ -169,7 +169,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 - https://www.avanderlee.com/swift/exc-bad-access-crash/
 - -   [Debugging Crashes in iOS](https://riptutorial.com/ios/topic/4745/debugging-crashes)
 -   https://www.avanderlee.com/swift/thread-sanitizer-data-races/
--  
+-  https://ioscodereview.com/
 
 
 ### Design Patterns
