@@ -97,6 +97,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   SOLID
 - -  [SOLID iOS](https://www.kodeco.com/21503974-solid-principles-for-ios-apps)
 - -  [SOLID iOS](https://www.kodeco.com/21503974-solid-principles-for-ios-apps](https://maddevs.io/blog/solid-principles-in-ios-development/)
+  -  https://sabapathy7.medium.com/solid-principles-a-swift-approach-to-robust-software-development-51baa9194d00
 - - https://codeburst.io/solid-design-principle-using-swift-fa67443672b8
 - - https://betterprogramming.pub/swift-s-o-l-i-d-21203ba3a226
 - -  https://medium.com/@nishant.kumbhare4/solid-principles-in-swift-73b505d3c63f
