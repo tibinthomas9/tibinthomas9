@@ -7,13 +7,14 @@
 - https://hiring-search.careerflow.ai/
 - https://milena-lemancq.medium.com/how-to-write-a-successful-cv-including-free-template-4f25c06a8815
 
-Resume Inspirastion https://jarocki.me/
+Resume Inspiration https://jarocki.me/
 
 ### Pending items to add
 
 https://swiftsenpai.com/testing/implemented-http-request-helper-without-server/
 
 https://exercism.org/tracks/swift/exercises/hello-world/edit
+https://newsletter.systemdesign.one/
 
 https://azamsharp.teachable.com/p/swiftui-cookbook-over-100-recipes-for-building-ios-apps1
 
