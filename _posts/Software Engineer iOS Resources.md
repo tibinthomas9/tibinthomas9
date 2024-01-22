@@ -12,6 +12,8 @@ Resume Inspiration https://jarocki.me/
 
 ### Pending items to add
 
+https://github.com/futurice/ios-good-practices
+
 https://swiftsenpai.com/testing/implemented-http-request-helper-without-server/
 
 https://exercism.org/tracks/swift/exercises/hello-world/edit
