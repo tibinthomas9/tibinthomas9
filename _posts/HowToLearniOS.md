@@ -77,12 +77,24 @@
 
 
 
-# Read guides from app
+# Read guides from apple
 
 ##  Visualize all the components in iOS via HIG
   [https://developer.apple.com/design/resources/#ios-apps](https://developer.apple.com/design/human-interface-guidelines/)https://developer.apple.com/design/human-interface-guidelines/
 
 [Planning an app](https://developer.apple.com/ios/planning/)https://developer.apple.com/ios/planning/
+
+## Follow swift evolution
+
+- https://www.swift.org/swift-evolution/
+
+## Follow wwdc 
+
+https://developer.apple.com/videos/all-videos/
+
+## Use apple developer app
+ https://apps.apple.com/us/app/apple-developer/id640199958 
+
 
 
 
