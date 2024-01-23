@@ -31,6 +31,8 @@
 
 ## Persistence
 
+## Internationalize and localize your app
+
 ## Security and Safety
 
 ## Error Handling
@@ -60,6 +62,8 @@
   
 ### Archiving and publishing an app
 
+## UI Design basics using HIG 
+  https://developer.apple.com/design/human-interface-guidelines/designing-for-ios
 
 ## CI/CD
 
