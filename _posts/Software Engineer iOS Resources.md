@@ -12,7 +12,6 @@ Resume Inspiration https://jarocki.me/
 
 ### Pending items to add
 
-https://github.com/futurice/ios-good-practices
 
 https://swiftsenpai.com/testing/implemented-http-request-helper-without-server/
 
@@ -63,6 +62,8 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 - https://www.tutorialspoint.com/swift/index.htm
 
 ### Code Review
+- https://github.com/futurice/ios-good-practices
+
 - [iOS Code Review Checklist](https://gist.github.com/pallavtrivedi03/8f4975a41f5b64d8a6af4fd119949d39)
 
 ###  Apple docs
