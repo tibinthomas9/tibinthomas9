@@ -152,6 +152,8 @@ Here are some useful resources for learning data structures and algorithms:
 
 ## Programming and Computer Science Fundamentals
 
+- https://www.tonymarston.co.uk/php-mysql/abstraction.txt
+
 ## Interview Questions and Technical Interview Guides
 
 -   [Interviews](https://github.com/kdn251/interviews) - Collection of interview questions and resources.
