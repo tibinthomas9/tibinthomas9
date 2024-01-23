@@ -21,7 +21,6 @@ https://newsletter.systemdesign.one/
 https://azamsharp.teachable.com/p/swiftui-cookbook-over-100-recipes-for-building-ios-apps1
 
 - https://gist.github.com/greencoppercompany/9a17404cd3b8abe77b6d483b16774d7b
-- https://github.com/BohdanOrlov/architecture-checklist
 - https://byby.dev/ios
 - https://swiftrocks.com/
 - https://developer.apple.com/videos/play/wwdc2022/10059/
@@ -65,6 +64,8 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 - https://github.com/futurice/ios-good-practices
 
 - [iOS Code Review Checklist](https://gist.github.com/pallavtrivedi03/8f4975a41f5b64d8a6af4fd119949d39)
+
+- https://github.com/BohdanOrlov/architecture-checklist
 
 ###  Apple docs
 
