@@ -62,8 +62,6 @@
   
 ### Archiving and publishing an app
 
-## UI Design basics using HIG 
-  https://developer.apple.com/design/human-interface-guidelines/designing-for-ios
 
 ## CI/CD
 
@@ -76,8 +74,8 @@
 
 # Learn System Frameworks
 
-# Visualize all th components in iOS via design resources by apple
-  https://developer.apple.com/design/resources/#ios-apps
+# Visualize all the components in iOS via HIG
+  [https://developer.apple.com/design/resources/#ios-apps](https://developer.apple.com/design/human-interface-guidelines/)https://developer.apple.com/design/human-interface-guidelines/
 
 
 
