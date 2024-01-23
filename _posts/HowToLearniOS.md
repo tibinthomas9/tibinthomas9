@@ -74,8 +74,15 @@
 
 # Learn System Frameworks
 
-# Visualize all the components in iOS via HIG
+
+
+
+# Read guides from app
+
+##  Visualize all the components in iOS via HIG
   [https://developer.apple.com/design/resources/#ios-apps](https://developer.apple.com/design/human-interface-guidelines/)https://developer.apple.com/design/human-interface-guidelines/
+
+[Planning an app](https://developer.apple.com/ios/planning/)https://developer.apple.com/ios/planning/
 
 
 
