@@ -76,5 +76,8 @@
 
 # Learn System Frameworks
 
+# Visualize all th components in iOS via design resources by apple
+  https://developer.apple.com/design/resources/#ios-apps
+
 
 
