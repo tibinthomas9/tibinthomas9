@@ -33,11 +33,16 @@
 
 ## Security and Safety
 
+## Error Handling
+
 ## Design Patterns
 
 ## Architecture Patterns
 
+
+
 ## Debugging
+
 
 ## Testing
 
