@@ -6,7 +6,7 @@
 <!-- **tibinthomas9/tibinthomas9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:  -->
 
-"" - [My LinkedIn](https://www.linkedin.com/in/tibinthomas9/)
+## - [My LinkedIn](https://www.linkedin.com/in/tibinthomas9/)
 
 
 
