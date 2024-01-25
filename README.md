@@ -6,9 +6,10 @@
 <!-- **tibinthomas9/tibinthomas9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:  -->
 
+"" - [My LinkedIn](https://www.linkedin.com/in/tibinthomas9/)
 
 
-- [My LinkedIn](https://www.linkedin.com/in/tibinthomas9/)
+
 - 😄 [Stackoverflow](https://stackoverflow.com/users/8181347/tibin-thomas) (top 26%) [![StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/8181347)](https://stackoverflow.com/users/8181347/tibin-thomas)
 - 🔭  [Personal Website](https://tibinthomas9.github.io/)  
 - [Software Engineer iOS Resources](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/Software%20Engineer%20iOS%20Resources.md)
