@@ -245,6 +245,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   https://karol-mazurek95.medium.com/snake-apple-ff87a399ecc4
 -   https://developer.apple.com/documentation/devicecheck/validating-apps-that-connect-to-your-server
 -   https://blog.thomasdurand.fr/story/2023-12-14-dont-ship-api-keys/
+-   https://www.linkedin.com/posts/dave-poirier-a9b25a9_other-than-performance-why-should-you-mark-activity-7149554358722981888-O91I/
 
 
 ### Testing
