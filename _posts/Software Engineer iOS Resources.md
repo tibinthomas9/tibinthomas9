@@ -307,6 +307,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   https://trailingclosure.com/blendmode-cheat-sheet/
 -   https://www.archet.app/
 -   [The 5 Most Common Misconceptions About SwiftUI](https://matteomanferdini.com/wp-content/uploads/2019/10/The-5-most-common-misconceptions-about-SwiftUI-Matteo-Manferdini.pdf)
+-   https://apps.apple.com/us/app/a-companion-for-swiftui/id1485436674?mt=12
 
   
 
