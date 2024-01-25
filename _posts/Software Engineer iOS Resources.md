@@ -10,6 +10,7 @@
 - https://www.jobscan.co/
 - https://resumegenerator.io/
 - https://docs.google.com/document/d/1QcZgLCcauW2k1cIC9JcGQFAIfrszyIE2/edit
+- https://www.reddit.com/r/resumes/comments/128xo1c/troubleshooting_your_job_search_when_its_not/
 
 Resume Inspiration https://jarocki.me/
 
