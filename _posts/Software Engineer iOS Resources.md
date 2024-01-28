@@ -494,6 +494,13 @@ Develop a guide for iOS which details out important structured details of iOS de
 
 Notes
 
+If you're an iOS engineer looking to prep, save your $75 and do the following instead:
+
+- Read and code along with iOS-Unit-Testing-Example by Jon Reid
+- Watch and absorb the content by Essential Developer Academy by Caio & Mike on their Youtube channel. Their free content is fantastic.
+- For system design, you can't go wrong with the Mobile System Design repo. I'll add a link in the comments.
+- Design shit. Build shit and ask people to review your shit. Hit me up and I'll check it out. No, really. Go look for a free API, pull data down, and display it. Do it in UIKit. Do it in SwiftUI. Build an app that uses websockets. Build an app that uses pagination. Build an app that supports offline shit. Build an app that uses MVVM. Build an app that uses VIPER. Build an app that uses the stack that your target company uses. BUILD SOME DAMN APPS.
+
 
 # 1
 Using small static libraries instead of a single module can offer several benefits in iOS app development, especially for larger projects:
