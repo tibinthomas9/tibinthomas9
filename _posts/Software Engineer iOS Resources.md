@@ -17,7 +17,7 @@ Resume Inspiration https://jarocki.me/
 
 ### Pending items to add
 
-
+https://getstream.io/blog/mvvm-state-management/
 https://swiftsenpai.com/testing/implemented-http-request-helper-without-server/
 
 https://exercism.org/tracks/swift/exercises/hello-world/edit
