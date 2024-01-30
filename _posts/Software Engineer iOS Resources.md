@@ -207,6 +207,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [Concurrent Serial DispatchQueue](https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/)
 -   [Serial DispatchQueue on Twitter](https://twitter.com/onmyway133/status/1501951060696465410/photo/1)
 -   [Concurrent Serial DispatchQueue on Blog](https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/)
+-   https://www.avanderlee.com/swift/async-await/
 
 ### Swift One-Liners
 
