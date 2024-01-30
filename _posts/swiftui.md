@@ -29,6 +29,7 @@
   ## SwiftUI Quick implementations
 - https://designcode.io/tutorials
 - https://www.swiftjectivec.com/snips
+- https://trailingclosure.com/
 
 ## Swiftui integration at big comapnies
 - https://azamsharp.com/2023/02/28/building-large-scale-apps-swiftui.html
