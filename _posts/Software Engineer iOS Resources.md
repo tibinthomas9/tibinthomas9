@@ -12,13 +12,14 @@
 - https://docs.google.com/document/d/1QcZgLCcauW2k1cIC9JcGQFAIfrszyIE2/edit
 - https://www.reddit.com/r/resumes/comments/128xo1c/troubleshooting_your_job_search_when_its_not/
 - https://www.tealhq.com/resume-example/ios-developer
+- 
 
 Resume Inspiration https://jarocki.me/
 
 ### Pending items to add
 
 
-
+https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/
 https://shape.dk/news-and-knowledge/leveraging-apples-new-swift-openapi-generator
 https://getstream.io/blog/mvvm-state-management/
 https://multi.app/blog/is-swift-combine-dead
@@ -443,6 +444,7 @@ Develop a guide for iOS which details out important structured details of iOS de
 - https://www.exampro.co/
 - https://www.testdome.com/tests/ios-swift-online-test/161
 - https://ocw.mit.edu/
+- https://twitter.com/clarifai/status/1715611422632325575?s=20
 
 Notes
 
