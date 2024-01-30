@@ -18,7 +18,6 @@ Resume Inspiration https://jarocki.me/
 ### Pending items to add
 
 https://shape.dk/news-and-knowledge/leveraging-apples-new-swift-openapi-generator
-https://www.swiftjectivec.com/snips
 https://getstream.io/blog/mvvm-state-management/
 https://multi.app/blog/is-swift-combine-dead
 https://swiftsenpai.com/testing/implemented-http-request-helper-without-server/
@@ -317,7 +316,9 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [The 5 Most Common Misconceptions About SwiftUI](https://matteomanferdini.com/wp-content/uploads/2019/10/The-5-most-common-misconceptions-about-SwiftUI-Matteo-Manferdini.pdf)
 -   https://apps.apple.com/us/app/a-companion-for-swiftui/id1485436674?mt=12
 
-  
+  ## SwiftUI Quick implementations
+- https://designcode.io/tutorials
+- https://www.swiftjectivec.com/snips
 
 ## Swiftui integration at big comapnies
 - https://azamsharp.com/2023/02/28/building-large-scale-apps-swiftui.html
