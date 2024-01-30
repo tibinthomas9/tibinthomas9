@@ -17,6 +17,8 @@ Resume Inspiration https://jarocki.me/
 
 ### Pending items to add
 
+https://shape.dk/news-and-knowledge/leveraging-apples-new-swift-openapi-generator
+
 https://getstream.io/blog/mvvm-state-management/
 https://multi.app/blog/is-swift-combine-dead
 https://swiftsenpai.com/testing/implemented-http-request-helper-without-server/
