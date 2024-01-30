@@ -17,6 +17,8 @@ Resume Inspiration https://jarocki.me/
 
 ### Pending items to add
 
+
+
 https://shape.dk/news-and-knowledge/leveraging-apples-new-swift-openapi-generator
 https://getstream.io/blog/mvvm-state-management/
 https://multi.app/blog/is-swift-combine-dead
@@ -363,6 +365,7 @@ This is a list of resources that can help you prepare for a mobile system design
 -   https://blog.encoded.life/?source=top_nav_blog_home
 - https://stackoverflow.com/questions/33750636/swift-performance-map-and-reduce-vs-for-loops?rq=3
 - https://jacobbartlett.substack.com/
+- https://tanaschita.com/
 - 
 ### Swift Style Guide
 
