@@ -207,6 +207,7 @@ Here are some useful resources for learning data structures and algorithms:
 -  [Design Patterns by Refactoring Guru](https://refactoring.guru/design-patterns/what-is-pattern) - Detailed explanations of design patterns.
 -   [Design Patterns - Sourcemaking](https://sourcemaking.com/design_patterns) - Overview of design patterns
 -   https://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries/2707195#2707195
+-   https://deviq.com/
 
 ## Computer Science Fundamentals
 
