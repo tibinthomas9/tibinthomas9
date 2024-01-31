@@ -13,6 +13,8 @@
 - https://twitter.com/NickSinghTech/status/1730304097075486824
 - https://twitter.com/darius/status/1719065316691771615?s=20
 - https://medium.com/towards-data-science/how-i-won-singapores-gpt-4-prompt-engineering-competition-34c195a93d41
+- https://medium.com/@techworldwithmilan/how-to-select-a-design-pattern-493610a58016
+- https://www.fadel.io/blog/posts/30-tips-to-make-you-a-better-ios-developer
 
 
 
