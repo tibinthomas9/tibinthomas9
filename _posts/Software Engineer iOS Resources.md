@@ -445,6 +445,7 @@ Develop a guide for iOS which details out important structured details of iOS de
 - https://www.testdome.com/tests/ios-swift-online-test/161
 - https://ocw.mit.edu/
 - https://twitter.com/clarifai/status/1715611422632325575?s=20
+- https://www.cloudskillsboost.google/paths/118/course_templates/536
 
 Notes
 
