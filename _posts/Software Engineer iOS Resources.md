@@ -368,6 +368,7 @@ This is a list of resources that can help you prepare for a mobile system design
 - https://stackoverflow.com/questions/33750636/swift-performance-map-and-reduce-vs-for-loops?rq=3
 - https://jacobbartlett.substack.com/
 - https://tanaschita.com/
+- https://christianselig.com/2024/02/introducing-juno/
 - 
 ### Swift Style Guide
 
