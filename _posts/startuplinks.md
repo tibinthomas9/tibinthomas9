@@ -12,6 +12,7 @@
  -  https://drive.google.com/drive/folders/1ewK3CDYhawKFLrju8cR9YPsDj-XS7q5y
  -  https://leetcode.com/UpvoteThisPls/ for swift solutions
  -  https://deviq.com/
+ -  https://www.geeksforgeeks.org/2048-game-in-c/
 
 
 * Spoken English and IELTS: https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/IELTS.md
