@@ -128,6 +128,7 @@ https://github.com/smenjas/history-notes
 -   https://www.jarynbunney.com/
 -   https://stephango.com/writing
 -   https://80000hours.org/advanced-series/
+-   https://www.rsrch.space/
 -   
 
 ## Philosophy
