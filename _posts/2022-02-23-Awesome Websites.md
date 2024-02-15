@@ -129,6 +129,7 @@ https://github.com/smenjas/history-notes
 -   https://stephango.com/writing
 -   https://80000hours.org/advanced-series/
 -   https://www.rsrch.space/
+-   https://projects.kwon.nyc/internet-is-fun/
 -   
 
 ## Philosophy
