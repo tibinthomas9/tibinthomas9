@@ -1,3 +1,4 @@
+
 # Awesome-Websites by Tibin
 
 
@@ -130,6 +131,7 @@ https://github.com/smenjas/history-notes
 -   https://80000hours.org/advanced-series/
 -   https://www.rsrch.space/
 -   https://projects.kwon.nyc/internet-is-fun/
+-   https://www.wtamu.edu/~cbaird/sq/index.html
 -   
 
 ## Philosophy
