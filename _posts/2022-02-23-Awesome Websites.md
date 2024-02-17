@@ -47,6 +47,7 @@ https://www.mathsisfun.com/games/index.html
 ## Interactive and Fun
 
 -   [Explorables](https://explorabl.es/) - Offers interactive and engaging content for learning.
+-   https://quickdraw.withgoogle.com/
 -   [Nicky Case](https://ncase.me/) - Provides interactive educational games.
 -   [Geocaching](https://www.geocaching.com/play) - Helps people to explore the outdoors and find hidden treasures.
 -   [Rainy Mood](https://www.rainymood.com/) - Provides a calming background sound of rain for relaxation.
