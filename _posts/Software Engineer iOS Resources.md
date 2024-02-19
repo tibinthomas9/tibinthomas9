@@ -458,6 +458,9 @@ If you're an iOS engineer looking to prep, save your $75 and do the following in
 - For system design, you can't go wrong with the Mobile System Design repo. I'll add a link in the comments.
 - Design shit. Build shit and ask people to review your shit. Hit me up and I'll check it out. No, really. Go look for a free API, pull data down, and display it. Do it in UIKit. Do it in SwiftUI. Build an app that uses websockets. Build an app that uses pagination. Build an app that supports offline shit. Build an app that uses MVVM. Build an app that uses VIPER. Build an app that uses the stack that your target company uses. BUILD SOME DAMN APPS.
 
+*How can you inspect the view hierarchy of built in apps?*
+You need to disable your Mac’s System Integrity Protection, then you can attach to any process in Xcode. Make sure you re-enable when you’re done tinkering though :)
+https://x.com/SebJVidal/status/1759571912802402608?s=20
 
 # 1
 Using small static libraries instead of a single module can offer several benefits in iOS app development, especially for larger projects:
