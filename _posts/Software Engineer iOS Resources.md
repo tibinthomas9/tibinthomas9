@@ -73,6 +73,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 
 ### Code Review
 - https://github.com/futurice/ios-good-practices
+- https://github.com/aryamansharda/iOS-Pull-Request-Checklist
 
 - [iOS Code Review Checklist](https://gist.github.com/pallavtrivedi03/8f4975a41f5b64d8a6af4fd119949d39)
 
