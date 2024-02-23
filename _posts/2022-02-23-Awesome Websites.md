@@ -13,6 +13,8 @@
 - https://twitter.com/matt_gray_/status/1732755649258254378
 - https://www.window-swap.com/
 https://www.mathsisfun.com/games/index.html
+https://coolthingsifoundontheinternet.com/brian
+https://explorer.globe.engineer/
 
 
 # List of Interesting Websites
