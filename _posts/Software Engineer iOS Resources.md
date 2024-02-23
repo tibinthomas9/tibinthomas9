@@ -471,6 +471,11 @@ https://x.com/alpennec/status/1760318962523336796?s=20
 You need to disable your Mac’s System Integrity Protection, then you can attach to any process in Xcode. Make sure you re-enable when you’re done tinkering though :)
 https://x.com/SebJVidal/status/1759571912802402608?s=20
 
+ 🤓 Here's some handy Swift code for calling Objective-C methods with more than two arguments.
+
+Normally, NSObject's perform(_:with:with:) method is enough, but there's a two argument limit which I often hit. Just replace `welcomeController` with your NSObject.
+https://x.com/SebJVidal/status/1761084739132305590
+
 # 1
 Using small static libraries instead of a single module can offer several benefits in iOS app development, especially for larger projects:
 
