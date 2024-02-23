@@ -141,6 +141,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 
 ### iOS App Architecture
 
+- https://nimblehq.co/blog/modern-approach-modularize-ios-swiftui-spm
 - https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/?US
 - https://www.bestinclassiosapp.com/
 - https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/WhatIsCocoa/WhatIsCocoa.html
