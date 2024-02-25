@@ -19,6 +19,7 @@ Resume Inspiration https://jarocki.me/
 ### Pending items to add
 
 https://www.judo.app/
+https://swiftology.io/articles/tydd-part-1-fundamentals/
 https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/
 https://shape.dk/news-and-knowledge/leveraging-apples-new-swift-openapi-generator
 https://getstream.io/blog/mvvm-state-management/
