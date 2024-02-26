@@ -231,6 +231,9 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 ## API 
 
 - [set-up-a-google-firestore-database-as-an-api-endpoint](https://javascript.plainenglish.io/set-up-a-google-firestore-database-as-an-api-endpoint-a946f8d824d)
+- 
+## Metal and shader
+- https://cindori.com/developer/swiftui-shaders-wave  Sine Wave and other simple shaders
 
 ### Tutorials and Guides
 
