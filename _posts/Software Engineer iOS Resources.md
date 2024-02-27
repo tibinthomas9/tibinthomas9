@@ -4,49 +4,13 @@
 
 
 
+  [iOS and Swift Tree Diagram](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/SwiftAndiOS-Tree.text)
+
 ### Pending items to add
 
-https://www.judo.app/
-https://swiftology.io/articles/tydd-part-1-fundamentals/
-https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/
-https://shape.dk/news-and-knowledge/leveraging-apples-new-swift-openapi-generator
-https://getstream.io/blog/mvvm-state-management/
-https://multi.app/blog/is-swift-combine-dead
-https://swiftsenpai.com/testing/implemented-http-request-helper-without-server/
 
-https://exercism.org/tracks/swift/exercises/hello-world/edit
-https://newsletter.systemdesign.one/
-https://fatbobman.medium.com/building-adaptable-swiftui-applications-for-multiple-platforms-964624fa7b2
-https://azamsharp.teachable.com/p/swiftui-cookbook-over-100-recipes-for-building-ios-apps1
 
-- https://gist.github.com/greencoppercompany/9a17404cd3b8abe77b6d483b16774d7b
-- https://byby.dev/ios
-- https://swiftrocks.com/
-- https://developer.apple.com/videos/play/wwdc2022/10059/
-https://www.createchsol.com/tutorials/
-- https://azamsharp.teachable.com/
-- https://betterprogramming.pub/swiftui-choosing-an-application-architecture-6ec9289f8e8f
-- https://ln.hixie.ch/
-- https://dev.to/jameson/swiftui-with-swiftdata-through-repository-36d1
-- https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper/
-- https://betterprogramming.pub/swiftui-the-unsafeobservedobject-quiz-467bb8554262
-- https://fitotoledano.notion.site/Why-are-Constants-in-Swift-powerful-6715a343c51c4309ad2035da1a528c7e
-- https://www.restapitutorial.com/httpstatuscodes.html
-- https://stackoverflow.com/questions/68987329/struct-enum-vs-class-for-network-calls
-- https://michaellong.medium.com/the-swift-dependency-injection-series-365ce5038ef7
-- https://nalexn.github.io/state-management-guide-ios/
-- https://nalexn.github.io/swiftui-unit-testing/
-- https://qualitycoding.org/optimize-xcode-for-fast-tests/
-- https://firebase.blog/posts/2023/06/feature-flags-with-real-time-remote-config/
-- https://developer.apple.com/library/archive/documentation/Security/Conceptual/SecureCodingGuide/Articles/BufferOverflows.html
 
-- https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/
-- https://stackoverflow.com/questions/49376157/swift-dispatchgroup-notify-before-task-finish
-- https://medium.com/expedia-group-tech/lessons-in-swiftui-2a1e1ae03f2a
-- https://developer.apple.com/news/site-updates/
-- https://swiftui.design/code
-
-- [iOS and Swift Tree Diagram](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/SwiftAndiOS-Tree.text)
 
 -------------------------------------------------------------------------------------------------------------------------
 Swift Language
@@ -57,6 +21,11 @@ Swift Language
 -   [Apple's Official Swift Documentation](https://developer.apple.com/documentation/swift)
 -   [Swift Access Control in iOS](https://medium.com/hash-coding/swift-access-control-ios-dab45a0b79ab): This article explains the access control levels in Swift.
 -   [Static Patterns in Swift: MVVM Tutorial](https://www.toptal.com/swift/static-patterns-swift-mvvm-tutorial): This tutorial covers the Model-View-ViewModel (MVVM) architecture pattern in Swift.
+-   https://swiftology.io/articles/tydd-part-1-fundamentals/ Type Driven Code, parse not validate
+-   https://exercism.org/tracks/swift/exercises/hello-world/edit
+-  https://fitotoledano.notion.site/Why-are-Constants-in-Swift-powerful-6715a343c51c4309ad2035da1a528c7e
+-  https://stackoverflow.com/questions/68987329/struct-enum-vs-class-for-network-calls
+-  - https://michaellong.medium.com/the-swift-dependency-injection-series-365ce5038ef7
 
 -------------------------------------------------------------------------------------------------------------------------
 iOS: SwiftUI
@@ -64,7 +33,12 @@ iOS: SwiftUI
 
 # SwiftUI
 [_posts/swiftui.md](https://github.com/tibinthomas9/tibinthomas9/blob/ec48275bc65ede8487326f52ff6091ef665dd932/_posts/swiftui.md)
-
+https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/
+https://fatbobman.medium.com/building-adaptable-swiftui-applications-for-multiple-platforms-964624fa7b2
+https://azamsharp.teachable.com/p/swiftui-cookbook-over-100-recipes-for-building-ios-apps1
+ https://dev.to/jameson/swiftui-with-swiftdata-through-repository-36d1
+- https://betterprogramming.pub/swiftui-the-unsafeobservedobject-quiz-467bb8554262
+-  https://medium.com/expedia-group-tech/lessons-in-swiftui-2a1e1ae03f2a
 
 -------------------------------------------------------------------------------------------------------------------------
 iOS: UIKit
@@ -79,7 +53,6 @@ iOS: UIKit
 -   [Stack Overflow: Where can I find tutorials on Swift?](https://stackoverflow.com/q/62119815/8181347)
 -   [A Path to Mastery for iOS Development](https://trello.com/b/dOV9dvBu/a-path-to-mastery-for-ios-development)
 -   [Awesome iOS](https://github.com/vsouza/awesome-ios#readme)
-
 -    https://byby.dev/ios
 
 
@@ -107,6 +80,7 @@ iOS: UIKit
 - https://developer.apple.com/documentation/SwiftUI
 - https://developer.apple.com/documentation/Combine
 - https://developer.apple.com/documentation/technologies?tags=App%20Services
+- https://developer.apple.com/news/site-updates/
   - https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/Introduction/Introduction.html#//apple_ref/doc/uid/TP40002974 (old cocoa to understand objc)
   - https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html#//apple_ref/doc/uid/10000011-SW1 (old cocoa mem management to understand objc)
 
@@ -132,6 +106,8 @@ iOS: UIKit
 -   [differences between Swift, the standard library and Foundation](https://siddarthkalra.github.io/articles/swift-vs-stdlib-vs-foundation/)
     
 
+### Data and State Layer
+- https://nalexn.github.io/state-management-guide-ios/
 
 
 ### Application Lifecycle
@@ -180,9 +156,11 @@ iOS: UIKit
 -   [Serial DispatchQueue on Twitter](https://twitter.com/onmyway133/status/1501951060696465410/photo/1)
 -   [Concurrent Serial DispatchQueue on Blog](https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/)
 -   https://www.avanderlee.com/swift/async-await/
+-   https://stackoverflow.com/questions/49376157/swift-dispatchgroup-notify-before-task-finish
 
 
-
+### Project and app config
+- https://firebase.blog/posts/2023/06/feature-flags-with-real-time-remote-config/
 
 ### Localization and Provisioning
 
@@ -193,7 +171,13 @@ iOS: UIKit
 ### API 
 
 - [set-up-a-google-firestore-database-as-an-api-endpoint](https://javascript.plainenglish.io/set-up-a-google-firestore-database-as-an-api-endpoint-a946f8d824d)
-- 
+- https://shape.dk/news-and-knowledge/leveraging-apples-new-swift-openapi-generator
+
+### Design
+- https://developer.apple.com/videos/play/wwdc2022/10059/
+
+
+ 
 ### Metal, shader, drawing
 - https://cindori.com/developer/swiftui-shaders-wave  Sine Wave and other simple shaders
 - https://www.desmos.com/calculator To find wave functions of shapes
@@ -210,12 +194,19 @@ iOS: UIKit
 -   https://blog.thomasdurand.fr/story/2023-12-14-dont-ship-api-keys/
 -   https://www.linkedin.com/posts/dave-poirier-a9b25a9_other-than-performance-why-should-you-mark-activity-7149554358722981888-O91I/
 -   https://blog.encoded.life/?source=top_nav_blog_home
+-    https://developer.apple.com/library/archive/documentation/Security/Conceptual/SecureCodingGuide/Articles/BufferOverflows.html
+
+### Networking
+- https://swiftsenpai.com/testing/implemented-http-request-helper-without-server/
+-  https://www.restapitutorial.com/httpstatuscodes.html
 
 
 ### Testing
 
 -   [iOS Unit Testing](https://qualitycoding.org/ios-unit-testing/)
 -   [Unit Testing Best Practices](https://www.avanderlee.com/swift/unit-tests-best-practices/)
+-   https://nalexn.github.io/swiftui-unit-testing/
+-    https://qualitycoding.org/optimize-xcode-for-fast-tests/
 
 ### Swift Style Guide
 
@@ -246,6 +237,8 @@ iOS: UIKit
 -   https://medium.engineering/evolution-of-the-medium-ios-app-architecture-8b6090f4508e
 -   https://nalexn.github.io/state-management-guide-ios/
 -   https://byby.dev/swiftui-state-management
+-  https://betterprogramming.pub/swiftui-choosing-an-application-architecture-6ec9289f8e8f
+-  - https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper/
 
 
 ###  Resources to solve hard problems
@@ -265,6 +258,7 @@ iOS: UIKit
   - https://www.wwdcnotes.com/notes
   - https://www.swiftanytime.com/
   - https://designcode.io/tutorials
+  -  https://swiftui.design/code
 
 ## Advanced Topics
 - https://www.youtube.com/watch?v=N6CNFm2WkzI  Create the Apple's Hello Lettering Animation with SwiftUI
@@ -320,6 +314,10 @@ https://x.com/SebJVidal/status/1759571912802402608?s=20
 - https://www.fivestars.blog/
 - https://www.tutorialspoint.com/swift/index.htm
 - https://byby.dev/ios
+- https://swiftrocks.com/
+- https://www.createchsol.com/tutorials/
+-  https://azamsharp.teachable.com/
+-   https://ln.hixie.ch/
 
 -------------------------------------------------------------------------------------------------------------------------
 Objective C
@@ -437,6 +435,7 @@ This is a list of resources that can help you prepare for a mobile system design
 
 ## Tools
 - https://okaxaki.github.io/objc2swift/demo.html
+- https://www.judo.app/
 
 
 -------------------------------------------------------------------------------------------------------------------------
@@ -469,7 +468,8 @@ Interviews
 -   [iOS Interview Questions on LinkedIn](https://www.linkedin.com/interview-prep/assessments/urn:li:fsd_assessment:(1,a)/question/urn:li:fsd_assessmentQuestion:(10011,aq11)/)
 -  [SwiftUI Interview Questions And Answers](https://ishtiz.com/swiftui/swiftui-interview-questions-and-answers-part-1)
 -  https://www.testdome.com/tests/ios-swift-online-test/161
-- [SwiftUI Interview Questions and Answers](https://ishtiz.com/swiftui/swiftui-interview-questions-and-answers-part-1): This article provides some common interview questions and answers related to SwiftUI.
+- [SwiftUI Interview Questions and Answers](https://ishtiz.com/swiftui/swiftui-interview-questions-and-answers-part-1):
+- https://gist.github.com/greencoppercompany/9a17404cd3b8abe77b6d483b16774d7b
 
 
 -------------------------------------------------------------------------------------------------------------------------
