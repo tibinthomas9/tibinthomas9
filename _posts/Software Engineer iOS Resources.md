@@ -105,11 +105,19 @@ iOS: UIKit
 | State Management Guide for iOS | [Link](https://nalexn.github.io/state-management-guide-ios/) |
 | **Application Lifecycle** | |
 | Application Lifecycle in iOS | [Link](https://manasaprema04.medium.com/application-life-cycle-in-ios-f7365d8c1636) |
+
+
+
+
 | **Code Review** | |
 | iOS Good Practices | [Link](https://github.com/futurice/ios-good-practices) |
 | iOS Pull Request Checklist | [Link](https://github.com/aryamansharda/iOS-Pull-Request-Checklist) |
 | iOS Code Review Checklist | [Link](https://gist.github.com/pallavtrivedi03/8f4975a41f5b64d8a6af4fd119949d39) |
 | Architecture Checklist | [Link](https://github.com/BohdanOrlov/architecture-checklist) |
+
+
+
+
 | **Optimization and Debugging** | |
 | Optimization Tips for Swift by Apple | [Link](https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst#advice-use-copy-on-write-semantics-for-large-values) |
 | Testing if an Arbitrary Pointer is a Valid Objective-C Object | [Link](https://blog.timac.org/2016/1124-testing-if-an-arbitrary-pointer-is-a-valid-objective-c-object/) |
