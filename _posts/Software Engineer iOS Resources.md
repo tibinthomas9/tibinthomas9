@@ -258,6 +258,8 @@ iOS: UIKit
   - https://www.swiftanytime.com/
   - https://designcode.io/tutorials
   -  https://swiftui.design/code
+  -   https://www.swiftjectivec.com/snips
+- https://trailingclosure.com/
 
 ## Advanced Topics
 - https://www.youtube.com/watch?v=N6CNFm2WkzI  Create the Apple's Hello Lettering Animation with SwiftUI
