@@ -272,13 +272,15 @@ iOS: UIKit
 
 ## tips
 
-https://x.com/alpennec/status/1760318962523336796?s=20
+- https://x.com/alpennec/status/1760318962523336796?s=20
 
 - How to load a  private sytem class(should not use in production code) - https://github.com/sebjvidal/OnBoardingKit-Demo/blob/main/OnBoardingKit-Demo.swift
 
 *How can you inspect the view hierarchy of built in apps?*
 You need to disable your Mac’s System Integrity Protection, then you can attach to any process in Xcode. Make sure you re-enable when you’re done tinkering though :)
-https://x.com/SebJVidal/status/1759571912802402608?s=20
+
+- https://x.com/SebJVidal/status/1759571912802402608?s=20
+-  Xcode cheat sheet https://twitter.com/ishtiz_/status/1716786616457654331
 
 
 ### Miscellaneous
