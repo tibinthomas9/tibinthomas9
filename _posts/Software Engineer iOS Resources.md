@@ -108,7 +108,8 @@ iOS: UIKit
 
 
 
-
+| Category | Link |
+| --- | --- |
 | **Code Review** | |
 | iOS Good Practices | [Link](https://github.com/futurice/ios-good-practices) |
 | iOS Pull Request Checklist | [Link](https://github.com/aryamansharda/iOS-Pull-Request-Checklist) |
@@ -117,7 +118,8 @@ iOS: UIKit
 
 
 
-
+| Category | Link |
+| --- | --- |
 | **Optimization and Debugging** | |
 | Optimization Tips for Swift by Apple | [Link](https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst#advice-use-copy-on-write-semantics-for-large-values) |
 | Testing if an Arbitrary Pointer is a Valid Objective-C Object | [Link](https://blog.timac.org/2016/1124-testing-if-an-arbitrary-pointer-is-a-valid-objective-c-object/) |
@@ -126,12 +128,20 @@ iOS: UIKit
 | Debugging Crashes in iOS | [Link](https://riptutorial.com/ios/topic/4745/debugging-crashes) |
 | Thread Sanitizer Data Races | [Link](https://www.avanderlee.com/swift/thread-sanitizer-data-races/) |
 | iOS Code Review | [Link](https://ioscodereview.com/) |
+
+
+| Category | Link |
+| --- | --- |
 | **Design Patterns** | |
 | Top Swift Design Patterns | [Link](https://aglowiditsolutions.com/blog/top-swift-design-patterns/#:~:text=The%20following%20are%20some%20of,Singleton) |
 | Cocoa Design Patterns | [Link](https://developer.apple.com/documentation/swift/cocoa_design_patterns) |
 | Dictionary Locking in Swift | [Link](https://straypixels.net/swift-dictionary-locking/) |
 | iOS Design Patterns | [Link](https://chetan-aggarwal.medium.com/ios-design-patterns-f478abd78132) |
 | Twitter: Milan Milanovic | [Link](https://twitter.com/milan_milanovic/status/1714955962098884628?t=4Qwaf8FFTR4k18_0MyEYGA&s=19) |
+
+
+| Category | Link |
+| --- | --- |
 | **Concurrency** | |
 | Concurrency in iOS and Swift Guide | [Link](https://betterprogramming.pub/concurrency-in-ios-and-swift-guide-50443ce5b0f5#:~:text=Concurrent%20Queues%20executes%20tasks%20one,threads%20from%20the%20thread%20pool.) |
 | Concurrency in Swift: Grand Central Dispatch Part 1 | [Link](https://ali-akhtar.medium.com/concurrency-in-swift-grand-central-dispatch-part-1-945ff05e8863) |
@@ -155,6 +165,11 @@ iOS: UIKit
 | **Metal, Shader, Drawing** | |
 | SwiftUI Shaders: Wave | [Link](https://cindori.com/developer/swiftui-shaders-wave) |
 | Desmos Calculator | [Link](https://www.desmos.com/calculator) |
+
+
+
+| Category | Link |
+| --- | --- |
 | **Security** | |
 | iOS App Security Best Practices | [Link](https://quickbirdstudios.com/blog/ios-app-security-best-practices/) |
 | SSL Pinning Implementation | [Link](https://davepoirier.medium.com/ios-protecting-against-tls-bypass-attacks-391729c5dea9) |
@@ -164,10 +179,18 @@ iOS: UIKit
 | Other Than Performance, Why Should You Mark Activity as User-Initiated? | [Link](https://www.linkedin.com/posts/dave-poirier-a9b25a9_other-than-performance-why-should-you-mark-activity-7149554358722981888-O91I/) |
 | Encoded | [Link](https://blog.encoded.life/?source=top_nav_blog_home) |
 | Secure Coding Guide: Buffer Overflows | [Link](https://developer.apple.com/library/archive/documentation/Security/Conceptual/SecureCodingGuide/Articles/BufferOverflows.html) |
+
+
+| Category | Link |
+| --- | --- |
 | **Networking** | |
 | Implemented HTTP Request Helper Without Server | [Link](https://swiftsenpai.com/testing/implemented-http-request-helper-without-server/) |
 | HTTP Status Codes | [Link](https://www.restapitutorial.com/httpstatuscodes.html) |
 | Easy Multipart File Upload for Swift | [Link](https://theswiftdev.com/easy-multipart-file-upload-for-swift/) |
+
+
+| Category | Link |
+| --- | --- |
 | **Testing** | |
 | iOS Unit Testing | [Link](https://qualitycoding.org/ios-unit-testing/) |
 | Unit Testing Best Practices | [Link](https://www.avanderlee.com/swift/unit-tests-best-practices/) |
