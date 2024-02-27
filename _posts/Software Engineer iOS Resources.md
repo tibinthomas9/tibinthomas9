@@ -28,10 +28,10 @@ Swift Language
 -  - https://michaellong.medium.com/the-swift-dependency-injection-series-365ce5038ef7
 
 -------------------------------------------------------------------------------------------------------------------------
-iOS: SwiftUI
+iOS: SwiftUI And TvoS
 -------------------------------------------------------------------------------------------------------------------------
 
-# SwiftUI
+# SwiftUI , TvOS
 [_posts/swiftui.md]
 (https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/swiftui.md)
 
