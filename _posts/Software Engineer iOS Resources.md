@@ -84,136 +84,94 @@ iOS: UIKit
   - https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html#//apple_ref/doc/uid/10000011-SW1 (old cocoa mem management to understand objc)
 
 
+Sure, here's the information organized into a table:
 
-### Fundamentals
-
--   [The Complete Guide to Understanding Swift Optionals](https://matteomanferdini.com/wp-content/uploads/2019/04/The-Complete-Guide-to-Understanding-Swift-Optionals.pdf)
--   [Swift URLSession Tutorial](https://matteomanferdini.com/swift-urlsession/)
-
--   SOLID
-- -  [SOLID iOS](https://www.kodeco.com/21503974-solid-principles-for-ios-apps)
-- -  [SOLID iOS](https://www.kodeco.com/21503974-solid-principles-for-ios-apps](https://maddevs.io/blog/solid-principles-in-ios-development/)
-  -  https://sabapathy7.medium.com/solid-principles-a-swift-approach-to-robust-software-development-51baa9194d00
-- - https://codeburst.io/solid-design-principle-using-swift-fa67443672b8
-- - https://betterprogramming.pub/swift-s-o-l-i-d-21203ba3a226
-- -  https://medium.com/@nishant.kumbhare4/solid-principles-in-swift-73b505d3c63f
--   https://www.kodeco.com/books/swiftui-cookbook
--   https://releases.llvm.org/12.0.0/tools/clang/docs/
--   https://theswiftdev.com/
--   https://redblink.com/learn-ios-development/
--   [differences between Swift, the standard library and Foundation](https://siddarthkalra.github.io/articles/swift-vs-stdlib-vs-foundation/)
-    
-
-### Data and State Layer
-- https://nalexn.github.io/state-management-guide-ios/
-
-
-### Application Lifecycle
-
--   [Application Lifecycle in iOS](https://manasaprema04.medium.com/application-life-cycle-in-ios-f7365d8c1636)
-
-
-
-### Code Review
-- https://github.com/futurice/ios-good-practices
-- https://github.com/aryamansharda/iOS-Pull-Request-Checklist
-
-- [iOS Code Review Checklist](https://gist.github.com/pallavtrivedi03/8f4975a41f5b64d8a6af4fd119949d39)
-
-- https://github.com/BohdanOrlov/architecture-checklist
-
-### Optimization and debugging
-
--   [Optimization Tips for Swift by Apple](https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst#advice-use-copy-on-write-semantics-for-large-values)
--  https://blog.timac.org/2016/1124-testing-if-an-arbitrary-pointer-is-a-valid-objective-c-object/
--  https://www.objc.io/issues/5-ios7/iOS7-hidden-gems-and-workarounds/
-- https://www.avanderlee.com/swift/exc-bad-access-crash/
-- -   [Debugging Crashes in iOS](https://riptutorial.com/ios/topic/4745/debugging-crashes)
--   https://www.avanderlee.com/swift/thread-sanitizer-data-races/
--  https://ioscodereview.com/
-
-
-### Design Patterns
-
--   [Top Swift Design Patterns by Aglowid IT Solutions](https://aglowiditsolutions.com/blog/top-swift-design-patterns/#:~:text=The%20following%20are%20some%20of,Singleton) 
--  [Cocoa Design Patterns](https://developer.apple.com/documentation/swift/cocoa_design_patterns): This document provides an overview of the design patterns used in Cocoa frameworks.
--   [Dictionary Locking in Swift](https://straypixels.net/swift-dictionary-locking/): This article discusses the challenges of working with dictionaries in a multithreaded environment and provides a solution using a locking mechanism.
--   [iOS Design Patterns](https://chetan-aggarwal.medium.com/ios-design-patterns-f478abd78132): This article covers some design patterns used in iOS app development.
-
--   https://twitter.com/milan_milanovic/status/1714955962098884628?t=4Qwaf8FFTR4k18_0MyEYGA&s=19
--   
-
-### Concurrency
-
--   [Concurrency in iOS and Swift Guide by Better Programming](https://betterprogramming.pub/concurrency-in-ios-and-swift-guide-50443ce5b0f5#:~:text=Concurrent%20Queues%20executes%20tasks%20one,threads%20from%20the%20thread%20pool.)
-
--   [Concurrency in Swift: Grand Central Dispatch Part 1](https://ali-akhtar.medium.com/concurrency-in-swift-grand-central-dispatch-part-1-945ff05e8863)
--   [WWDC Notes](https://www.wwdcnotes.com/)
--   [Creating Thread-Safe Arrays in Swift](https://zamzam.io/creating-thread-safe-arrays-in-swift/)
--   [Concurrent Serial DispatchQueue](https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/)
--   [Serial DispatchQueue on Twitter](https://twitter.com/onmyway133/status/1501951060696465410/photo/1)
--   [Concurrent Serial DispatchQueue on Blog](https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/)
--   https://www.avanderlee.com/swift/async-await/
--   https://stackoverflow.com/questions/49376157/swift-dispatchgroup-notify-before-task-finish
-
-
-### Project and app config
-- https://firebase.blog/posts/2023/06/feature-flags-with-real-time-remote-config/
-
-### Localization and Provisioning
-
--   [iOS Localization Tutorial](https://medium.com/lean-localization/ios-localization-tutorial-938231f9f881)
--   [What is a Provisioning Profile in iOS?](https://abhimuralidharan.medium.com/what-is-a-provisioning-profile-in-ios-77987a7c54c2)
--   
-
-### API 
-
-- [set-up-a-google-firestore-database-as-an-api-endpoint](https://javascript.plainenglish.io/set-up-a-google-firestore-database-as-an-api-endpoint-a946f8d824d)
-- https://shape.dk/news-and-knowledge/leveraging-apples-new-swift-openapi-generator
-
-### Design
-- https://developer.apple.com/videos/play/wwdc2022/10059/
-
-
- 
-### Metal, shader, drawing
-- https://cindori.com/developer/swiftui-shaders-wave  Sine Wave and other simple shaders
-- https://www.desmos.com/calculator To find wave functions of shapes
+| Category | Link |
+| --- | --- |
+| **Fundamentals** | |
+| The Complete Guide to Understanding Swift Optionals | [Link](https://matteomanferdini.com/wp-content/uploads/2019/04/The-Complete-Guide-to-Understanding-Swift-Optionals.pdf) |
+| Swift URLSession Tutorial | [Link](https://matteomanferdini.com/swift-urlsession/) |
+| SOLID iOS | [Link](https://www.kodeco.com/21503974-solid-principles-for-ios-apps) |
+| SOLID iOS | [Link](https://maddevs.io/blog/solid-principles-in-ios-development/) |
+| SOLID Principles: A Swift Approach | [Link](https://sabapathy7.medium.com/solid-principles-a-swift-approach-to-robust-software-development-51baa9194d00) |
+| SOLID Design Principle Using Swift | [Link](https://codeburst.io/solid-design-principle-using-swift-fa67443672b8) |
+| Swift’s S.O.L.I.D | [Link](https://betterprogramming.pub/swift-s-o-l-i-d-21203ba3a226) |
+| SOLID Principles in Swift | [Link](https://medium.com/@nishant.kumbhare4/solid-principles-in-swift-73b505d3c63f) |
+| SwiftUI Cookbook | [Link](https://www.kodeco.com/books/swiftui-cookbook) |
+| LLVM | [Link](https://releases.llvm.org/12.0.0/tools/clang/docs/) |
+| The Swift Dev | [Link](https://theswiftdev.com/) |
+| Learn iOS Development | [Link](https://redblink.com/learn-ios-development/) |
+| Swift vs. stdlib vs. Foundation | [Link](https://siddarthkalra.github.io/articles/swift-vs-stdlib-vs-foundation/) |
+| **Data and State Layer** | |
+| State Management Guide for iOS | [Link](https://nalexn.github.io/state-management-guide-ios/) |
+| **Application Lifecycle** | |
+| Application Lifecycle in iOS | [Link](https://manasaprema04.medium.com/application-life-cycle-in-ios-f7365d8c1636) |
+| **Code Review** | |
+| iOS Good Practices | [Link](https://github.com/futurice/ios-good-practices) |
+| iOS Pull Request Checklist | [Link](https://github.com/aryamansharda/iOS-Pull-Request-Checklist) |
+| iOS Code Review Checklist | [Link](https://gist.github.com/pallavtrivedi03/8f4975a41f5b64d8a6af4fd119949d39) |
+| Architecture Checklist | [Link](https://github.com/BohdanOrlov/architecture-checklist) |
+| **Optimization and Debugging** | |
+| Optimization Tips for Swift by Apple | [Link](https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst#advice-use-copy-on-write-semantics-for-large-values) |
+| Testing if an Arbitrary Pointer is a Valid Objective-C Object | [Link](https://blog.timac.org/2016/1124-testing-if-an-arbitrary-pointer-is-a-valid-objective-c-object/) |
+| iOS7 Hidden Gems and Workarounds | [Link](https://www.objc.io/issues/5-ios7/iOS7-hidden-gems-and-workarounds/) |
+| EXC_BAD_ACCESS Crash | [Link](https://www.avanderlee.com/swift/exc-bad-access-crash/) |
+| Debugging Crashes in iOS | [Link](https://riptutorial.com/ios/topic/4745/debugging-crashes) |
+| Thread Sanitizer Data Races | [Link](https://www.avanderlee.com/swift/thread-sanitizer-data-races/) |
+| iOS Code Review | [Link](https://ioscodereview.com/) |
+| **Design Patterns** | |
+| Top Swift Design Patterns | [Link](https://aglowiditsolutions.com/blog/top-swift-design-patterns/#:~:text=The%20following%20are%20some%20of,Singleton) |
+| Cocoa Design Patterns | [Link](https://developer.apple.com/documentation/swift/cocoa_design_patterns) |
+| Dictionary Locking in Swift | [Link](https://straypixels.net/swift-dictionary-locking/) |
+| iOS Design Patterns | [Link](https://chetan-aggarwal.medium.com/ios-design-patterns-f478abd78132) |
+| Twitter: Milan Milanovic | [Link](https://twitter.com/milan_milanovic/status/1714955962098884628?t=4Qwaf8FFTR4k18_0MyEYGA&s=19) |
+| **Concurrency** | |
+| Concurrency in iOS and Swift Guide | [Link](https://betterprogramming.pub/concurrency-in-ios-and-swift-guide-50443ce5b0f5#:~:text=Concurrent%20Queues%20executes%20tasks%20one,threads%20from%20the%20thread%20pool.) |
+| Concurrency in Swift: Grand Central Dispatch Part 1 | [Link](https://ali-akhtar.medium.com/concurrency-in-swift-grand-central-dispatch-part-1-945ff05e8863) |
+| WWDC Notes | [Link](https://www.wwdcnotes.com/) |
+| Creating Thread-Safe Arrays in Swift | [Link](https://zamzam.io/creating-thread-safe-arrays-in-swift/) |
+| Concurrent Serial DispatchQueue | [Link](https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/) |
+| Serial DispatchQueue on Twitter | [Link](https://twitter.com/onmyway133/status/1501951060696465410/photo/1) |
+| Concurrent Serial DispatchQueue on Blog | [Link](https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/) |
+| Async Await in Swift | [Link](https://www.avanderlee.com/swift/async-await/) |
+| DispatchGroup Notify Before Task Finish | [Link](https://stackoverflow.com/questions/49376157/swift-dispatchgroup-notify-before-task-finish) |
+| **Project and App Config** | |
+| Feature Flags with Real-Time Remote Config | [Link](https://firebase.blog/posts/2023/06/feature-flags-with-real-time-remote-config/) |
+| **Localization and Provisioning** | |
+| iOS Localization Tutorial | [Link](https://medium.com/lean-localization/ios-localization-tutorial-938231f9f881) |
+| What is a Provisioning Profile in iOS? | [Link](https://abhimuralidharan.medium.com/what-is-a-provisioning-profile-in-ios-77987a7c54c2) |
+| **API** | |
+| Set Up a Google Firestore Database as an API Endpoint | [Link](https://javascript.plainenglish.io/set-up-a-google-firestore-database-as-an-api-endpoint-a946f8d824d) |
+| Leveraging Apple's New Swift OpenAPI Generator | [Link](https://shape.dk/news-and-knowledge/leveraging-apples-new-swift-openapi-generator) |
+| **Design** | |
+| WWDC22: Designing Great Apps | [Link](https://developer.apple.com/videos/play/wwdc2022/10059/) |
+| **Metal, Shader, Drawing** | |
+| SwiftUI Shaders: Wave | [Link](https://cindori.com/developer/swiftui-shaders-wave) |
+| Desmos Calculator | [Link](https://www.desmos.com/calculator) |
+| **Security** | |
+| iOS App Security Best Practices | [Link](https://quickbirdstudios.com/blog/ios-app-security-best-practices/) |
+| SSL Pinning Implementation | [Link](https://davepoirier.medium.com/ios-protecting-against-tls-bypass-attacks-391729c5dea9) |
+| Snake Apple | [Link](https://karol-mazurek95.medium.com/snake-apple-ff87a399ecc4) |
+| Validating Apps That Connect to Your Server | [Link](https://developer.apple.com/documentation/devicecheck/validating-apps-that-connect-to-your-server) |
+| Don't Ship API Keys | [Link](https://blog.thomasdurand.fr/story/2023-12-14-dont-ship-api-keys/) |
+| Other Than Performance, Why Should You Mark Activity as User-Initiated? | [Link](https://www.linkedin.com/posts/dave-poirier-a9b25a9_other-than-performance-why-should-you-mark-activity-7149554358722981888-O91I/) |
+| Encoded | [Link](https://blog.encoded.life/?source=top_nav_blog_home) |
+| Secure Coding Guide: Buffer Overflows | [Link](https://developer.apple.com/library/archive/documentation/Security/Conceptual/SecureCodingGuide/Articles/BufferOverflows.html) |
+| **Networking** | |
+| Implemented HTTP Request Helper Without Server | [Link](https://swiftsenpai.com/testing/implemented-http-request-helper-without-server/) |
+| HTTP Status Codes | [Link](https://www.restapitutorial.com/httpstatuscodes.html) |
+| Easy Multipart File Upload for Swift | [Link](https://theswiftdev.com/easy-multipart-file-upload-for-swift/) |
+| **Testing** | |
+| iOS Unit Testing | [Link](https://qualitycoding.org/ios-unit-testing/) |
+| Unit Testing Best Practices | [Link](https://www.avanderlee.com/swift/unit-tests-best-practices/) |
+| SwiftUI Unit Testing | [Link](https://nalexn.github.io/swiftui-unit-testing/) |
+| Optimize Xcode for Fast Tests | [Link](https://qualitycoding.org/optimize-xcode-for-fast-tests/) |
+| **Swift Style Guide** | |
+| Ray Wenderlich's Swift Style Guide | [Link](https://github.com/raywenderlich/swift-style-guide) |
 
 
 
-
-### Security
-
--   [iOS App Security Best Practices](https://quickbirdstudios.com/blog/ios-app-security-best-practices/)
--   [SSL Pinning Implementation](https://davepoirier.medium.com/ios-protecting-against-tls-bypass-attacks-391729c5dea9)
--   https://karol-mazurek95.medium.com/snake-apple-ff87a399ecc4
--   https://developer.apple.com/documentation/devicecheck/validating-apps-that-connect-to-your-server
--   https://blog.thomasdurand.fr/story/2023-12-14-dont-ship-api-keys/
--   https://www.linkedin.com/posts/dave-poirier-a9b25a9_other-than-performance-why-should-you-mark-activity-7149554358722981888-O91I/
--   https://blog.encoded.life/?source=top_nav_blog_home
--    https://developer.apple.com/library/archive/documentation/Security/Conceptual/SecureCodingGuide/Articles/BufferOverflows.html
-
-### Networking
-- https://swiftsenpai.com/testing/implemented-http-request-helper-without-server/
--  https://www.restapitutorial.com/httpstatuscodes.html
--  https://theswiftdev.com/easy-multipart-file-upload-for-swift/
-
-
-### Testing
-
--   [iOS Unit Testing](https://qualitycoding.org/ios-unit-testing/)
--   [Unit Testing Best Practices](https://www.avanderlee.com/swift/unit-tests-best-practices/)
--   https://nalexn.github.io/swiftui-unit-testing/
--    https://qualitycoding.org/optimize-xcode-for-fast-tests/
-
-### Swift Style Guide
-
--   [Ray Wenderlich's Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
-
-
-
-### iOS App Architecture Overview
+### iOS App Architecture 
 
 | Category | Link | Description |
 | --- | --- | --- |
