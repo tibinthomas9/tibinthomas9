@@ -1,37 +1,36 @@
 # SwiftUI and tvos Resources
 
+Sure, I can help organize these links into categories. Here's a simple table:
 
--https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/
-- https://fatbobman.medium.com/building-adaptable-swiftui-applications-for-multiple-platforms-964624fa7b2
-- https://azamsharp.teachable.com/p/swiftui-cookbook-over-100-recipes-for-building-ios-apps1
--  https://dev.to/jameson/swiftui-with-swiftdata-through-repository-36d1
-- https://betterprogramming.pub/swiftui-the-unsafeobservedobject-quiz-467bb8554262
--  https://medium.com/expedia-group-tech/lessons-in-swiftui-2a1e1ae03f2a
-
-
-
--   [SwiftUI Main Topics tree](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/SwiftUITree.text)
-
--   [The 5 Most Common Misconceptions About SwiftUI](https://matteomanferdini.com/wp-content/uploads/2019/10/The-5-most-common-misconceptions-about-SwiftUI-Matteo-Manferdini.pdf): This article addresses some common misconceptions about SwiftUI.
--   [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui/): This is the official documentation for SwiftUI.
--   [Top SwiftUI App Templates](https://apps4world.medium.com/top-swiftui-app-templates-xcode-source-codes-2797ffabd4ab): This article lists some popular SwiftUI app templates.
--  [About SwiftUI](https://github.com/Juanpe/About-SwiftUI)
--  [SwiftUI Data Flow](https://kean.blog/post/swiftui-data-flow#:~:text=When%20the%20data%20changes%2C%20either%20due%20to%20an,is%20often%20referred%20to%20as%20unidirectional%20data%20flow.) (source)
--  [SwiftUI Data Flow](https://matteomanferdini.com/swiftui-data-flow/)
--  [Swiftui-relationship-to-uikit-appkit](https://wwdcbysundell.com/2019/swiftui-relationship-to-uikit-appkit/)
--  https://getstream.io/blog/swiftui-video-streaming-app/
--  https://medium.com/@oradwan037/swiftui-under-the-hood-ec5330d9d28c
--  https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c
--   https://heckj.github.io/swiftui-notes/
--   https://midnight-beanie-ccb.notion.site/WWDC23-SwiftUI-520489da7e914cd18b5f5e43eeeec069
--   https://github.com/NilCoalescing/SwiftUI-Code-Examples
--   https://trailingclosure.com/blendmode-cheat-sheet/
--   https://www.archet.app/
--   [The 5 Most Common Misconceptions About SwiftUI](https://matteomanferdini.com/wp-content/uploads/2019/10/The-5-most-common-misconceptions-about-SwiftUI-Matteo-Manferdini.pdf)
--   https://apps.apple.com/us/app/a-companion-for-swiftui/id1485436674?mt=12
--   https://developer.apple.com/documentation/swiftui/environmentvalues SwiftUI Environment items
+| Category | Link |
+| --- | --- |
+| **Blogs/Articles** | [State of Swift and SwiftUI (iOS17)](https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/) |
+| | [Building Adaptable SwiftUI Applications for Multiple Platforms](https://fatbobman.medium.com/building-adaptable-swiftui-applications-for-multiple-platforms-964624fa7b2) |
+| | [SwiftUI with SwiftData Through Repository](https://dev.to/jameson/swiftui-with-swiftdata-through-repository-36d1) |
+| | [SwiftUI: The UnsafeObservedObject Quiz](https://betterprogramming.pub/swiftui-the-unsafeobservedobject-quiz-467bb8554262) |
+| | [Lessons in SwiftUI](https://medium.com/expedia-group-tech/lessons-in-swiftui-2a1e1ae03f2a) |
+| | [SwiftUI Under the Hood](https://medium.com/@oradwan037/swiftui-under-the-hood-ec5330d9d28c) |
+| | [On the Road to Learn SwiftUI](https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c) |
+| | [SwiftUI Relationship to UIKit and AppKit](https://wwdcbysundell.com/2019/swiftui-relationship-to-uikit-appkit/) |
+| | [SwiftUI Video Streaming App](https://getstream.io/blog/swiftui-video-streaming-app/) |
+| **Courses/Tutorials** | [SwiftUI Cookbook: Over 100 Recipes for Building iOS Apps](https://azamsharp.teachable.com/p/swiftui-cookbook-over-100-recipes-for-building-ios-apps1) |
+| **Documentation** | [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui/) |
+| | [SwiftUI Main Topics Tree](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/SwiftUITree.text) |
+| | [SwiftUI Data Flow](https://kean.blog/post/swiftui-data-flow#:~:text=When%20the%20data%20changes%2C%20either%20due%20to%20an,is%20often%20referred%20to%20as%20unidirectional%20data%20flow.) |
+| | [SwiftUI Data Flow](https://matteomanferdini.com/swiftui-data-flow/) |
+| **Misconceptions** | [The 5 Most Common Misconceptions About SwiftUI](https://matteomanferdini.com/wp-content/uploads/2019/10/The-5-most-common-misconceptions-about-SwiftUI-Matteo-Manferdini.pdf) |
+| **Templates/Examples** | [Top SwiftUI App Templates](https://apps4world.medium.com/top-swiftui-app-templates-xcode-source-codes-2797ffabd4ab) |
+| | [About SwiftUI](https://github.com/Juanpe/About-SwiftUI) |
+| | [SwiftUI Code Examples](https://github.com/NilCoalescing/SwiftUI-Code-Examples) |
+| **Tools/Resources** | [BlendMode Cheat Sheet](https://trailingclosure.com/blendmode-cheat-sheet/) |
+| | [Archet - SwiftUI Design Tool](https://www.archet.app/) |
+| | [SwiftUI Environment Items](https://developer.apple.com/documentation/swiftui/environmentvalues) |
+| | [A Companion for SwiftUI](https://apps.apple.com/us/app/a-companion-for-swiftui/id1485436674?mt=12) |
+| **Notes/Study Material** | [SwiftUI Notes](https://heckj.github.io/swiftui-notes/) |
+| | [WWDC23 SwiftUI](https://midnight-beanie-ccb.notion.site/WWDC23-SwiftUI-520489da7e914cd18b5f5e43eeeec069) |
 
   ## SwiftUI Quick implementations
+  
 - https://designcode.io/tutorials
 - https://www.swiftjectivec.com/snips
 - https://trailingclosure.com/
@@ -65,6 +64,9 @@
 
 
 
+-------------------------------------------------------------------------------------------------------------------------
+TVOS 
+-------------------------------------------------------------------------------------------------------------------------
 
 
 
