@@ -240,6 +240,9 @@ You need to disable your Mac’s System Integrity Protection, then you can attac
 -  Xcode cheat sheet https://twitter.com/ishtiz_/status/1716786616457654331
 
 
+
+### Blogs and tutorials
+
 | Category | Description | Link |
 | --- | --- | --- |
 | State Management | Learn how to use a state machine to manage app states in iOS. | [Handling iOS App States with a State Machine](https://blog.codecentric.de/en/2016/07/handling-ios-app-states-state-machine/) |
