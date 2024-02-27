@@ -240,45 +240,40 @@ You need to disable your Mac’s System Integrity Protection, then you can attac
 -  Xcode cheat sheet https://twitter.com/ishtiz_/status/1716786616457654331
 
 
+| Category | Description | Link |
+| --- | --- | --- |
+| State Management | Learn how to use a state machine to manage app states in iOS. | [Handling iOS App States with a State Machine](https://blog.codecentric.de/en/2016/07/handling-ios-app-states-state-machine/) |
+| Design Guidelines | Guidelines and templates for designing iOS apps. | [iOS Design Guidelines and Templates](https://learnui.design/blog/ios-design-guidelines-templates.html) |
+| Developer Directory | Directory of iOS developers and companies. | [iOS Dev Directory](https://iosdevdirectory.com/) |
+| Development Blog | Blog covering various iOS development topics. | [Onmyway133 Blog](https://onmyway133.com/) |
+| Architecture | Comparison of Twitter's architecture in 2022 and 2012. | [Twitter Architecture 2022 vs. 2012](https://blog.bytebytego.com/p/twitter-architecture-202) |
+| Swift Tips | Learn about the dark secrets of Booleans in Swift. | [2-minute Tips: The Dark Secrets of Bools](https://medium.com/the-swift-cooperative/2-minute-tips-the-dark-secrets-of-bools-5cb57662a571) |
+| Swift Tutorial | A comprehensive Swift tutorial for beginners. | [Swift Tutorial by codewithchris](https://codewithchris.com/swift-tutorial-complete/) |
+| Swift Documentation | Learn how to write comments and documentation in Swift. | [Swift Comments and Documentation by advancedswift](https://www.advancedswift.com/comments-documentation-swift/) |
+| Swift Programming | A comprehensive guide to programming with Swift. | [Programming with Swift](https://programmingwithswift.com/) |
+| Swift Tutorials | Various Swift tutorials and articles. | [Swift with Majid](https://swiftwithmajid.com/categories/) |
+| Swift Articles | Articles and tutorials on Swift programming. | [Swift on Tap](https://swiftontap.com/section) |
+| Swift Cheatsheet | A cheatsheet for Swift 5.1. | [Swift 5.1 Cheatsheet by raywenderlich](https://koenig-media.raywenderlich.com/uploads/2020/12/RW-Swift-5.1-Cheatsheet-1.0.pdf) |
+| Swift Articles | Articles and tutorials on Swift programming. | [Swift by Avanderlee](https://www.avanderlee.com/category/swift/) |
+| Date Formatter Cheatsheet | A cheatsheet for date formatter in Swift. | [Date Formatter Cheatsheet by advancedswift](https://www.advancedswift.com/date-formatter-cheatsheet-formulas-swift/) |
+| iOS Tutorial | A comprehensive iOS tutorial for beginners. | [TutorialsPoint iOS Tutorial](https://www.tutorialspoint.com/ios/) |
+| iOS from Scratch | Learn iOS development from scratch using Swift. | [iOS From Scratch with Swift](https://code.tutsplus.com/series/ios-from-scratch-with-swift--cms-909) |
+| UIKit Documentation | Official documentation for UIKit. | [UIKit Documentation](https://developer.apple.com/documentation/uikit) |
+| Swift Tutorials | Various Swift tutorials and articles. | [Hacking with Swift](https://www.hackingwithswift.com/read) |
+| iOS Examples | Examples of iOS code and tutorials. | [iOS Example](https://iosexample.com/) |
+| iOS Learning Materials | A collection of iOS learning materials. | [iOS Learning Materials](https://github.com/jVirus/ios-learning-materials) |
+| iOS Tutorial | A comprehensive iOS tutorial for beginners. | [iOS Tutorial](https://github.com/Catherine22/iOS-tutorial) |
+| iOS Tutorial | A comprehensive iOS tutorial for beginners. | [iOS Tutorial](https://intellipaat.com/blog/tutorial/ios-tutorial/ios-technologies/?US) |
+| iOS Blog | Blog covering various iOS development topics. | [Use Your Loaf](https://useyourloaf.com/) |
+| Swift Blog | Blog covering various Swift development topics. | [Five Stars Blog](https://www.fivestars.blog/) |
+| Swift Tutorial | A comprehensive Swift tutorial for beginners. | [Swift Tutorial by TutorialsPoint](https://www.tutorialspoint.com/swift/index.htm) |
+| iOS Tutorials | Various iOS tutorials and articles. | [ByBy Dev](https://byby.dev/ios) |
+| Swift Articles | Articles and tutorials on Swift programming. | [Swift Rocks](https://swiftrocks.com/) |
+| iOS Tutorials | Various iOS tutorials and articles. | [CreateChSol Tutorials](https://www.createchsol.com/tutorials/) |
+| Swift Tutorials | Various Swift tutorials and articles. | [Azam Sharp](https://azamsharp.teachable.com/) |
 
 
 
-### Miscellaneous
-
--   [Handling iOS App States with a State Machine](https://blog.codecentric.de/en/2016/07/handling-ios-app-states-state-machine/): This article explains how to use a state machine to manage app states in iOS.
--   [iOS Design Guidelines and Templates](https://learnui.design/blog/ios-design-guidelines-templates.html): This article provides guidelines and templates for designing iOS apps.
--   [iOS Dev Directory](https://iosdevdirectory.com/): This is a directory of iOS developers and companies.
--   [Onmyway133 Blog](https://onmyway133.com/): This blog covers various iOS development topics.
-
--   [Twitter Architecture 2022 vs. 2012]([https://blog.bytebytego.com/p/twitter-architecture-202](https://blog.bytebytego.com/p/twitter-architecture-202)
--   https://medium.com/the-swift-cooperative/2-minute-tips-the-dark-secrets-of-bools-5cb57662a571
-
-### Tutorials and Guides
-
--   [Swift Tutorial by codewithchris](https://codewithchris.com/swift-tutorial-complete/)
--   [Swift Comments and Documentation by advancedswift](https://www.advancedswift.com/comments-documentation-swift/)
--   [Programming with Swift](https://programmingwithswift.com/)
--   [Swift with Majid](https://swiftwithmajid.com/categories/)
--   [Swift on Tap](https://swiftontap.com/section)
--   [Swift 5.1 Cheatsheet by raywenderlich](https://koenig-media.raywenderlich.com/uploads/2020/12/RW-Swift-5.1-Cheatsheet-1.0.pdf)
--   [Swift by Avanderlee](https://www.avanderlee.com/category/swift/)  
-- https://www.advancedswift.com/date-formatter-cheatsheet-formulas-swift/
--   [TutorialsPoint iOS Tutorial](https://www.tutorialspoint.com/ios/)
--   [iOS From Scratch with Swift](https://code.tutsplus.com/series/ios-from-scratch-with-swift--cms-909)
--   [UIKit Documentation](https://developer.apple.com/documentation/uikit)
--   [Hacking with Swift](https://www.hackingwithswift.com/read)
--   [iOS Example](https://iosexample.com/)
--   [iOS Learning Materials](https://github.com/jVirus/ios-learning-materials)
--   [iOS Tutorial](https://github.com/Catherine22/iOS-tutorial)
--   https://intellipaat.com/blog/tutorial/ios-tutorial/ios-technologies/?US
-- https://useyourloaf.com/
-- https://www.fivestars.blog/
-- https://www.tutorialspoint.com/swift/index.htm
-- https://byby.dev/ios
-- https://swiftrocks.com/
-- https://www.createchsol.com/tutorials/
--  https://azamsharp.teachable.com/
--   https://ln.hixie.ch/
 
 -------------------------------------------------------------------------------------------------------------------------
 Objective C
