@@ -83,8 +83,7 @@ iOS: UIKit
   - https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/Introduction/Introduction.html#//apple_ref/doc/uid/TP40002974 (old cocoa to understand objc)
   - https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html#//apple_ref/doc/uid/10000011-SW1 (old cocoa mem management to understand objc)
 
-
-
+### Fundamentals
 
 | Category | Link |
 | --- | --- |
