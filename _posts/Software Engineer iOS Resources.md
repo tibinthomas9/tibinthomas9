@@ -2,19 +2,7 @@
 
 - https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/ComputerScience.md
 
-### Hiring Search
 
-- https://hiring-search.careerflow.ai/
-- https://milena-lemancq.medium.com/how-to-write-a-successful-cv-including-free-template-4f25c06a8815
-- https://grow.google/certificates/interview-warmup/
-- https://www.jobscan.co/
-- https://resumegenerator.io/
-- https://docs.google.com/document/d/1QcZgLCcauW2k1cIC9JcGQFAIfrszyIE2/edit
-- https://www.reddit.com/r/resumes/comments/128xo1c/troubleshooting_your_job_search_when_its_not/
-- https://www.tealhq.com/resume-example/ios-developer
-- 
-
-Resume Inspiration https://jarocki.me/
 
 ### Pending items to add
 
@@ -58,28 +46,43 @@ https://www.createchsol.com/tutorials/
 - https://developer.apple.com/news/site-updates/
 - https://swiftui.design/code
 
-
-
-
-
-# iOS and Swift Resources
-
-Here are some useful resources for learning and preparing for iOS and Swift interviews:
-
 - [iOS and Swift Tree Diagram](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/SwiftAndiOS-Tree.text)
 
-- https://useyourloaf.com/
-- https://www.fivestars.blog/
-- https://www.tutorialspoint.com/swift/index.htm
-- https://byby.dev/ios
+-------------------------------------------------------------------------------------------------------------------------
+Swift Language
+-------------------------------------------------------------------------------------------------------------------------
 
-### Code Review
-- https://github.com/futurice/ios-good-practices
-- https://github.com/aryamansharda/iOS-Pull-Request-Checklist
+# Swift Programming Language
 
-- [iOS Code Review Checklist](https://gist.github.com/pallavtrivedi03/8f4975a41f5b64d8a6af4fd119949d39)
+-   [Apple's Official Swift Documentation](https://developer.apple.com/documentation/swift)
+-   [Swift Access Control in iOS](https://medium.com/hash-coding/swift-access-control-ios-dab45a0b79ab): This article explains the access control levels in Swift.
+-   [Static Patterns in Swift: MVVM Tutorial](https://www.toptal.com/swift/static-patterns-swift-mvvm-tutorial): This tutorial covers the Model-View-ViewModel (MVVM) architecture pattern in Swift.
 
-- https://github.com/BohdanOrlov/architecture-checklist
+-------------------------------------------------------------------------------------------------------------------------
+iOS: SwiftUI
+-------------------------------------------------------------------------------------------------------------------------
+
+# SwiftUI
+[_posts/swiftui.md](https://github.com/tibinthomas9/tibinthomas9/blob/ec48275bc65ede8487326f52ff6091ef665dd932/_posts/swiftui.md)
+
+
+-------------------------------------------------------------------------------------------------------------------------
+iOS: UIKit
+-------------------------------------------------------------------------------------------------------------------------
+
+
+# iOS: UIKit
+
+### Learning Paths
+
+-   [Twitter Thread on iOS Learning Resources](https://twitter.com/onmyway133/status/1500863857257975809?s=20&t=eAM-rnE32cuMWGG6P7gikQ)
+-   [Stack Overflow: Where can I find tutorials on Swift?](https://stackoverflow.com/q/62119815/8181347)
+-   [A Path to Mastery for iOS Development](https://trello.com/b/dOV9dvBu/a-path-to-mastery-for-ios-development)
+-   [Awesome iOS](https://github.com/vsouza/awesome-ios#readme)
+
+-    https://byby.dev/ios
+
+
 
 ###  Apple docs
 
@@ -125,44 +128,10 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   https://releases.llvm.org/12.0.0/tools/clang/docs/
 -   https://indiegoodies.com/awesome-ios
 -   https://theswiftdev.com/
--   https://www.wwdcnotes.com/notes
--   https://www.swiftanytime.com/
--   https://designcode.io/tutorials
 -   https://redblink.com/learn-ios-development/
 -   [differences between Swift, the standard library and Foundation](https://siddarthkalra.github.io/articles/swift-vs-stdlib-vs-foundation/)
     
 
-
-
-
-### Swift Programming Language
-
--   [Apple's Official Swift Documentation](https://developer.apple.com/documentation/swift)
--   [Swift Access Control in iOS](https://medium.com/hash-coding/swift-access-control-ios-dab45a0b79ab): This article explains the access control levels in Swift.
--   [Static Patterns in Swift: MVVM Tutorial](https://www.toptal.com/swift/static-patterns-swift-mvvm-tutorial): This tutorial covers the Model-View-ViewModel (MVVM) architecture pattern in Swift.
-
-### iOS App Architecture
-
-- https://nimblehq.co/blog/modern-approach-modularize-ios-swiftui-spm
-- https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/?US
-- https://www.bestinclassiosapp.com/
-- https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/WhatIsCocoa/WhatIsCocoa.html
-- https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/CocoaApplicationLayer/CocoaApplicationLayer.html
-- [iOS Cocoa Layered Architecture](https://cpb-eu-w2.wpmucdn.com/blogs.brighton.ac.uk/dist/c/2637/files/2017/05/5-1cra1rq.jpg)
-- https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/CoreServicesLayer/CoreServicesLayer.html
-
--   [Architecting SwiftUI apps with MVC and MVVM](https://matteomanferdini.com/wp-content/uploads/2020/05/Architecting-SwiftUI-apps-with-MVC-and-MVVM.pdf): This article compares the Model-View-Controller (MVC) and Model-View-ViewModel (MVVM) architecture patterns for SwiftUI apps.
--   [iOS App Architecture](https://karthikkeyan.medium.com/ios-app-architecture-3f1d1400862f): This article covers various architecture patterns used in iOS app development.
--   [MVVM and Coordinators: iOS Architecture Tutorial](https://medium.com/nerd-for-tech/mvvm-coordinators-ios-architecture-tutorial-fb27eaa36470): This tutorial covers the MVVM architecture pattern and coordinators in iOS app development.
-
--   [iOS Architecture](https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/)
--   [iOS Software Architecture](https://brightdigit.com/articles/ios-software-architecture/)
--   [Accessibility Guidelines for iOS](https://a11y-guidelines.orange.com/en/mobile/ios/)
--   [iOS Switch Control Tutorial](https://www.journaldev.com/22826/ios-uiswitch)
--   [Architecting SwiftUI Apps with MVC and MVVM](https://matteomanferdini.com/wp-content/uploads/2020/05/Architecting-SwiftUI-apps-with-MVC-and-MVVM.pdf)
--   https://medium.engineering/evolution-of-the-medium-ios-app-architecture-8b6090f4508e
--   https://nalexn.github.io/state-management-guide-ios/
--   https://byby.dev/swiftui-state-management
 
 
 ### Application Lifecycle
@@ -171,16 +140,13 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 
 
 
-### Learning Paths
+### Code Review
+- https://github.com/futurice/ios-good-practices
+- https://github.com/aryamansharda/iOS-Pull-Request-Checklist
 
--   [Twitter Thread on iOS Learning Resources](https://twitter.com/onmyway133/status/1500863857257975809?s=20&t=eAM-rnE32cuMWGG6P7gikQ)
--   [Stack Overflow: Where can I find tutorials on Swift?](https://stackoverflow.com/q/62119815/8181347)
--   [A Path to Mastery for iOS Development](https://trello.com/b/dOV9dvBu/a-path-to-mastery-for-ios-development)
--   [Awesome iOS](https://github.com/vsouza/awesome-ios#readme)
+- [iOS Code Review Checklist](https://gist.github.com/pallavtrivedi03/8f4975a41f5b64d8a6af4fd119949d39)
 
--    https://byby.dev/ios
-
-
+- https://github.com/BohdanOrlov/architecture-checklist
 
 ### Optimization and debugging
 
@@ -215,15 +181,75 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [Concurrent Serial DispatchQueue on Blog](https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/)
 -   https://www.avanderlee.com/swift/async-await/
 
-### Swift One-Liners
 
--   [9 Swift One-Liners That Will Make You Look Like an Expert by Namit Gupta](https://namitgupta.com/9-swift-one-liners-that-will-make-you-look-like-an-expert)
--   https://holyswift.app/discovering-all-swiftui-textfield-keyboard-types/
--   https://medium.com/codex/swifts-dictionary-grouping-and-how-underrated-it-is-8de68a50c4f7
+
+
+### Localization and Provisioning
+
+-   [iOS Localization Tutorial](https://medium.com/lean-localization/ios-localization-tutorial-938231f9f881)
+-   [What is a Provisioning Profile in iOS?](https://abhimuralidharan.medium.com/what-is-a-provisioning-profile-in-ios-77987a7c54c2)
 -   
 
+### API 
 
-  ###  Resources to solve hard problems
+- [set-up-a-google-firestore-database-as-an-api-endpoint](https://javascript.plainenglish.io/set-up-a-google-firestore-database-as-an-api-endpoint-a946f8d824d)
+- 
+### Metal, shader, drawing
+- https://cindori.com/developer/swiftui-shaders-wave  Sine Wave and other simple shaders
+- https://www.desmos.com/calculator To find wave functions of shapes
+
+
+
+
+### Security
+
+-   [iOS App Security Best Practices](https://quickbirdstudios.com/blog/ios-app-security-best-practices/)
+-   [SSL Pinning Implementation](https://davepoirier.medium.com/ios-protecting-against-tls-bypass-attacks-391729c5dea9)
+-   https://karol-mazurek95.medium.com/snake-apple-ff87a399ecc4
+-   https://developer.apple.com/documentation/devicecheck/validating-apps-that-connect-to-your-server
+-   https://blog.thomasdurand.fr/story/2023-12-14-dont-ship-api-keys/
+-   https://www.linkedin.com/posts/dave-poirier-a9b25a9_other-than-performance-why-should-you-mark-activity-7149554358722981888-O91I/
+-   https://blog.encoded.life/?source=top_nav_blog_home
+
+
+### Testing
+
+-   [iOS Unit Testing](https://qualitycoding.org/ios-unit-testing/)
+-   [Unit Testing Best Practices](https://www.avanderlee.com/swift/unit-tests-best-practices/)
+
+### Swift Style Guide
+
+-   [Ray Wenderlich's Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
+
+
+
+
+### iOS App Architecture
+
+- https://nimblehq.co/blog/modern-approach-modularize-ios-swiftui-spm
+- https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/?US
+- https://www.bestinclassiosapp.com/
+- https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/WhatIsCocoa/WhatIsCocoa.html
+- https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/CocoaApplicationLayer/CocoaApplicationLayer.html
+- [iOS Cocoa Layered Architecture](https://cpb-eu-w2.wpmucdn.com/blogs.brighton.ac.uk/dist/c/2637/files/2017/05/5-1cra1rq.jpg)
+- https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/CoreServicesLayer/CoreServicesLayer.html
+
+-   [Architecting SwiftUI apps with MVC and MVVM](https://matteomanferdini.com/wp-content/uploads/2020/05/Architecting-SwiftUI-apps-with-MVC-and-MVVM.pdf): This article compares the Model-View-Controller (MVC) and Model-View-ViewModel (MVVM) architecture patterns for SwiftUI apps.
+-   [iOS App Architecture](https://karthikkeyan.medium.com/ios-app-architecture-3f1d1400862f): This article covers various architecture patterns used in iOS app development.
+-   [MVVM and Coordinators: iOS Architecture Tutorial](https://medium.com/nerd-for-tech/mvvm-coordinators-ios-architecture-tutorial-fb27eaa36470): This tutorial covers the MVVM architecture pattern and coordinators in iOS app development.
+
+-   [iOS Architecture](https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/)
+-   [iOS Software Architecture](https://brightdigit.com/articles/ios-software-architecture/)
+-   [Accessibility Guidelines for iOS](https://a11y-guidelines.orange.com/en/mobile/ios/)
+-   [iOS Switch Control Tutorial](https://www.journaldev.com/22826/ios-uiswitch)
+-   [Architecting SwiftUI Apps with MVC and MVVM](https://matteomanferdini.com/wp-content/uploads/2020/05/Architecting-SwiftUI-apps-with-MVC-and-MVVM.pdf)
+-   https://medium.engineering/evolution-of-the-medium-ios-app-architecture-8b6090f4508e
+-   https://nalexn.github.io/state-management-guide-ios/
+-   https://byby.dev/swiftui-state-management
+
+
+###  Resources to solve hard problems
+  
   - https://talk.objc.io/
   - https://www.hackingwithswift.com/example-code
   - https://swiftwithmajid.com/categories/
@@ -236,28 +262,41 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
   - https://fivestars.blog/
   - https://kavsoft.dev/
   - https://designcode.io/swiftui-handbook
+  - https://www.wwdcnotes.com/notes
+  - https://www.swiftanytime.com/
+  - https://designcode.io/tutorials
 
 ## Advanced Topics
 - https://www.youtube.com/watch?v=N6CNFm2WkzI  Create the Apple's Hello Lettering Animation with SwiftUI
 - https://www.youtube.com/watch?v=WMt83Haxg8c MatchedGeometry transition
 
+### Swift One-Liners
 
-
-
-
-### Localization and Provisioning
-
--   [iOS Localization Tutorial](https://medium.com/lean-localization/ios-localization-tutorial-938231f9f881)
--   [What is a Provisioning Profile in iOS?](https://abhimuralidharan.medium.com/what-is-a-provisioning-profile-in-ios-77987a7c54c2)
+-   [9 Swift One-Liners That Will Make You Look Like an Expert by Namit Gupta](https://namitgupta.com/9-swift-one-liners-that-will-make-you-look-like-an-expert)
+-   https://holyswift.app/discovering-all-swiftui-textfield-keyboard-types/
+-   https://medium.com/codex/swifts-dictionary-grouping-and-how-underrated-it-is-8de68a50c4f7
 -   
 
-## API 
+## tips
 
-- [set-up-a-google-firestore-database-as-an-api-endpoint](https://javascript.plainenglish.io/set-up-a-google-firestore-database-as-an-api-endpoint-a946f8d824d)
-- 
-## Metal, shader, drawing
-- https://cindori.com/developer/swiftui-shaders-wave  Sine Wave and other simple shaders
-- https://www.desmos.com/calculator To find wave functions of shapes
+https://x.com/alpennec/status/1760318962523336796?s=20
+
+- How to load a  private sytem class(should not use in production code) - https://github.com/sebjvidal/OnBoardingKit-Demo/blob/main/OnBoardingKit-Demo.swift
+
+*How can you inspect the view hierarchy of built in apps?*
+You need to disable your Mac’s System Integrity Protection, then you can attach to any process in Xcode. Make sure you re-enable when you’re done tinkering though :)
+https://x.com/SebJVidal/status/1759571912802402608?s=20
+
+
+### Miscellaneous
+
+-   [Handling iOS App States with a State Machine](https://blog.codecentric.de/en/2016/07/handling-ios-app-states-state-machine/): This article explains how to use a state machine to manage app states in iOS.
+-   [iOS Design Guidelines and Templates](https://learnui.design/blog/ios-design-guidelines-templates.html): This article provides guidelines and templates for designing iOS apps.
+-   [iOS Dev Directory](https://iosdevdirectory.com/): This is a directory of iOS developers and companies.
+-   [Onmyway133 Blog](https://onmyway133.com/): This blog covers various iOS development topics.
+
+-   [Twitter Architecture 2022 vs. 2012]([https://blog.bytebytego.com/p/twitter-architecture-202](https://blog.bytebytego.com/p/twitter-architecture-202)
+-   https://medium.com/the-swift-cooperative/2-minute-tips-the-dark-secrets-of-bools-5cb57662a571
 
 ### Tutorials and Guides
 
@@ -277,38 +316,18 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [iOS Learning Materials](https://github.com/jVirus/ios-learning-materials)
 -   [iOS Tutorial](https://github.com/Catherine22/iOS-tutorial)
 -   https://intellipaat.com/blog/tutorial/ios-tutorial/ios-technologies/?US
+- https://useyourloaf.com/
+- https://www.fivestars.blog/
+- https://www.tutorialspoint.com/swift/index.htm
+- https://byby.dev/ios
 
-
-### Security
-
--   [iOS App Security Best Practices](https://quickbirdstudios.com/blog/ios-app-security-best-practices/)
--   [SSL Pinning Implementation](https://davepoirier.medium.com/ios-protecting-against-tls-bypass-attacks-391729c5dea9)
--   https://karol-mazurek95.medium.com/snake-apple-ff87a399ecc4
--   https://developer.apple.com/documentation/devicecheck/validating-apps-that-connect-to-your-server
--   https://blog.thomasdurand.fr/story/2023-12-14-dont-ship-api-keys/
--   https://www.linkedin.com/posts/dave-poirier-a9b25a9_other-than-performance-why-should-you-mark-activity-7149554358722981888-O91I/
--   https://blog.encoded.life/?source=top_nav_blog_home
-
-
-### Testing
-
--   [iOS Unit Testing](https://qualitycoding.org/ios-unit-testing/)
--   [Unit Testing Best Practices](https://www.avanderlee.com/swift/unit-tests-best-practices/)
+-------------------------------------------------------------------------------------------------------------------------
+Objective C
+-------------------------------------------------------------------------------------------------------------------------
 
 
 
-### Miscellaneous
-
--   [Handling iOS App States with a State Machine](https://blog.codecentric.de/en/2016/07/handling-ios-app-states-state-machine/): This article explains how to use a state machine to manage app states in iOS.
--   [iOS Design Guidelines and Templates](https://learnui.design/blog/ios-design-guidelines-templates.html): This article provides guidelines and templates for designing iOS apps.
--   [iOS Dev Directory](https://iosdevdirectory.com/): This is a directory of iOS developers and companies.
--   [Onmyway133 Blog](https://onmyway133.com/): This blog covers various iOS development topics.
-
--   [Twitter Architecture 2022 vs. 2012]([https://blog.bytebytego.com/p/twitter-architecture-202](https://blog.bytebytego.com/p/twitter-architecture-202)
--   https://medium.com/the-swift-cooperative/2-minute-tips-the-dark-secrets-of-bools-5cb57662a571
-
-
-## Objective C
+# Objective C
 
 - [ObjectiveC Tree](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/ObjectiveC-Tree.text)
 - https://medium.com/swlh/objective-c-for-swift-developers-ca8196e914ff#:~:text=Objective%2DC%20uses%20a%20combination,default%2C%20all%20objects%20are%20mutable.
@@ -329,6 +348,11 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 
 -   [Objective-C and Swift Interoperability](https://academy.realm.io/posts/altconf-nikita-lutsenko-objc-swift-interoperability/)
 
+
+
+-------------------------------------------------------------------------------------------------------------------------
+Mobile System Design 
+-------------------------------------------------------------------------------------------------------------------------
 
 
 # Mobile System Design Resources
@@ -362,6 +386,7 @@ This is a list of resources that can help you prepare for a mobile system design
 -   [Netflix System Design: Backend Architecture | Dev Community](https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3)
 -   [System Design Hub](https://blog.bytebytego.com/)
 - [Sytem Design Archive bytebytego PDF](https://bytebyte-go.s3.amazonaws.com/ByteByteGo_LinkedIn_PDF.pdf)
+
 ## Checklists
 
 -   [Backend Software Architecture Checklist | freeCodeCamp](https://www.freecodecamp.org/news/have-an-idea-want-to-build-a-product-from-scratch-heres-a-checklist-of-things-you-should-go-through-in-your-backend-software-architecture/)
@@ -372,7 +397,10 @@ This is a list of resources that can help you prepare for a mobile system design
 -   [Schema Example](https://hevodata.com/learn/schema-example/)
 -   [Database Answers Data Models](https://web.archive.org/web/20160308080311/http://www.databaseanswers.org/data_models/)
 
- 
+
+-------------------------------------------------------------------------------------------------------------------------
+ Blogs iOS Development 
+-------------------------------------------------------------------------------------------------------------------------
 ## Blogs iOS Development
 - https://www.linkedin.com/in/shantini-vyas/
 
@@ -401,10 +429,9 @@ This is a list of resources that can help you prepare for a mobile system design
 - https://jacobbartlett.substack.com/
 - https://tanaschita.com/
 - https://christianselig.com/2024/02/introducing-juno/
-- 
-### Swift Style Guide
 
--   [Ray Wenderlich's Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
+  
+
 
 ### Miscellaneous
 
@@ -412,7 +439,9 @@ This is a list of resources that can help you prepare for a mobile system design
 - https://okaxaki.github.io/objc2swift/demo.html
 
 
-
+-------------------------------------------------------------------------------------------------------------------------
+Interviews
+-------------------------------------------------------------------------------------------------------------------------
 
 # Interviews
  ### Interview Resources
@@ -442,45 +471,36 @@ This is a list of resources that can help you prepare for a mobile system design
 -  https://www.testdome.com/tests/ios-swift-online-test/161
 - [SwiftUI Interview Questions and Answers](https://ishtiz.com/swiftui/swiftui-interview-questions-and-answers-part-1): This article provides some common interview questions and answers related to SwiftUI.
 
+
+-------------------------------------------------------------------------------------------------------------------------
+Tools and study plan
+-------------------------------------------------------------------------------------------------------------------------
+
+
+
 Study Plan 
 * https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/startuplinks.md
 
-# SwiftUI
-[_posts/swiftui.md](https://github.com/tibinthomas9/tibinthomas9/blob/ec48275bc65ede8487326f52ff6091ef665dd932/_posts/swiftui.md)
+
+
 
 ## Tools
 
 -   [WTF Auto Layout](https://www.wtfautolayout.com/) - A debugging tool for iOS Auto Layout constraints.
 -   [LazyWeb](https://app.lazyweb.rocks/) - A web tool to generate HTML/CSS code snippets for common UI elements.
 
+-------------------------------------------------------------------------------------------------------------------------
+End
+-------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+## End Notes
+
 Develop a guide for iOS which details out important structured details of iOS development which details most important things to learn like concurrency but also discuss minute non technical details like signing, app Ids,Apples recoomended way, which frameworks use target action pattern, which use singletons, which use delegates ,which use functional programming, protocol programming, event driven or reactive programing(swiftUI, combine, Rxswift), concection between functional and reactive, declarative programming, key value coding and Obeserving. Various values in plist, which functionalities need an associated permission text in plist etc, when to use swift, swiftUI, ObjectiveC, when to use GCD vs Operations vs Threads, where to use value driven programing or reference types, how threads are handled in multi cores, how data gets saved during context switch, importance of ABI stability of swift, how swift, objectivec and C work together in the OS, details about POSIX features, learn from transistor, how SoliD patterns get enforced via protocol oriented programming, how design patterns and different programing patterns work together in swift or Cocoa
 
-
-## Certification course
-
-- Microsoft's Introduction to Quantum Computing on edX : https://www.edx.org/professional-certificate/introduction-to-quantum-computing
-- Google Free digital skills training   https://grow.google/intl/uk/
-- https://www.zdnet.com/article/i-took-this-free-ai-course-for-developers-in-one-weekend-and-highly-recommend-it/
-- https://twitter.com/clarifai/status/1715611422632325575?s=20
-- AWS https://twitter.com/TechWithLucy/status/1716431874661159254?s=20
-- Apple https://developer.apple.com/learn/
-- https://www.isc2.org/certifications/csslp/csslp-certification-exam-outline
-- https://www.ucalgary.ca/pubs/calendar/grad/current/quantum-computing-quac.html
-- https://qiskit.org/learn/course/introduction-course
-- https://www.classcentral.com/subject/quantum-computing
-- https://learn.microsoft.com/en-us/training/paths/quantum-computing-fundamentals/
-- https://www.amarchenkova.com/posts/best-quantum-computing-courses-online
-- https://quantumai.google/education
-- https://365datascience.com/career-advice/career-guides/how-to-find-data-science-job-without-degree/
-- https://courses.minnalearn.com/?show=individuals
-- https://grow.google/intl/ALL_ca/certificates/#?modal_active=none
-- https://www.exampro.co/
-- https://www.testdome.com/tests/ios-swift-online-test/161
-- https://ocw.mit.edu/
-- https://twitter.com/clarifai/status/1715611422632325575?s=20
-- https://www.cloudskillsboost.google/paths/118/course_templates/536
-
-Notes
+ Notes
 
 If you're an iOS engineer looking to prep, save your $75 and do the following instead:
 
@@ -489,16 +509,6 @@ If you're an iOS engineer looking to prep, save your $75 and do the following in
 - For system design, you can't go wrong with the Mobile System Design repo. I'll add a link in the comments.
 - Design shit. Build shit and ask people to review your shit. Hit me up and I'll check it out. No, really. Go look for a free API, pull data down, and display it. Do it in UIKit. Do it in SwiftUI. Build an app that uses websockets. Build an app that uses pagination. Build an app that supports offline shit. Build an app that uses MVVM. Build an app that uses VIPER. Build an app that uses the stack that your target company uses. BUILD SOME DAMN APPS.
 - 
-
-# tips
-
-https://x.com/alpennec/status/1760318962523336796?s=20
-
-- How to load a  private sytem class(should not use in production code) - https://github.com/sebjvidal/OnBoardingKit-Demo/blob/main/OnBoardingKit-Demo.swift
-
-*How can you inspect the view hierarchy of built in apps?*
-You need to disable your Mac’s System Integrity Protection, then you can attach to any process in Xcode. Make sure you re-enable when you’re done tinkering though :)
-https://x.com/SebJVidal/status/1759571912802402608?s=20
 
  🤓 Here's some handy Swift code for calling Objective-C methods with more than two arguments.
 
