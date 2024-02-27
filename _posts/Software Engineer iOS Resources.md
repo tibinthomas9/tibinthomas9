@@ -197,6 +197,7 @@ iOS: UIKit
 ### Networking
 - https://swiftsenpai.com/testing/implemented-http-request-helper-without-server/
 -  https://www.restapitutorial.com/httpstatuscodes.html
+-  https://theswiftdev.com/easy-multipart-file-upload-for-swift/
 
 
 ### Testing
