@@ -84,7 +84,7 @@ iOS: UIKit
   - https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html#//apple_ref/doc/uid/10000011-SW1 (old cocoa mem management to understand objc)
 
 
-Sure, here's the information organized into a table:
+
 
 | Category | Link |
 | --- | --- |
