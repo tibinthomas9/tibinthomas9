@@ -45,13 +45,14 @@ iOS: UIKit
 
 # iOS: UIKit
 
-### Learning Paths
+### Learning Paths 
 
 -   [Twitter Thread on iOS Learning Resources](https://twitter.com/onmyway133/status/1500863857257975809?s=20&t=eAM-rnE32cuMWGG6P7gikQ)
 -   [Stack Overflow: Where can I find tutorials on Swift?](https://stackoverflow.com/q/62119815/8181347)
 -   [A Path to Mastery for iOS Development](https://trello.com/b/dOV9dvBu/a-path-to-mastery-for-ios-development)
 -   [Awesome iOS](https://github.com/vsouza/awesome-ios#readme)
 -    https://byby.dev/ios
+-   https://indiegoodies.com/awesome-ios
 
 
 
@@ -98,7 +99,6 @@ iOS: UIKit
 - -  https://medium.com/@nishant.kumbhare4/solid-principles-in-swift-73b505d3c63f
 -   https://www.kodeco.com/books/swiftui-cookbook
 -   https://releases.llvm.org/12.0.0/tools/clang/docs/
--   https://indiegoodies.com/awesome-ios
 -   https://theswiftdev.com/
 -   https://redblink.com/learn-ios-development/
 -   [differences between Swift, the standard library and Foundation](https://siddarthkalra.github.io/articles/swift-vs-stdlib-vs-foundation/)
