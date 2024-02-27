@@ -76,6 +76,7 @@ https://claude.ai/chat
 - [Transistor to Web tree](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/TransistorToWebTree.text)
 - https://github.com/apple/swift/blob/main/docs/GenericsManifesto.md
 - https://levelup.gitconnected.com/16-system-design-concepts-i-wish-i-knew-before-the-interview-b8586e40a73b
+- https://newsletter.systemdesign.one/
 
 
 
