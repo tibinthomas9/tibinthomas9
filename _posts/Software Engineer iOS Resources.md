@@ -55,33 +55,34 @@ iOS: UIKit
 -   https://indiegoodies.com/awesome-ios
 
 
+# Apple Docs
 
-###  Apple docs
-
-- [Updates](https://developer.apple.com/documentation/updates/) - View major documentation updates from WWDC, jump to the latest release notes, and browse ongoing updates from a set of framework releases over tim
-- [App Extension](https://developer.apple.com/app-extensions/)
-- [Objective C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
-- [Whats new ](https://developer.apple.com/whats-new/) Learn about the key technologies and exciting capabilities available in the latest SDKs for Apple platforms.
--  [Planning an App] (https://developer.apple.com/ios/planning/)
--  [All technologies] (https://developer.apple.com/documentation/technologies)
--  [MVVM for SwiftUI Thread Discusion](https://developer.apple.com/forums/thread/699003)
--  [iOS70APIDiffs] (https://developer.apple.com/library/archive/releasenotes/General/iOS70APIDiffs/)
-- [Preparing Your UI to Run in the Background](https://developer.apple.com/documentation/uikit/app_and_environment/scenes/preparing_your_ui_to_run_in_the_background)
-- https://web.archive.org/web/20200529121825/https://developer.apple.com/documentation/
-- https://docs.swift.org/swift-book/documentation/the-swift-programming-language [swift language documentation]
-- https://developer.apple.com/documentation/swift/ [swift standard library documendation]
-- https://developer.apple.com/documentation/foundation [ios(swift) foundation documentation]
-- https://www.swift.org/about/ [swift language overview]
-- https://developer.apple.com/documentation/corefoundation [advanced: swift corefoundation documentation]
-- https://developer.apple.com/documentation/xcode/ [important tips on debugging]
-- https://developer.apple.com/documentation/objectivec
-- https://developer.apple.com/documentation/uikit
-- https://developer.apple.com/documentation/SwiftUI
-- https://developer.apple.com/documentation/Combine
-- https://developer.apple.com/documentation/technologies?tags=App%20Services
-- https://developer.apple.com/news/site-updates/
-  - https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/Introduction/Introduction.html#//apple_ref/doc/uid/TP40002974 (old cocoa to understand objc)
-  - https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html#//apple_ref/doc/uid/10000011-SW1 (old cocoa mem management to understand objc)
+| Category | Item | Description | Link |
+| --- | --- | --- | --- |
+| Apple Docs | Updates | View major documentation updates from WWDC, latest release notes, and ongoing updates | [Updates](https://developer.apple.com/documentation/updates/) |
+|  | App Extension | - | [App Extension](https://developer.apple.com/app-extensions/) |
+|  | Objective C | Introduction to Objective-C programming | [Objective C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) |
+|  | What's New | Key technologies and capabilities in the latest SDKs for Apple platforms | [What's New](https://developer.apple.com/whats-new/) |
+|  | Planning an App | - | [Planning an App](https://developer.apple.com/ios/planning/) |
+|  | All Technologies | - | [All Technologies](https://developer.apple.com/documentation/technologies) |
+|  | MVVM for SwiftUI Thread Discussion | - | [MVVM for SwiftUI Thread Discussion](https://developer.apple.com/forums/thread/699003) |
+|  | iOS70APIDiffs | - | [iOS70APIDiffs](https://developer.apple.com/library/archive/releasenotes/General/iOS70APIDiffs/) |
+|  | Preparing Your UI to Run in the Background | - | [Preparing Your UI to Run in the Background](https://developer.apple.com/documentation/uikit/app_and_environment/scenes/preparing_your_ui_to_run_in_the_background) |
+| Swift | Swift Language Documentation | The Swift Programming Language | [Swift Language Documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language) |
+|  | Swift Standard Library Documentation | - | [Swift Standard Library Documentation](https://developer.apple.com/documentation/swift/) |
+|  | iOS (Swift) Foundation Documentation | - | [iOS (Swift) Foundation Documentation](https://developer.apple.com/documentation/foundation) |
+|  | Swift Language Overview | - | [Swift Language Overview](https://www.swift.org/about/) |
+|  | Swift CoreFoundation Documentation | Advanced | [Swift CoreFoundation Documentation](https://developer.apple.com/documentation/corefoundation) |
+| Tools | Xcode | Important tips on debugging | [Xcode](https://developer.apple.com/documentation/xcode/) |
+| Frameworks | Objective-C | - | [Objective-C](https://developer.apple.com/documentation/objectivec) |
+|  | UIKit | - | [UIKit](https://developer.apple.com/documentation/uikit) |
+|  | SwiftUI | - | [SwiftUI](https://developer.apple.com/documentation/SwiftUI) |
+|  | Combine | - | [Combine](https://developer.apple.com/documentation/Combine) |
+|  | App Services | - | [App Services](https://developer.apple.com/documentation/technologies?tags=App%20Services) |
+| Old Cocoa | Understanding Objective-C | - | [Old Cocoa to Understand Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/Introduction/Introduction.html#//apple_ref/doc/uid/TP40002974) |
+|  | Memory Management | - | [Old Cocoa Memory Management to Understand Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html#//apple_ref/doc/uid/10000011-SW1) |
+| Others | Site Updates | - | [Site Updates](https://developer.apple.com/news/site-updates/) |
+|  | Archived Apple Developer Documentation | - | [Archived Apple Developer Documentation](https://web.archive.org/web/20200529121825/https://developer.apple.com/documentation/) |
 
 ### Fundamentals
 
