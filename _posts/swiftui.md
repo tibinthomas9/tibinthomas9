@@ -1,5 +1,12 @@
-# SwiftUI Resources
+# SwiftUI and tvos Resources
 
+
+-https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/
+- https://fatbobman.medium.com/building-adaptable-swiftui-applications-for-multiple-platforms-964624fa7b2
+- https://azamsharp.teachable.com/p/swiftui-cookbook-over-100-recipes-for-building-ios-apps1
+-  https://dev.to/jameson/swiftui-with-swiftdata-through-repository-36d1
+- https://betterprogramming.pub/swiftui-the-unsafeobservedobject-quiz-467bb8554262
+-  https://medium.com/expedia-group-tech/lessons-in-swiftui-2a1e1ae03f2a
 
 
 
