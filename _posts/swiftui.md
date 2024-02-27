@@ -1,6 +1,7 @@
 # SwiftUI and tvos Resources
 
-Sure, I can help organize these links into categories. Here's a simple table:
+
+
 
 | Category | Link |
 | --- | --- |
@@ -13,7 +14,20 @@ Sure, I can help organize these links into categories. Here's a simple table:
 | | [On the Road to Learn SwiftUI](https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c) |
 | | [SwiftUI Relationship to UIKit and AppKit](https://wwdcbysundell.com/2019/swiftui-relationship-to-uikit-appkit/) |
 | | [SwiftUI Video Streaming App](https://getstream.io/blog/swiftui-video-streaming-app/) |
+| | [Learn SwiftUI Text](https://www.appcoda.com/learnswiftui/swiftui-text.html) |
+| | [SwiftUI Apprentice: Checking Your Tools](https://www.raywenderlich.com/books/swiftui-apprentice/v1.0/chapters/1-checking-your-tools#toc-chapter-007-anchor-001) |
+| | [Stop Using MVVM with SwiftUI](https://medium.com/@karamage/stop-using-mvvm-with-swiftui-2c46eb2cc8dc) |
+| | [Avoiding Massive SwiftUI Views](https://www.swiftbysundell.com/articles/avoiding-massive-swiftui-views/) |
+| | [State of SwiftUI](https://steipete.com/posts/state-of-swiftui/) |
+| | [SwiftUI Empty State](https://peterfriese.dev/posts/swiftui-empty-state/) |
+| | [Swiftui integration at big companies](https://azamsharp.com/2023/02/28/building-large-scale-apps-swiftui.html) |
+| | [Unlocking SwiftUI at Airbnb](https://medium.com/airbnb-engineering/unlocking-swiftui-at-airbnb-ea58f50cde49) |
+| | [Lessons building iOS widgets](https://shopify.engineering/lessons-building-ios-widgets) |
 | **Courses/Tutorials** | [SwiftUI Cookbook: Over 100 Recipes for Building iOS Apps](https://azamsharp.teachable.com/p/swiftui-cookbook-over-100-recipes-for-building-ios-apps1) |
+| | [SwiftUI Tutorials](https://designcode.io/tutorials) |
+| | [SwiftjectiveC Snips](https://www.swiftjectivec.com/snips) |
+| | [SwiftUI Quick Implementations](https://trailingclosure.com/) |
+| | [SwiftUI Cookbook](https://www.kodeco.com/books/swiftui-cookbook) |
 | **Documentation** | [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui/) |
 | | [SwiftUI Main Topics Tree](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/SwiftUITree.text) |
 | | [SwiftUI Data Flow](https://kean.blog/post/swiftui-data-flow#:~:text=When%20the%20data%20changes%2C%20either%20due%20to%20an,is%20often%20referred%20to%20as%20unidirectional%20data%20flow.) |
@@ -28,38 +42,10 @@ Sure, I can help organize these links into categories. Here's a simple table:
 | | [A Companion for SwiftUI](https://apps.apple.com/us/app/a-companion-for-swiftui/id1485436674?mt=12) |
 | **Notes/Study Material** | [SwiftUI Notes](https://heckj.github.io/swiftui-notes/) |
 | | [WWDC23 SwiftUI](https://midnight-beanie-ccb.notion.site/WWDC23-SwiftUI-520489da7e914cd18b5f5e43eeeec069) |
-
-  ## SwiftUI Quick implementations
-  
-- https://designcode.io/tutorials
-- https://www.swiftjectivec.com/snips
-- https://trailingclosure.com/
-- https://www.kodeco.com/books/swiftui-cookbook
-
-## Swiftui integration at big comapnies
-- https://azamsharp.com/2023/02/28/building-large-scale-apps-swiftui.html
-- https://medium.com/airbnb-engineering/unlocking-swiftui-at-airbnb-ea58f50cde49
-- https://shopify.engineering/lessons-building-ios-widgets
-- 
-
-
-
-### Tutorials and Articles
-
--   [Learn SwiftUI Text](https://www.appcoda.com/learnswiftui/swiftui-text.html)
--   [SwiftUI Apprentice: Checking Your Tools](https://www.raywenderlich.com/books/swiftui-apprentice/v1.0/chapters/1-checking-your-tools#toc-chapter-007-anchor-001)
--   [Stop Using MVVM with SwiftUI](https://medium.com/@karamage/stop-using-mvvm-with-swiftui-2c46eb2cc8dc)
--   [Avoiding Massive SwiftUI Views](https://www.swiftbysundell.com/articles/avoiding-massive-swiftui-views/)
--   [State of SwiftUI](https://steipete.com/posts/state-of-swiftui/)
--   [SwiftUI Empty State](https://peterfriese.dev/posts/swiftui-empty-state/)
--   https://swiftui-lab.com/
-
-
-### GitHub Repositories
-
--   [ygit/SwiftUI](https://github.com/ygit/swiftui)
--   [SwiftUI Animations](https://github.com/Inncoder/SwiftUI-Animations)
--   [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet)
+| **GitHub Repositories** | [ygit/SwiftUI](https://github.com/ygit/swiftui) |
+| | [SwiftUI Animations](https://github.com/Inncoder/SwiftUI-Animations) |
+| | [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) |
+| | [SwiftUI Lab](https://swiftui-lab.com/) |
 
 
 
