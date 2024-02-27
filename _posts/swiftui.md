@@ -19,7 +19,6 @@
 -  [SwiftUI Data Flow](https://kean.blog/post/swiftui-data-flow#:~:text=When%20the%20data%20changes%2C%20either%20due%20to%20an,is%20often%20referred%20to%20as%20unidirectional%20data%20flow.) (source)
 -  [SwiftUI Data Flow](https://matteomanferdini.com/swiftui-data-flow/)
 -  [Swiftui-relationship-to-uikit-appkit](https://wwdcbysundell.com/2019/swiftui-relationship-to-uikit-appkit/)
--  Xcode cheat sheet https://twitter.com/ishtiz_/status/1716786616457654331
 -  https://getstream.io/blog/swiftui-video-streaming-app/
 -  https://medium.com/@oradwan037/swiftui-under-the-hood-ec5330d9d28c
 -  https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c
@@ -36,6 +35,7 @@
 - https://designcode.io/tutorials
 - https://www.swiftjectivec.com/snips
 - https://trailingclosure.com/
+- https://www.kodeco.com/books/swiftui-cookbook
 
 ## Swiftui integration at big comapnies
 - https://azamsharp.com/2023/02/28/building-large-scale-apps-swiftui.html
