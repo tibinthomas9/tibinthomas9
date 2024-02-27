@@ -3,6 +3,20 @@
 
 - https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/ComputerScience.md
 
+### Hiring Search
+
+- https://hiring-search.careerflow.ai/
+- https://milena-lemancq.medium.com/how-to-write-a-successful-cv-including-free-template-4f25c06a8815
+- https://grow.google/certificates/interview-warmup/
+- https://www.jobscan.co/
+- https://resumegenerator.io/
+- https://docs.google.com/document/d/1QcZgLCcauW2k1cIC9JcGQFAIfrszyIE2/edit
+- https://www.reddit.com/r/resumes/comments/128xo1c/troubleshooting_your_job_search_when_its_not/
+- https://www.tealhq.com/resume-example/ios-developer
+- 
+
+Resume Inspiration https://jarocki.me/
+
 
 
 ### Pending items to add
@@ -239,12 +253,14 @@ Here are some useful resources for learning data structures and algorithms:
 -   [Recursion is not hard: Here is the right way to think](https://99x.io/blog/recursion-is-not-hard-here-is-the-right-way-to-think)
 -   [Recursion Tutorial for Beginners | Byte by Byte](https://www.youtube.com/watch?v=B3U6LExgevE&ab_channel=BytebyByte)
 -   [Coding Interview Concepts | Enjoy Algorithms](https://www.enjoyalgorithms.com/tags/coding-interview-concepts/)
+
 ## Cool
 - https://twitter.com/ConcreteSciFi/status/1735334632252702858?s=20
 - https://tinygrad.org/
 
 ## LLM
 - https://mphr.notion.site/Intro-To-Large-Language-Models-LLMs-a89c1750c71545dc88717d01c4552f0d
+- 
 ## System Design
 - https://codingchallenges.fyi/challenges/challenge-load-tester/
 - https://twitter.com/ashishps_1/status/1740257104718696611?s=20
@@ -256,3 +272,27 @@ Here are some useful resources for learning data structures and algorithms:
 - https://twitter.com/alexxubyte/status/1720103447109009410?s=20
 - https://twitter.com/amuldotexe/status/1719635293555564762
 - https://docs.google.com/spreadsheets/d/1zNLbd4ShNbJ0xxLBjVmGY6VKkDjIkRsw3RWRfnakLM8/edit#gid=0
+
+## Certification course
+
+- Microsoft's Introduction to Quantum Computing on edX : https://www.edx.org/professional-certificate/introduction-to-quantum-computing
+- Google Free digital skills training   https://grow.google/intl/uk/
+- https://www.zdnet.com/article/i-took-this-free-ai-course-for-developers-in-one-weekend-and-highly-recommend-it/
+- https://twitter.com/clarifai/status/1715611422632325575?s=20
+- AWS https://twitter.com/TechWithLucy/status/1716431874661159254?s=20
+- Apple https://developer.apple.com/learn/
+- https://www.isc2.org/certifications/csslp/csslp-certification-exam-outline
+- https://www.ucalgary.ca/pubs/calendar/grad/current/quantum-computing-quac.html
+- https://qiskit.org/learn/course/introduction-course
+- https://www.classcentral.com/subject/quantum-computing
+- https://learn.microsoft.com/en-us/training/paths/quantum-computing-fundamentals/
+- https://www.amarchenkova.com/posts/best-quantum-computing-courses-online
+- https://quantumai.google/education
+- https://365datascience.com/career-advice/career-guides/how-to-find-data-science-job-without-degree/
+- https://courses.minnalearn.com/?show=individuals
+- https://grow.google/intl/ALL_ca/certificates/#?modal_active=none
+- https://www.exampro.co/
+- https://www.testdome.com/tests/ios-swift-online-test/161
+- https://ocw.mit.edu/
+- https://twitter.com/clarifai/status/1715611422632325575?s=20
+- https://www.cloudskillsboost.google/paths/118/course_templates/536
