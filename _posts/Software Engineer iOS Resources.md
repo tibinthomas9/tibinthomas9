@@ -107,7 +107,7 @@ iOS: UIKit
 | Application Lifecycle in iOS | [Link](https://manasaprema04.medium.com/application-life-cycle-in-ios-f7365d8c1636) |
 
 
-
+### Code Review 
 | Category | Link |
 | --- | --- |
 | **Code Review** | |
@@ -117,7 +117,7 @@ iOS: UIKit
 | Architecture Checklist | [Link](https://github.com/BohdanOrlov/architecture-checklist) |
 
 
-
+### Optimization and Debugging
 | Category | Link |
 | --- | --- |
 | **Optimization and Debugging** | |
@@ -130,6 +130,7 @@ iOS: UIKit
 | iOS Code Review | [Link](https://ioscodereview.com/) |
 
 
+###  Design Patterns
 | Category | Link |
 | --- | --- |
 | **Design Patterns** | |
@@ -139,6 +140,8 @@ iOS: UIKit
 | iOS Design Patterns | [Link](https://chetan-aggarwal.medium.com/ios-design-patterns-f478abd78132) |
 | Twitter: Milan Milanovic | [Link](https://twitter.com/milan_milanovic/status/1714955962098884628?t=4Qwaf8FFTR4k18_0MyEYGA&s=19) |
 
+
+###  Concurrency 
 
 | Category | Link |
 | --- | --- |
@@ -152,14 +155,33 @@ iOS: UIKit
 | Concurrent Serial DispatchQueue on Blog | [Link](https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/) |
 | Async Await in Swift | [Link](https://www.avanderlee.com/swift/async-await/) |
 | DispatchGroup Notify Before Task Finish | [Link](https://stackoverflow.com/questions/49376157/swift-dispatchgroup-notify-before-task-finish) |
+
+
+
+###  Project and App Config 
+
+| Category | Link |
+| --- | --- |
 | **Project and App Config** | |
 | Feature Flags with Real-Time Remote Config | [Link](https://firebase.blog/posts/2023/06/feature-flags-with-real-time-remote-config/) |
+
+
+###  Localization and Provisioning 
+
+| Category | Link |
+| --- | --- |
 | **Localization and Provisioning** | |
 | iOS Localization Tutorial | [Link](https://medium.com/lean-localization/ios-localization-tutorial-938231f9f881) |
 | What is a Provisioning Profile in iOS? | [Link](https://abhimuralidharan.medium.com/what-is-a-provisioning-profile-in-ios-77987a7c54c2) |
 | **API** | |
 | Set Up a Google Firestore Database as an API Endpoint | [Link](https://javascript.plainenglish.io/set-up-a-google-firestore-database-as-an-api-endpoint-a946f8d824d) |
 | Leveraging Apple's New Swift OpenAPI Generator | [Link](https://shape.dk/news-and-knowledge/leveraging-apples-new-swift-openapi-generator) |
+
+
+### Design 
+
+| Category | Link |
+| --- | --- |
 | **Design** | |
 | WWDC22: Designing Great Apps | [Link](https://developer.apple.com/videos/play/wwdc2022/10059/) |
 | **Metal, Shader, Drawing** | |
@@ -167,6 +189,7 @@ iOS: UIKit
 | Desmos Calculator | [Link](https://www.desmos.com/calculator) |
 
 
+### Security 
 
 | Category | Link |
 | --- | --- |
@@ -181,6 +204,8 @@ iOS: UIKit
 | Secure Coding Guide: Buffer Overflows | [Link](https://developer.apple.com/library/archive/documentation/Security/Conceptual/SecureCodingGuide/Articles/BufferOverflows.html) |
 
 
+### Networking 
+
 | Category | Link |
 | --- | --- |
 | **Networking** | |
@@ -188,6 +213,8 @@ iOS: UIKit
 | HTTP Status Codes | [Link](https://www.restapitutorial.com/httpstatuscodes.html) |
 | Easy Multipart File Upload for Swift | [Link](https://theswiftdev.com/easy-multipart-file-upload-for-swift/) |
 
+
+### Testing 
 
 | Category | Link |
 | --- | --- |
