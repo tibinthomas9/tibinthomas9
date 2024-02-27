@@ -213,32 +213,27 @@ iOS: UIKit
 
 
 
+### iOS App Architecture Overview
 
-### iOS App Architecture
-
-- https://nimblehq.co/blog/modern-approach-modularize-ios-swiftui-spm
-- https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/?US
-- https://www.bestinclassiosapp.com/
-- https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/WhatIsCocoa/WhatIsCocoa.html
-- https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/CocoaApplicationLayer/CocoaApplicationLayer.html
-- [iOS Cocoa Layered Architecture](https://cpb-eu-w2.wpmucdn.com/blogs.brighton.ac.uk/dist/c/2637/files/2017/05/5-1cra1rq.jpg)
-- https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/CoreServicesLayer/CoreServicesLayer.html
-
--   [Architecting SwiftUI apps with MVC and MVVM](https://matteomanferdini.com/wp-content/uploads/2020/05/Architecting-SwiftUI-apps-with-MVC-and-MVVM.pdf): This article compares the Model-View-Controller (MVC) and Model-View-ViewModel (MVVM) architecture patterns for SwiftUI apps.
--   [iOS App Architecture](https://karthikkeyan.medium.com/ios-app-architecture-3f1d1400862f): This article covers various architecture patterns used in iOS app development.
--   [MVVM and Coordinators: iOS Architecture Tutorial](https://medium.com/nerd-for-tech/mvvm-coordinators-ios-architecture-tutorial-fb27eaa36470): This tutorial covers the MVVM architecture pattern and coordinators in iOS app development.
-
--   [iOS Architecture](https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/)
--   [iOS Software Architecture](https://brightdigit.com/articles/ios-software-architecture/)
--   [Accessibility Guidelines for iOS](https://a11y-guidelines.orange.com/en/mobile/ios/)
--   [iOS Switch Control Tutorial](https://www.journaldev.com/22826/ios-uiswitch)
--   [Architecting SwiftUI Apps with MVC and MVVM](https://matteomanferdini.com/wp-content/uploads/2020/05/Architecting-SwiftUI-apps-with-MVC-and-MVVM.pdf)
--   https://medium.engineering/evolution-of-the-medium-ios-app-architecture-8b6090f4508e
--   https://nalexn.github.io/state-management-guide-ios/
--   https://byby.dev/swiftui-state-management
--  https://betterprogramming.pub/swiftui-choosing-an-application-architecture-6ec9289f8e8f
--  - https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper/
-
+| Category | Link | Description |
+| --- | --- | --- |
+| **iOS App Architecture Overview** | [iOS App Architecture](https://karthikkeyan.medium.com/ios-app-architecture-3f1d1400862f) | Covers various architecture patterns used in iOS app development. |
+|  | [iOS Software Architecture](https://brightdigit.com/articles/ios-software-architecture/) | Provides an overview of iOS software architecture. |
+|  | [iOS Architecture](https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/) | An introduction to iOS architecture. |
+| **Cocoa and Core Services Layer** | [Cocoa Fundamentals](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/WhatIsCocoa/WhatIsCocoa.html) | An overview of the Cocoa layer in iOS architecture. |
+|  | [Cocoa Application Layer](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/CocoaApplicationLayer/CocoaApplicationLayer.html) | A detailed look at the Cocoa Application Layer. |
+|  | [iOS Cocoa Layered Architecture](https://cpb-eu-w2.wpmucdn.com/blogs.brighton.ac.uk/dist/c/2637/files/2017/05/5-1cra1rq.jpg) | An image depicting the Cocoa Layered Architecture. |
+|  | [Core Services Layer](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/CoreServicesLayer/CoreServicesLayer.html) | An overview of the Core Services Layer in iOS architecture. |
+| **Modularization and SPM** | [Modern Approach to Modularize iOS using SwiftUI and SPM](https://nimblehq.co/blog/modern-approach-modularize-ios-swiftui-spm) | Discusses how to modularize iOS apps using SwiftUI and Swift Package Manager. |
+| **MVC and MVVM Patterns** | [Architecting SwiftUI Apps with MVC and MVVM](https://matteomanferdini.com/wp-content/uploads/2020/05/Architecting-SwiftUI-apps-with-MVC-and-MVVM.pdf) | Compares the Model-View-Controller (MVC) and Model-View-ViewModel (MVVM) architecture patterns for SwiftUI apps. |
+|  | [MVVM and Coordinators: iOS Architecture Tutorial](https://medium.com/nerd-for-tech/mvvm-coordinators-ios-architecture-tutorial-fb27eaa36470) | A tutorial on the MVVM architecture pattern and coordinators in iOS app development. |
+| **State Management** | [Evolution of the Medium iOS App Architecture](https://medium.engineering/evolution-of-the-medium-ios-app-architecture-8b6090f4508e) | Discusses the evolution of the Medium iOS app architecture with a focus on state management. |
+|  | [State Management Guide for iOS](https://nalexn.github.io/state-management-guide-ios/) | A guide to state management in iOS apps. |
+|  | [SwiftUI State Management](https://byby.dev/swiftui-state-management) | An article on state management in SwiftUI. |
+| **Accessibility** | [Accessibility Guidelines for iOS](https://a11y-guidelines.orange.com/en/mobile/ios/) | Provides guidelines for making iOS apps accessible. |
+|  | [iOS Switch Control Tutorial](https://www.journaldev.com/22826/ios-uiswitch) | A tutorial on using Switch Control in iOS for accessibility. |
+| **Additional Resources** | [Choosing an Application Architecture for iOS](https://betterprogramming.pub/swiftui-choosing-an-application-architecture-6ec9289f8e8f) | Discusses different architecture patterns for iOS and how to choose the right one. |
+|  | [iOS Architecture: MVC, MVVM, VIPER and more](https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper/) | A talk on various iOS architecture patterns. |
 
 ###  Resources to solve hard problems
   
