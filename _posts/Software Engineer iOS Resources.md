@@ -71,6 +71,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 - https://useyourloaf.com/
 - https://www.fivestars.blog/
 - https://www.tutorialspoint.com/swift/index.htm
+- https://byby.dev/ios
 
 ### Code Review
 - https://github.com/futurice/ios-good-practices
@@ -177,7 +178,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [A Path to Mastery for iOS Development](https://trello.com/b/dOV9dvBu/a-path-to-mastery-for-ios-development)
 -   [Awesome iOS](https://github.com/vsouza/awesome-ios#readme)
 
--   
+-    https://byby.dev/ios
 
 
 
@@ -219,6 +220,28 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   [9 Swift One-Liners That Will Make You Look Like an Expert by Namit Gupta](https://namitgupta.com/9-swift-one-liners-that-will-make-you-look-like-an-expert)
 -   https://holyswift.app/discovering-all-swiftui-textfield-keyboard-types/
 -   https://medium.com/codex/swifts-dictionary-grouping-and-how-underrated-it-is-8de68a50c4f7
+-   
+
+
+  ###  Resources to solve hard problems
+  - https://talk.objc.io/
+  - https://www.hackingwithswift.com/example-code
+  - https://swiftwithmajid.com/categories/
+  - https://www.advancedswift.com/
+  - https://programmingwithswift.com/
+  - https://iosexample.com/
+  - https://github.com/eleev/ios-learning-materials
+  - https://iosdevdirectory.com/
+  - https://www.swiftwithvincent.com/
+  - https://fivestars.blog/
+  - https://kavsoft.dev/
+  - https://designcode.io/swiftui-handbook
+
+## Advanced Topics
+- https://www.youtube.com/watch?v=N6CNFm2WkzI  Create the Apple's Hello Lettering Animation with SwiftUI
+- https://www.youtube.com/watch?v=WMt83Haxg8c MatchedGeometry transition
+
+
 
 
 
@@ -264,6 +287,7 @@ Here are some useful resources for learning and preparing for iOS and Swift inte
 -   https://developer.apple.com/documentation/devicecheck/validating-apps-that-connect-to-your-server
 -   https://blog.thomasdurand.fr/story/2023-12-14-dont-ship-api-keys/
 -   https://www.linkedin.com/posts/dave-poirier-a9b25a9_other-than-performance-why-should-you-mark-activity-7149554358722981888-O91I/
+-   https://blog.encoded.life/?source=top_nav_blog_home
 
 
 ### Testing
