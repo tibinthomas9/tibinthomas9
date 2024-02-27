@@ -264,6 +264,8 @@ iOS: UIKit
 ## Advanced Topics
 - https://www.youtube.com/watch?v=N6CNFm2WkzI  Create the Apple's Hello Lettering Animation with SwiftUI
 - https://www.youtube.com/watch?v=WMt83Haxg8c MatchedGeometry transition
+- https://developer.apple.com/documentation/uikit/views_and_controls/collection_views/implementing_modern_collection_views
+UIColloection view compositional layout
 
 ### Swift One-Liners
 
@@ -283,6 +285,9 @@ You need to disable your Mac’s System Integrity Protection, then you can attac
 
 - https://x.com/SebJVidal/status/1759571912802402608?s=20
 -  Xcode cheat sheet https://twitter.com/ishtiz_/status/1716786616457654331
+
+
+
 
 
 ### Miscellaneous
