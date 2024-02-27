@@ -33,7 +33,7 @@ iOS: SwiftUI
 
 # SwiftUI
 [_posts/swiftui.md]
-(https://github.com/tibinthomas9/tibinthomas9/blob/ec48275bc65ede8487326f52ff6091ef665dd932/_posts/swiftui.md)
+(https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/swiftui.md)
 
 
 
