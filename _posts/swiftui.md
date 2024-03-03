@@ -1,7 +1,7 @@
 # SwiftUI and tvos Resources
 
 
-
+- Inverted mask https://stackoverflow.com/questions/59656117/swiftui-add-inverted-mask
 
 | Category | Link |
 | --- | --- |
