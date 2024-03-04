@@ -129,6 +129,8 @@ iOS: UIKit
 | Debugging Crashes in iOS | [Link](https://riptutorial.com/ios/topic/4745/debugging-crashes) |
 | Thread Sanitizer Data Races | [Link](https://www.avanderlee.com/swift/thread-sanitizer-data-races/) |
 | iOS Code Review | [Link](https://ioscodereview.com/) |
+| List performance stress test | [Link](https://x.com/swiftyplace/status/1764585415950905778?s=20) |
+
 
 
 ###  Design Patterns
