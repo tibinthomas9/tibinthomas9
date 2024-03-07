@@ -298,3 +298,4 @@ Here are some useful resources for learning data structures and algorithms:
 - https://twitter.com/clarifai/status/1715611422632325575?s=20
 - https://www.cloudskillsboost.google/paths/118/course_templates/536
 - https://www.d2l.ai/index.html
+- https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/
