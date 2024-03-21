@@ -98,3 +98,12 @@ https://developer.apple.com/videos/all-videos/
 
 
 
+
+ Extra
+
+ https://medium.com/@meetmendapara09/the-ios-developer-roadmap-in-2024-navigating-the-apple-ecosystem-34c3b88f1825
+ https://medium.com/@andres.carort/ios-developer-roadmap-2023-330fd5cb7479
+
+
+
+
