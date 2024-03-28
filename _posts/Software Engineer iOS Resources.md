@@ -57,6 +57,7 @@ iOS: UIKit
 -    https://byby.dev/ios
 -   https://indiegoodies.com/awesome-ios
 -   https://www.franciscomoretti.com/code-tips
+-   https://medium.com/@andres.carort/ios-developer-roadmap-2023-330fd5cb7479
 
 
 # Apple Docs
