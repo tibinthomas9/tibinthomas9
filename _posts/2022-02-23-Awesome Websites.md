@@ -15,6 +15,7 @@
 https://www.mathsisfun.com/games/index.html
 https://coolthingsifoundontheinternet.com/brian
 https://explorer.globe.engineer/
+https://docs.anthropic.com/claude/prompt-library
 
 
 # List of Interesting Websites
