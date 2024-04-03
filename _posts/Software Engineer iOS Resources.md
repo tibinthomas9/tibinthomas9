@@ -10,6 +10,7 @@
 
 https://twitter.com/the_gonchar/status/1765100853160194483
 https://gizemturker.com/
+https://developer.apple.com/tutorials/develop-in-swift
 
 
 
