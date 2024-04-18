@@ -4,6 +4,9 @@
 
 - https://github.com/BohdanOrlov/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ESSENTIALROADMAP.png
 - https://medium.com/@andres.carort/ios-developer-roadmap-2023-330fd5cb7479
+- https://github.com/M1zz/iOS-developer-roadmap-2022
+- https://github.com/andreytorlopovold/iOS-Developer-Roadmap
+- https://trello.com/templates/engineering/swift-developer-roadmap-hLGyiEEE
 
 
 
