@@ -1,6 +1,9 @@
 ### Computer Science Basics
 
 - https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/ComputerScience.md
+https://www.jointaro.com/question/3xg5SvXnyTQ0mhNLfbK1/how-to-ai-proof-your-career/
+
+
 
 - https://github.com/BohdanOrlov/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ESSENTIALROADMAP.png
 - https://medium.com/@andres.carort/ios-developer-roadmap-2023-330fd5cb7479
