@@ -2,7 +2,11 @@
 # Computer  Science
 
 - https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/ComputerScience.md
+
+- 
 https://natureofcode.com/
+
+https://t.co/76XJNI9wwN
 ### Hiring Search
 
 - https://hiring-search.careerflow.ai/
