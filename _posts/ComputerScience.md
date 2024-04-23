@@ -7,6 +7,15 @@
 https://natureofcode.com/
 
 https://t.co/76XJNI9wwN
+
+- https://x.com/malisauskasLT/status/1782664449402224782
+-
+-
+-
+-
+-
+
+
 ### Hiring Search
 
 - https://hiring-search.careerflow.ai/
