@@ -2,6 +2,7 @@
 
 - https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/ComputerScience.md
 https://www.jointaro.com/question/3xg5SvXnyTQ0mhNLfbK1/how-to-ai-proof-your-career/
+https://hygraph.com/learn/graphql
 
 
 
