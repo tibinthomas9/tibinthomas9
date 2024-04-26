@@ -1,26 +1,30 @@
 ### Computer Science Basics
 
 - https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/ComputerScience.md
-https://www.jointaro.com/question/3xg5SvXnyTQ0mhNLfbK1/how-to-ai-proof-your-career/
-https://hygraph.com/learn/graphql
+
+  
+- https://www.jointaro.com/question/3xg5SvXnyTQ0mhNLfbK1/how-to-ai-proof-your-career/
+- https://hygraph.com/learn/graphql
 
 
-
-- https://github.com/BohdanOrlov/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ESSENTIALROADMAP.png
-- https://medium.com/@andres.carort/ios-developer-roadmap-2023-330fd5cb7479
-- https://github.com/M1zz/iOS-developer-roadmap-2022
-- https://github.com/andreytorlopovold/iOS-Developer-Roadmap
-- https://trello.com/templates/engineering/swift-developer-roadmap-hLGyiEEE
-
-
-
-  [iOS and Swift Tree Diagram](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/SwiftAndiOS-Tree.text)
 
 ### Pending items to add
 
 https://twitter.com/the_gonchar/status/1765100853160194483
 https://gizemturker.com/
 https://developer.apple.com/tutorials/develop-in-swift
+
+## Roadmap
+- https://github.com/BohdanOrlov/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ESSENTIALROADMAP.png
+- https://medium.com/@andres.carort/ios-developer-roadmap-2023-330fd5cb7479
+- https://github.com/M1zz/iOS-developer-roadmap-2022
+- https://github.com/andreytorlopovold/iOS-Developer-Roadmap
+- https://trello.com/templates/engineering/swift-developer-roadmap-hLGyiEEE
+- https://iosacademy.essentialdeveloper.com/ios-architect-crash-course/april-2024-f9eb/#1
+
+
+
+  [iOS and Swift Tree Diagram](https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/SwiftAndiOS-Tree.text)
 
 
 
