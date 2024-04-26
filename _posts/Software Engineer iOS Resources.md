@@ -10,9 +10,10 @@
 
 ### Pending items to add
 
-https://twitter.com/the_gonchar/status/1765100853160194483
-https://gizemturker.com/
-https://developer.apple.com/tutorials/develop-in-swift
+- https://twitter.com/the_gonchar/status/1765100853160194483
+- https://gizemturker.com/
+- https://developer.apple.com/tutorials/develop-in-swift
+- https://antran.app/2024/mlx_getting_started/
 
 ## Roadmap
 - https://github.com/BohdanOrlov/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ESSENTIALROADMAP.png
