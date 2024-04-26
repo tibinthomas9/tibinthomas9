@@ -509,6 +509,7 @@ Interviews
 -  https://www.testdome.com/tests/ios-swift-online-test/161
 - [SwiftUI Interview Questions and Answers](https://ishtiz.com/swiftui/swiftui-interview-questions-and-answers-part-1):
 - https://gist.github.com/greencoppercompany/9a17404cd3b8abe77b6d483b16774d7b
+- https://replit.com/@dmyma/Swift-knowledge#main.swift
 
 
 -------------------------------------------------------------------------------------------------------------------------
