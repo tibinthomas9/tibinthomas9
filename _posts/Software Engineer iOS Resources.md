@@ -21,6 +21,7 @@ https://developer.apple.com/tutorials/develop-in-swift
 - https://github.com/andreytorlopovold/iOS-Developer-Roadmap
 - https://trello.com/templates/engineering/swift-developer-roadmap-hLGyiEEE
 - https://iosacademy.essentialdeveloper.com/ios-architect-crash-course/april-2024-f9eb/#1
+- https://www.hackingwithswift.com/files/swift-coding-challenges-toc.pdf
 
 
 
