@@ -3,13 +3,13 @@
 
 - https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/ComputerScience.md
 
-- 
-https://natureofcode.com/
+- https://natureofcode.com/
+- https://adventofcode.com/
 
-https://t.co/76XJNI9wwN
+- https://t.co/76XJNI9wwN
 
 - https://x.com/malisauskasLT/status/1782664449402224782
--https://hygraph.com/learn/graphql
+- https://hygraph.com/learn/graphql
 -
 -
 -
