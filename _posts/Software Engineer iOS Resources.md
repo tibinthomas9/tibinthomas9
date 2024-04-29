@@ -6,6 +6,7 @@
 ### pending
 
   - https://www.learnandcodewithenid.com/ (visuals)
+  - https://www.swiftwithvincent.com/?offset=1675699980546
 - https://www.jointaro.com/question/3xg5SvXnyTQ0mhNLfbK1/how-to-ai-proof-your-career/
 - https://hygraph.com/learn/graphql
 - http://www.codespaghetti.com/interview-success/
