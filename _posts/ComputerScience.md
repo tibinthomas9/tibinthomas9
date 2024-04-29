@@ -10,8 +10,8 @@
 
 - https://x.com/malisauskasLT/status/1782664449402224782
 - https://hygraph.com/learn/graphql
--
--
+-https://read.highgrowthengineer.com/p/why-reading-whitepapers-takes-your
+- http://www.codespaghetti.com/interview-success/
 -
 -
 
