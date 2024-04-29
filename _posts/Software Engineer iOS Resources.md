@@ -2,6 +2,8 @@
 
 - https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/ComputerScience.md
 
+
+### pending
   
 - https://www.jointaro.com/question/3xg5SvXnyTQ0mhNLfbK1/how-to-ai-proof-your-career/
 - https://hygraph.com/learn/graphql
@@ -11,6 +13,7 @@
 - https://sarunw.com/posts/how-to-modularize-existing-ios-projects-using-swift-package/
 - https://www.reddit.com/r/iOSProgramming/comments/phkvrw/what_are_the_indicators_of_a_true_senior_ios/
 - https://www.deveagency.com/projects/open-ai-app
+- https://swiftandtips.com/is-mvvm-necessary-for-developing-apps-with-swiftui
 
 
 
