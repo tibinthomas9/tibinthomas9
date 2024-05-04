@@ -16,6 +16,7 @@
 - https://www.reddit.com/r/iOSProgramming/comments/phkvrw/what_are_the_indicators_of_a_true_senior_ios/
 - https://www.deveagency.com/projects/open-ai-app
 - https://swiftandtips.com/is-mvvm-necessary-for-developing-apps-with-swiftui
+https://swiftui-lab.com/
 
 
 
