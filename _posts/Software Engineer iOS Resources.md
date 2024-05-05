@@ -11,6 +11,7 @@
 - https://hygraph.com/learn/graphql
 - http://www.codespaghetti.com/interview-success/
 - https://adventofcode.com/
+- https://natureofcode.com/
 - https://seanallen.teachable.com/
 - https://sarunw.com/posts/how-to-modularize-existing-ios-projects-using-swift-package/
 - https://www.reddit.com/r/iOSProgramming/comments/phkvrw/what_are_the_indicators_of_a_true_senior_ios/
