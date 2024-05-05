@@ -18,6 +18,7 @@
 - https://www.deveagency.com/projects/open-ai-app
 - https://swiftandtips.com/is-mvvm-necessary-for-developing-apps-with-swiftui
 https://swiftui-lab.com/
+https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/
 
 
 
