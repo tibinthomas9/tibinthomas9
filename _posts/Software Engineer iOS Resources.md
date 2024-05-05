@@ -13,6 +13,7 @@
 - https://adventofcode.com/
 - https://natureofcode.com/
 - https://seanallen.teachable.com/
+- https://www.douggregor.net/
 - https://sarunw.com/posts/how-to-modularize-existing-ios-projects-using-swift-package/
 - https://www.reddit.com/r/iOSProgramming/comments/phkvrw/what_are_the_indicators_of_a_true_senior_ios/
 - https://www.deveagency.com/projects/open-ai-app
