@@ -30,6 +30,9 @@ https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/
 - https://developer.apple.com/tutorials/develop-in-swift
 - https://antran.app/2024/mlx_getting_started/
 
+## Kotlin as an ios dev
+- https://medium.com/@domen.lanisnik/swift-cheatsheet-for-android-kotlin-developers-19cce41e54c6
+
 ## Roadmap
 - https://github.com/BohdanOrlov/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ESSENTIALROADMAP.png
 - https://medium.com/@andres.carort/ios-developer-roadmap-2023-330fd5cb7479
