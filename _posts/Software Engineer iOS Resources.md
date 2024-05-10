@@ -20,6 +20,10 @@
 - https://swiftandtips.com/is-mvvm-necessary-for-developing-apps-with-swiftui
 https://swiftui-lab.com/
 https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/
+- https://itnext.io/service-oriented-architecture-in-swift-362dc454fc09
+- https://ilya.puchka.me/dependency-injection-in-swift/
+- https://lucasvandongen.dev/dependency_injection_swift_swiftui.php
+- https://www.cocoawithlove.com/blog/separated-services-layer.html
 
 
 
