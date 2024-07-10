@@ -24,7 +24,8 @@ https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/
 - https://ilya.puchka.me/dependency-injection-in-swift/
 - https://lucasvandongen.dev/dependency_injection_swift_swiftui.php
 - https://www.cocoawithlove.com/blog/separated-services-layer.html
-- chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.apple.com/au/education/docs/app-design-workbook-AU.pdf
+- chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/
+- https://www.apple.com/au/education/docs/app-design-workbook-AU.pdf
 
 
 
