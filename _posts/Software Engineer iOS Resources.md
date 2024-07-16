@@ -27,6 +27,7 @@ https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/
 - chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/
 - https://www.apple.com/au/education/docs/app-design-workbook-AU.pdf
 - https://www.linkedin.com/posts/alexcancode_programming-coding-softwareengineer-activity-7219062620014731264-cE4y?utm_source=share&utm_medium=member_desktop
+- https://swiftwithmajid.com/2022/01/12/microapps-architecture-in-swift-spm-basics/
 
 
 
