@@ -2,6 +2,10 @@
 
 - https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/ComputerScience.md
 
+## Tips
+
+- When using svg flie as image asset, make sure the image does not have an opacity property, Else, the colors would always be dimmed and might not get desired results
+
 
 ### pending
 
