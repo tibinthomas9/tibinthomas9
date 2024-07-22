@@ -41,6 +41,7 @@ https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/
 - https://gizemturker.com/
 - https://developer.apple.com/tutorials/develop-in-swift
 - https://antran.app/2024/mlx_getting_started/
+- https://docs.google.com/spreadsheets/u/0/d/1Kbkm_jPdgV2qwhoRFIufCass8u2k-h4Xxuj0r7tXYZo/htmlview
 
 ## Kotlin as an ios dev
 - https://medium.com/@domen.lanisnik/swift-cheatsheet-for-android-kotlin-developers-19cce41e54c6
