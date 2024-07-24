@@ -8,7 +8,7 @@
 
 
 ### pending
-
+- https://swiftyplace.com/blog/swiftui-picker-made-easy-tutorial-with-example
   - https://www.learnandcodewithenid.com/ (visuals)
   - https://www.swiftwithvincent.com/?offset=1675699980546
 - https://www.jointaro.com/question/3xg5SvXnyTQ0mhNLfbK1/how-to-ai-proof-your-career/
