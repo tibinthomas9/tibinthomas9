@@ -8,6 +8,8 @@
 
 
 ### pending
+
+https://www.uber.com/en-GB/blog/live-activity-on-ios/
 - https://swiftyplace.com/blog/swiftui-picker-made-easy-tutorial-with-example
   - https://www.learnandcodewithenid.com/ (visuals)
   - https://www.swiftwithvincent.com/?offset=1675699980546
