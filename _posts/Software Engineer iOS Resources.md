@@ -8,6 +8,7 @@
 
 
 ### pending
+- https://xcode.tips/
 
 - https://www.uber.com/en-GB/blog/live-activity-on-ios/
 - https://www.vadimbulavin.com/passing-data-between-swiftui-views/
