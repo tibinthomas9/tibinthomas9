@@ -10,6 +10,7 @@
 ### pending
 - https://xcode.tips/
 - https://prepfully.com/interview-guides/google-ios-engineer
+- https://blog.jacobstechtavern.com/p/impress-at-job-interviews-by-decompiling
 
 - https://www.uber.com/en-GB/blog/live-activity-on-ios/
 - https://www.vadimbulavin.com/passing-data-between-swiftui-views/
