@@ -8,6 +8,7 @@
 
 
 ### pending
+- https://www.massicotte.org/
 - https://xcode.tips/
 - https://prepfully.com/interview-guides/google-ios-engineer
 - https://blog.jacobstechtavern.com/p/impress-at-job-interviews-by-decompiling
