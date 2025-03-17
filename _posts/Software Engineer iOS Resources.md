@@ -8,6 +8,7 @@
 
 
 ### pending
+- https://fatbobman.com/en/posts/developing-embedded-applications-with-swift/
 - https://www.massicotte.org/
 - https://xcode.tips/
 - https://prepfully.com/interview-guides/google-ios-engineer
