@@ -94,6 +94,8 @@ iOS: SwiftUI And TvoS
 [_posts/swiftui.md]
 (https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/swiftui.md)
 
+- https://medium.com/@wesleymatlock/why-your-swiftui-app-is-slower-than-you-think-c3e9bb46174b
+
 
 
 
