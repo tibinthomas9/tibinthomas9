@@ -13,6 +13,7 @@
 - https://xcode.tips/
 - https://prepfully.com/interview-guides/google-ios-engineer
 - https://blog.jacobstechtavern.com/p/impress-at-job-interviews-by-decompiling
+- https://medium.com/@thanhqhc/build-your-ios-library-mcp-server-to-supercharge-ai-agent-search-4734f72e520a
 
 - https://www.uber.com/en-GB/blog/live-activity-on-ios/
 - https://www.vadimbulavin.com/passing-data-between-swiftui-views/
