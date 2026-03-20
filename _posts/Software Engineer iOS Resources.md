@@ -6,6 +6,36 @@
 
 - When using svg flie as image asset, make sure the image does not have an opacity property, Else, the colors would always be dimmed and might not get desired results
 
+-  interview a lot of iOS engineers.
+
+And almost all of them do the same thing — rush to flex the Apple ecosystem.
+
+SwiftUI. Combine. UIKit. Core Data.
+
+I get it. Apple built something beautiful.
+
+But Apple built it. You didn't.
+
+Your job is to build something creative and resilient on top of it.
+
+The best mobile engineers I've worked with don't think in components — they think in systems.
+
+They ask:
+→ What happens when the network drops?
+→ How does this feature age across 5 app versions?
+→ What's the real cost — battery, memory, latency?
+
+Mobile is not a UI job.
+It's a distributed systems job with a screen attached.
+
+Yet most candidates can't sketch an HLD for the feature they ship every sprint.
+
+The platform is the floor. Not the ceiling.
+
+Learn HLD. Learn LLD. Own features end to end.
+
+That's what separates a platform user from a product engineer.
+
 
 ### pending
 - https://blog.jacobstechtavern.com/p/copy-on-write-swift-internals
