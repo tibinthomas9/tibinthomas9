@@ -38,6 +38,7 @@ That's what separates a platform user from a product engineer.
 
 
 ### pending
+- https://bleepingswift.com/checklists
 - https://blog.jacobstechtavern.com/p/copy-on-write-swift-internals
 - https://www.jointaro.com/interviews/taro-75/
 - https://fatbobman.com/en/posts/developing-embedded-applications-with-swift/
