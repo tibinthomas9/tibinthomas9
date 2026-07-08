@@ -32,6 +32,7 @@ iOS
 * https://github.com/vsouza/awesome-ios#architecture-patterns
 * https://twitter.com/art_garzajr/status/1506796114808393733 (iOS interview)
 * https://github.com/dashvlas/awesome-ios-interview/blob/master/Resources/English.md
+* https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/iosDevRoadmap.webp
 
 Coding
 
