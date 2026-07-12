@@ -35,6 +35,7 @@ Roadmaps to follow to improve careeer:
 - https://github.com/mtdvio/every-programmer-should-know
 - https://roadmap.sh/ai/roadmap-chat/ios
 - https://roadmap.sh/swift-ui
+- https://github.com/tibinthomas9/tibinthomas9/blob/master/_posts/iosDevRoadmap.webp
 - https://roadmap.sh/r/product-roadmap-hmv4k
 
 
