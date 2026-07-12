@@ -24,6 +24,20 @@ Here are some ideas to get you started:  -->
 
 - [Medium blogs](https://medium.com/@tibinmutholy)
 - [Awesome SwiftUI](https://github.com/ygit/swiftui)
+
+
+
+Roadmaps to follow to improve careeer:
+- https://roadmap.sh/forward-deployed-engineer
+- https://roadmap.sh/system-design
+- https://roadmap.sh/software-architect
+- https://roadmap.sh/computer-science
+- https://github.com/mtdvio/every-programmer-should-know
+- https://roadmap.sh/ai/roadmap-chat/ios
+- https://roadmap.sh/swift-ui
+- https://roadmap.sh/r/product-roadmap-hmv4k
+
+
 - 🌱 I’m currently learning everything I could
 - 👯 I’m looking to collaborate on open-source startup ideas
 - 🤔 I’m looking for help with building ideas into product
